@@ -201,7 +201,6 @@ EnglishTwoEvaluate/
 ## 部署注意事项
 
 - **务必设置 `JWT_SECRET_KEY`** — [agent/auth/service.py](agent/auth/service.py) 中带有开发用的默认密钥。生产环境若沿用默认值，任何人都可伪造 token。
-- **`.env` 不要提交** — 已在 `.gitignore` 中排除，请从 `.env.example` 复制后填入自己的密钥。
 - **用户数据目录** — `data/*.db` 与 `evaluation_reports/` 含用户邮箱、密码哈希与作文原文，同样已排除在版本控制之外。
 - **用户体系尚未接入 Web 路由** — `agent/auth/` 已实现注册、密码登录、验证码登录、重置密码与资料修改，但目前仅作为后端能力存在，`server.py` 尚未暴露 `/api/auth/*` 接口，前端也未接入。
 
