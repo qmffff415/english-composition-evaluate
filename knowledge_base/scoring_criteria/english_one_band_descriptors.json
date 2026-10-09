@@ -1,0 +1,182 @@
+{
+  "module": "scoring_criteria",
+  "exam_category": "英语一",
+  "type": "band_descriptors",
+  "description": "全国硕士研究生招生考试英语（一）官方大纲写作评分档次详细描述规范（教育部教育考试院大纲标准）",
+  "big_essay_bands": [
+    {
+      "band": 5,
+      "band_name": "第五档（高分档）",
+      "score_range": "17-20分",
+      "general_description": "很好地完成了试题规定的任务。包含所有内容要点；使用丰富的语法结构和词汇；语言自然流畅，仅有极个别非关键小错；有效地使用语句间衔接手段；图画描述生动贴切，寓意揭示深刻入微；格式和语域完全符合要求。",
+      "criteria_breakdown": {
+        "content": "精准捕捉并生动描绘图画所有核心要素与文字说明，开门见山点题；深层寓意提炼准确且深刻，多维度展开剖析，末段对策切实有力。",
+        "organization": "层次极其分明，段落划分比例极佳，熟练使用多种过渡词句和衔接手法，行文浑然一体。",
+        "vocabulary": "学术词汇量丰富且运用得体，体现词汇广度与深度，无生硬拼凑与中式英语。",
+        "grammar": "能灵活熟练使用多种高级复杂语法结构（如非谓语动词、各类从句、倒装句、虚拟语气），语法错误极少甚至零失误。",
+        "format_register": "完全符合论说文写作规范，行文客观辩证，语域庄重正式。"
+      },
+      "typical_features": [
+        "词数完全达标（180-220词最佳）",
+        "使用至少3种以上复杂句型（倒装、状语从句、分词伴随）",
+        "包含与图画主题紧密相关的高级主题词与地道短语",
+        "卷面清晰工整"
+      ]
+    },
+    {
+      "band": 4,
+      "band_name": "第四档（良好档）",
+      "score_range": "13-16分",
+      "general_description": "较好地完成了试题规定的任务。包含大部分或全部内容要点；使用较丰富的语法结构和词汇；语言有少量错误但不影响意义表达；有效使用衔接手段；图画描述较清晰，寓意明确。",
+      "criteria_breakdown": {
+        "content": "切题，描述包含主要图画特征，阐释了核心象征寓意，提出相应见解或建议，论证较充分。",
+        "organization": "段落划分合理，逻辑清晰，行文较流畅，具备基本的过渡段句。",
+        "vocabulary": "词汇量较充实，用词基本恰当，偶有搭配不当或个别拼写失误。",
+        "grammar": "句式结构较有变化，能够运用复合句，存在少量语法小错（如单复数、冠词），但不影响整体理解。",
+        "format_register": "符合议论文文体规范，语域大体得当。"
+      },
+      "typical_features": [
+        "词数达到大纲标准（160-190词）",
+        "以主从复合句为主，夹杂少量亮点句式",
+        "论证较为全面，逻辑较为顺畅"
+      ]
+    },
+    {
+      "band": 3,
+      "band_name": "第三档（及格档）",
+      "score_range": "9-12分",
+      "general_description": "基本完成了试题规定的任务。虽漏掉一些内容，但包含主要要点；应用的语法结构和词汇能满足基本任务；有一些语言错误，但基本不影响理解；应用简单的衔接手段；图画描述略粗或寓意分析空泛。",
+      "criteria_breakdown": {
+        "content": "基本切题，提到图画大致内容并试图阐释寓意，但描述简略或寓意流于表面，套话偏多，缺乏深入分析。",
+        "organization": "段落基本成型，但逻辑松散，衔接词机械死板（重复使用First, Second, Third, What's more）。",
+        "vocabulary": "词汇单一，反复使用初级词汇（good, bad, think, people, very），有中式表达。",
+        "grammar": "以简单句为主，存在较多时态、主谓一致、介词搭配错误，复合句较少且容易出现句式瑕疵。",
+        "format_register": "格式基本符合，但语气略欠成熟。"
+      },
+      "typical_features": [
+        "字数在140-160词左右，略显单薄",
+        "模板套用痕迹明显，个性化与针对性论述较少",
+        "基础语法错误较多"
+      ]
+    },
+    {
+      "band": 2,
+      "band_name": "第二档（不及格档）",
+      "score_range": "5-8分",
+      "general_description": "未能按要求完成任务。严重遗漏核心要点或偏离主题；对图画理解有误；词汇和语法错误严重影响理解；篇章缺乏连贯性。",
+      "criteria_breakdown": {
+        "content": "严重偏题或误读图画寓意，描述与论证大面积脱节，通篇无关套话。",
+        "organization": "缺乏合理段落划分，句际关系混乱，逻辑不通。",
+        "vocabulary": "词汇极度贫乏，拼写错误密集，大量滥用词汇。",
+        "grammar": "语法语病连篇，出现大量无谓语、双谓语等严重碎裂病句。",
+        "format_register": "文不成篇。"
+      },
+      "typical_features": [
+        "词数不足（通常少于120词）",
+        "通篇病句阻碍阅读理解",
+        "跑题偏题"
+      ]
+    },
+    {
+      "band": 1,
+      "band_name": "第一档（极低分档）",
+      "score_range": "1-4分",
+      "general_description": "未完成试题规定的任务。严重偏离图画主题；仅写出零散断句或词汇拼凑；语言错误极其严重。",
+      "criteria_breakdown": {
+        "content": "仅有零星词汇，无法传达任何有效信息。",
+        "organization": "不成段落，无逻辑可言。",
+        "vocabulary": "词汇极少，错误极多。",
+        "grammar": "不成句子。"
+      },
+      "typical_features": [
+        "字数不足60词",
+        "无法阅读"
+      ]
+    }
+  ],
+  "small_essay_bands": [
+    {
+      "band": 5,
+      "band_name": "第五档（高分档）",
+      "score_range": "9-10分",
+      "general_description": "很好地完成了试题任务。包含所有内容要点；语言丰富流畅；格式与语域完全符合应用文规范；仅有极个别笔误。",
+      "criteria_breakdown": {
+        "content": "题目要求的所有要点全部覆盖并充分展开，信息合理充实。",
+        "organization": "段落清晰（标准三段），过渡自然，首尾呼应。",
+        "vocabulary": "词汇丰富得体，符合公文或书信礼仪。",
+        "grammar": "语法准确，句式有适度变化。",
+        "format_register": "称呼、署名、通知标题、排版规范，语域高度得体。"
+      },
+      "typical_features": [
+        "词数100-130词",
+        "书信/通知格式完美",
+        "无明显语法失误"
+      ]
+    },
+    {
+      "band": 4,
+      "band_name": "第四档（良好档）",
+      "score_range": "7-8分",
+      "general_description": "较好地完成了试题任务。包含主要要点；语言基本准确，有少量小错但不影响理解；格式与语域基本符合要求。",
+      "criteria_breakdown": {
+        "content": "覆盖所有或主要要点，展开基本合理。",
+        "organization": "段落清楚，行文较顺畅。",
+        "vocabulary": "词汇满足表达需要，用词基本恰当。",
+        "grammar": "语法较准确，偶有少量失误。",
+        "format_register": "格式基本合规，称呼落款齐备。"
+      },
+      "typical_features": [
+        "词数90-110词",
+        "格式完整"
+      ]
+    },
+    {
+      "band": 3,
+      "band_name": "第三档（及格档）",
+      "score_range": "5-6分",
+      "general_description": "基本完成了试题任务。虽漏掉一些内容，但包含主要要点；语法和词汇能满足基本需求，但错误较多；格式有小瑕疵。",
+      "criteria_breakdown": {
+        "content": "遗漏部分次要要点或阐述过简。",
+        "organization": "结构稍散，衔接简单。",
+        "vocabulary": "词汇简单，有中式表达。",
+        "grammar": "语法错误较多（时态、单复数）。",
+        "format_register": "格式略有瑕疵（漏标点、署名不对）。"
+      },
+      "typical_features": [
+        "词数80-90词左右",
+        "格式偶有小错"
+      ]
+    },
+    {
+      "band": 2,
+      "band_name": "第二档（不及格档）",
+      "score_range": "3-4分",
+      "general_description": "未能按要求完成任务。严重漏掉要点；语言错误严重影响理解；格式严重错误。",
+      "criteria_breakdown": {
+        "content": "严重漏要点或偏题。",
+        "organization": "无清晰分段，逻辑断裂。",
+        "vocabulary": "用词不当，错误连篇。",
+        "grammar": "病句繁多，严重影响理解。",
+        "format_register": "格式缺失（无称呼/署名）。"
+      },
+      "typical_features": [
+        "词数不足70词"
+      ]
+    },
+    {
+      "band": 1,
+      "band_name": "第一档（极低分档）",
+      "score_range": "1-2分",
+      "general_description": "未完成任务。仅写出零散词句，不成篇章。",
+      "criteria_breakdown": {
+        "content": "内容残缺。",
+        "organization": "杂乱无章。",
+        "vocabulary": "孤立词汇。",
+        "grammar": "不成句。"
+      },
+      "typical_features": [
+        "词数不足40词"
+      ]
+    }
+  ]
+}

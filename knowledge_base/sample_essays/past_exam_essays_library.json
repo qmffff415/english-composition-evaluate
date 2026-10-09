@@ -1,0 +1,1843 @@
+[
+  {
+    "id": "past_2025_part_a",
+    "year": 2025,
+    "type": "小作文",
+    "sub_type": "邮件/邀请信",
+    "title": "计划排演经典小说短剧，写邮件邀请外国朋友John参加",
+    "prompt_en": "Suppose you are planning a short play based on a classic Chinese novel. Write your friend John an email to: 1) introduce the play, and 2) invite him to take part in it.",
+    "prompt_cn": "假设你正在计划一部基于中国经典小说的短剧。给你的朋友John写一封电子邮件：1) 介绍该短剧；2) 邀请他参加。词数100词左右，署名使用 Li Ming。",
+    "word_count": 118,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear John,\n\n    I am writing to share some exciting news with you. Our drama club is currently planning a short stage play adapted from the classic Chinese novel \"Journey to the West\", and I would love to invite you to join us.\n\n    The play highlights the adventurous spirit and teamwork of the Monkey King and his companions, featuring vibrant traditional costumes and expressive stage dialogues. Given your keen interest in traditional Chinese culture and your impressive acting talent, we believe you would be an ideal candidate for one of the key supporting roles. Rehearsals will commence next Saturday afternoon in the university auditorium.\n\n    It would be fantastic to have you on board. Please let me know your decision at your earliest convenience.\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段开门见山说明写信意图并发出邀请；次段生动介绍短剧内容并阐明邀请对方的理由；末段礼貌期盼回复并表达热情。",
+      "scoring_points": [
+        "完全覆盖短剧介绍与邀请要点",
+        "交代排练时间与地点，信息饱满",
+        "语域亲切得体，格式完全合规"
+      ],
+      "highlights": [
+        "adapted from the classic Chinese novel (分词后置定语)",
+        "Given your keen interest in... (鉴于/考虑到，高级因果引导)",
+        "an ideal candidate for... (理想人选)",
+        "at your earliest convenience (得体的公文与书信收尾句)"
+      ]
+    },
+    "category": "邮件/邀请信",
+    "chart_type": "邮件/邀请信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2025_part_b",
+    "year": 2025,
+    "type": "大作文",
+    "chart_type": "柱状图（bar chart）",
+    "title": "某社区老年人日常休闲/业余活动类型调查",
+    "prompt_en": "Write an essay based on the chart below. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "图表展示了某社区老年人主要日常业余休闲活动类型及参与比例（体育健身42%、文化娱乐31%、数字阅读/社交18%、其他9%）。请描述图表并给出评论分析。",
+    "word_count": 172,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The bar chart above clearly illustrates the distribution of leisure activities among the elderly in a certain community. As is vividly revealed by the data, physical fitness ranks first, accounting for 42%, closely followed by cultural and entertainment pursuits at 31%. In contrast, digital reading and social networking comprise 18%, while other miscellaneous activities take up the remaining 9%.\n\nA multitude of driving factors contribute to this social phenomenon. Foremost among them is the growing health consciousness among senior citizens, who increasingly prioritize longevity and physical well-being through routine outdoor exercise. Furthermore, the expansion of community cultural centers provides senior residents with accessible venues for singing, dancing, and chess, thereby enriching their spiritual retirement life. Lastly, the steady rise in digital entertainment reflects the gradual adaptation of the silver generation to modern smartphone technology.\n\nIn conclusion, the diverse leisure choices demonstrate a significant improvement in the quality of life for the elderly. To foster an age-friendly society, communities should continue investing in accessible recreational facilities.",
+    "analysis": {
+      "structure": "第一段规范点出图表主题并由高到低对比数据；第二段从健康意识、社区设施、银发族触网三个维度深入归因；第三段总结提炼并对适老化社会建设提出积极展望。",
+      "scoring_points": [
+        "核心数据与占比词汇多样（account for, closely followed by, comprise）",
+        "归因紧扣人口老龄化背景与时代特征",
+        "逻辑链条清晰递进"
+      ],
+      "highlights": [
+        "ranks first, accounting for... (伴随分词表数据)",
+        "Foremost among them is... (倒装强调主因)",
+        "health consciousness (健康意识)",
+        "the silver generation (银发一代/老年群体的高级地道表达)",
+        "foster an age-friendly society (构建老年友好型社会)"
+      ]
+    },
+    "category": "柱状图（bar chart）",
+    "sub_type": "柱状图（bar chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2024_part_a",
+    "year": 2024,
+    "type": "小作文",
+    "sub_type": "邮件/建议与方案信",
+    "title": "与Jack合作开展古镇老建筑保护调查，写邮件提出计划并征求意见",
+    "prompt_en": "Suppose you and Jack are going to do a survey on the protection of old houses in an ancient town. Write him an email to: 1) put forward your plan, and 2) ask for his opinion.",
+    "prompt_cn": "假设你和Jack打算对古镇老房子保护情况展开调研。写邮件给他：1) 提出你的初步调查方案；2) 征求他的意见。词数100词左右，署名 Li Ming。",
+    "word_count": 121,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Jack,\n\n    I am writing to share my tentative plan regarding our upcoming field survey on the preservation of old houses in the ancient town.\n\n    To make our investigation both efficient and comprehensive, I suggest we divide our work into two phases over the coming weekend. On Saturday, we can conduct on-site inspections, taking photographs of the architectural structures and evaluating their physical damage. On Sunday, we could distribute questionnaires to local residents and interview village elders to understand historical records and current protection difficulties. Afterwards, we can compile the findings into a research report.\n\n    Do you have any suggestions or alternative ideas about this schedule? Please feel free to let me know.\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "第一段开门见山说明关于古镇调研方案的来信目的；第二段分两阶段规划周末实地调研与问卷访谈；第三段礼貌征询建议。",
+      "scoring_points": [
+        "计划详实具备很高的实操性",
+        "要点齐全，征询语气诚恳",
+        "词汇搭配精准自然"
+      ],
+      "highlights": [
+        "tentative plan regarding... (关于...的初步规划)",
+        "conduct on-site inspections (开展实地勘查)",
+        "distribute questionnaires to... (发放问卷)",
+        "compile the findings into a report (将调研结果整理成报告)"
+      ]
+    },
+    "category": "邮件/建议与方案信",
+    "chart_type": "邮件/建议与方案信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2024_part_b",
+    "year": 2024,
+    "type": "大作文",
+    "chart_type": "柱状图（bar chart）",
+    "title": "某高校学生劳动实践课收获调查",
+    "prompt_en": "Write an essay based on the chart below, which shows the benefits gained by university students from labor practice courses. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "图表展示了某高校大学生从劳动实践课程中的各项收获：获取知识 90%、动手操作能力 80%、心情愉悦 50%、合作精神 30%。写一篇作文解读图表并发表评论。",
+    "word_count": 178,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The bar chart above provides a clear breakdown of the benefits acquired by college students from labor practice courses. As depicted in the data, the vast majority of students, accounting for 90%, report that they gained practical knowledge. Following closely, 80% of participants improved their hands-on skills, while experiencing pleasure and cultivating cooperative spirit take up 50% and 30% respectively.\n\nSeveral crucial factors explain why labor education yields such fruitful outcomes. Primary among these is that combining theoretical classroom instruction with practical physical work enables undergraduates to deepen their academic understanding in real-life contexts. In addition, performing tangible tasks provides youngsters with an effective emotional outlet to relieve academic stress, bringing about genuine happiness. Finally, collaborative labor endeavors cultivate problem-solving capacities and interpersonal teamwork.\n\nFrom my perspective, labor courses are indispensable for well-rounded higher education. Universities should organize more diversified labor activities to encourage students to embrace both knowledge acquisition and holistic character building.",
+    "analysis": {
+      "structure": "第一段精准归纳四大维度百分比数据；第二段从理论联系实际、压力释放、团队协作三个层次深刻剖析收获原因；第三段升华劳动教育对全面发展的长远价值。",
+      "scoring_points": [
+        "数据层次分明且表达多样化",
+        "因果论证逻辑闭环",
+        "用词正式有深度"
+      ],
+      "highlights": [
+        "provides a clear breakdown of... (提供了...的清晰明细)",
+        "improved their hands-on skills (提升动手实操技能)",
+        "tangible tasks (具象实际的任务)",
+        "an effective emotional outlet (有效的情感宣泄途径)",
+        "holistic character building (全面人格塑造)"
+      ]
+    },
+    "category": "柱状图（bar chart）",
+    "sub_type": "柱状图（bar chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2023_part_a",
+    "year": 2023,
+    "type": "小作文",
+    "sub_type": "邮件/建议与推荐信",
+    "title": "周日有艺术展和机器人展，朋友David询问去哪个，写邮件给出建议和理由",
+    "prompt_en": "An art exhibition and a robot show are to be held on Sunday, and your friend David asks you which one he should go to. Write an email to him to: 1) give your recommendation, and 2) give your reasons.",
+    "prompt_cn": "周日将同时举办艺术展和机器人展，朋友David来信咨询去哪一个。写邮件：1) 给出你的推荐；2) 详细说明理由。约100词，署名 Li Ming。",
+    "word_count": 124,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear David,\n\n    I am delighted to receive your message asking for advice. Between the upcoming art exhibition and the robot show, I would strongly recommend attending the robot show this Sunday.\n\n    There are two primary reasons behind my recommendation. First of all, the robot show features cutting-edge artificial intelligence and interactive humanoid robots, allowing visitors to experience futuristic technologies firsthand, which aligns perfectly with your major in computer science. Secondly, the art exhibition will run for an entire month, whereas the robot demonstration is a limited two-day event. Therefore, you can always visit the art gallery at a later date without missing either opportunity.\n\n    I am confident you will find the exhibition inspiring. Wish you a wonderful Sunday!\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段明确在二者中推荐机器人展；中段从贴合专业背景与时间窗口稀缺性两个极具说服力的角度说明理由；尾段表达美好祝愿。",
+      "scoring_points": [
+        "两点理由切中要害，逻辑极其严密",
+        "紧扣情境，用词鲜活",
+        "格式完全标准"
+      ],
+      "highlights": [
+        "strongly recommend attending... (强烈建议参加)",
+        "cutting-edge artificial intelligence (前沿人工智能)",
+        "aligns perfectly with your major in... (与你的...专业完美契合)",
+        "a limited two-day event (限时两天的活动)"
+      ]
+    },
+    "category": "邮件/建议与推荐信",
+    "chart_type": "邮件/建议与推荐信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2023_part_b",
+    "year": 2023,
+    "type": "大作文",
+    "chart_type": "折线图（line graph）",
+    "title": "2012至2021年我国居民健康素养水平变化情况",
+    "prompt_en": "Write an essay based on the chart below, which shows the changes in health literacy level of Chinese residents from 2012 to 2021. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "折线图反映了2012年至2021年我国居民健康素养水平从 8.8% 持续攀升至 25.4% 的显著变化趋势。请描述图表并深入剖析原因与评论。",
+    "word_count": 182,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The line graph presents a conspicuous upward trend in the health literacy level of Chinese residents from 2012 to 2021. As can be observed from the statistics, the literacy rate stood at merely 8.8% in 2012. Over the subsequent decade, this figure witnessed steady and continuous growth, eventually climbing to 25.4% in 2021, nearly tripling the initial level.\n\nThis encouraging transformation can be attributed to several pivotal factors. Above all, economic development and rising living standards have prompted individuals to shift their focus from basic material sustenance to physical wellness and preventive healthcare. In addition, the proactive implementation of national health initiatives, such as the Healthy China 2030 strategy, has greatly popularized medical hygiene knowledge. Moreover, modern digital platforms have made scientific health guidelines readily accessible to millions of households.\n\nTo encapsulate, the climbing curve mirrors our society's comprehensive advancement in wellness awareness. Looking ahead, continuous nationwide education will undoubtedly pave the way for a healthier population.",
+    "analysis": {
+      "structure": "首段描述折线图由 8.8% 持续增长到 25.4% 近乎翻三倍的宏观走势；次段从生活水平提升、健康中国政策引导、互联网科普普及三方面剖析深因；尾段总结与前瞻。",
+      "scoring_points": [
+        "折线图走势动态词汇丰富（upward trend, climbed to, tripling）",
+        "社会宏观归因站位高、视野广",
+        "论证严谨规范"
+      ],
+      "highlights": [
+        "a conspicuous upward trend (显著的上升趋势)",
+        "nearly tripling the initial level (几乎是最初水平的三倍)",
+        "shift their focus from... to... (将注意力从...转移到...)",
+        "preventive healthcare (预防性健康医疗)",
+        "pave the way for... (为...铺平道路)"
+      ]
+    },
+    "category": "折线图（line graph）",
+    "sub_type": "折线图（line graph）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2022_part_a",
+    "year": 2022,
+    "type": "小作文",
+    "sub_type": "邮件/通知与邀请信",
+    "title": "筹办校园美食节，给留学生写邮件介绍活动并邀请参加",
+    "prompt_en": "Suppose you are planning a campus food festival. Write an email to international students in your university to: 1) introduce the festival, and 2) invite them to attend.",
+    "prompt_cn": "假设你正在筹划校园美食节。请给本校留学生写一封邮件：1) 介绍美食节活动；2) 邀请他们参加。词数100词左右，署名 Zhang Wei。",
+    "word_count": 116,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear International Students,\n\n    On behalf of the Student Union, I am thrilled to inform you that our annual Campus Food Festival will take place next Friday, May 20th, in the Central Plaza.\n\n    Designed to celebrate culinary diversity and foster cultural exchange, the festival will feature authentic regional delicacies from across China, alongside interactive culinary workshops where participants can make traditional dumplings and noodles. In addition, you are welcome to set up international stalls to showcase cuisine from your own home countries. The festival will commence at 10:00 a.m. with free food vouchers provided upon registration.\n\n    We wholeheartedly invite you to join this gastronomic feast. We look forward to meeting you there!\n\nYours sincerely,\nZhang Wei",
+    "analysis": {
+      "structure": "首段亮明学生会身份并宣告美食节举办日期地点；次段详尽介绍各地特色佳肴、动手体验及设立国际摊位的双向交流机制；尾段发出诚挚邀请。",
+      "scoring_points": [
+        "完全遵循真题指定署名 Zhang Wei",
+        "文化交流互动切题生动",
+        "语言极为规范地道"
+      ],
+      "highlights": [
+        "culinary diversity (美食多样性)",
+        "foster cultural exchange (促进文化交流)",
+        "set up international stalls (设立国际美食摊位)",
+        "gastronomic feast (美食盛宴)"
+      ]
+    },
+    "category": "邮件/通知与邀请信",
+    "chart_type": "邮件/通知与邀请信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2022_part_b",
+    "year": 2022,
+    "type": "大作文",
+    "chart_type": "柱状图（bar chart）",
+    "title": "2018至2020年我国总快递件数与农村快递件数变化情况",
+    "prompt_en": "Write an essay based on the chart below, which shows the express delivery packages in China and rural areas from 2018 to 2020. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "柱状图展示2018-2020年中国快递总量从510亿件增长至840亿件，农村快递从120亿件激增至300亿件。写短文解读数据并分析评论。",
+    "word_count": 175,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The bar chart illustrates the dramatic expansion of China's express delivery industry between 2018 and 2020. According to the data, the total volume of delivery packages soared from 51 billion in 2018 to 84 billion in 2020. Concurrently, parcels handled in rural regions experienced even faster growth, surging from 12 billion to 30 billion over the same period, more than doubling in scale.\n\nTwo major engines propel this remarkable boom. On the one hand, the flourishing development of e-commerce platforms and digital payment systems has transformed retail patterns, enabling consumers to shop conveniently from home. On the other hand, sustained governmental investment in rural logistics infrastructure and telecommunication networks has successfully eliminated shipping barriers, allowing agricultural produce to reach nationwide markets efficiently.\n\nTo conclude, the rapid delivery growth reflects both economic vitality and narrowing urban-rural divides. It is projected that modern logistics will continue to stimulate domestic consumption and empower rural revitalization in the long run.",
+    "analysis": {
+      "structure": "第一段精炼对比全国总量与农村快递的飞速激增；第二段从电商下沉普及与国家农村物流新基建两个核心抓手剖析驱动力；第三段总结提炼其对乡村振兴的战略意义。",
+      "scoring_points": [
+        "数据动词使用极其高阶（soared, surging, doubling）",
+        "结合中国电商与农村发展现实",
+        "结尾升华深刻"
+      ],
+      "highlights": [
+        "dramatic expansion (剧烈扩张/迅猛增长)",
+        "rural logistics infrastructure (农村物流基础设施)",
+        "narrowing urban-rural divides (缩小城乡差距)",
+        "empower rural revitalization (赋能乡村振兴)"
+      ]
+    },
+    "category": "柱状图（bar chart）",
+    "sub_type": "柱状图（bar chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2021_part_a",
+    "year": 2021,
+    "type": "小作文",
+    "sub_type": "邮件/邀请信",
+    "title": "组织在线学术会议，给留学生Jack写邮件邀请参加并告知会议细节",
+    "prompt_en": "Suppose you are organizing an online meeting. Write an email to Jack, an international student, to: 1) invite him to attend, and 2) tell him the details.",
+    "prompt_cn": "假设你正在组织一场线上会议。给国际学生Jack写邮件：1) 邀请他出席；2) 告知会议具体细节（时间、议程、准备工作）。约100词，署名 Li Ming。",
+    "word_count": 115,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Jack,\n\n    I am writing to cordially invite you to an upcoming online academic symposium organized by our department on cross-cultural communication.\n\n    The virtual conference is scheduled for this Saturday, November 15th, from 2:00 p.m. to 4:30 p.m. via Zoom (Meeting ID: 888-2021). The primary agenda centers on intercultural adaptation and language learning experiences among international scholars. As an active student representative, your insights would be invaluable to our discussions. You are invited to deliver a brief five-minute opening remark regarding your study experience in China.\n\n    Please confirm your availability before this Thursday so that we can finalize the speaker list. Looking forward to seeing you online!\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段礼貌诚邀留学生Jack出席线上跨文化学术研讨会；次段给出精确会议时间、Zoom会议号、研讨主题及发言期望；尾段规定确认截止期。",
+      "scoring_points": [
+        "线上会议情境还原度极高（Zoom、议程、发言要求）",
+        "要点齐全，语气规范",
+        "无任何语法错误"
+      ],
+      "highlights": [
+        "cordially invite you to... (真诚地邀请你参加...)",
+        "cross-cultural communication (跨文化交际)",
+        "deliver a brief opening remark (发表简短开幕致辞)",
+        "confirm your availability (确认您的时间安排)"
+      ]
+    },
+    "category": "邮件/邀请信",
+    "chart_type": "邮件/邀请信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2021_part_b",
+    "year": 2021,
+    "type": "大作文",
+    "chart_type": "柱状图（bar chart）",
+    "title": "某市居民体育锻炼方式/偏好调查（独处、朋友同行、家人同行）",
+    "prompt_en": "Write an essay based on the chart below, which shows the survey results about exercise preferences among residents in a certain city. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "柱状图展示某市居民运动锻炼偏好方式：独自一人约54%、与朋友结伴约47%、与家人同行约23%。描述图表并深入剖析原因与评论。",
+    "word_count": 172,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The bar chart above outlines the diverse exercise patterns preferred by citizens in a particular city. As can be gleaned from the survey, exercising alone takes the lead, favored by 54% of respondents. Working out with friends constitutes the second largest proportion at 47%, while exercising alongside family members accounts for a comparatively smaller share of 23%.\n\nSeveral rationales account for these varying choices. To begin with, modern urban lifestyles are characterized by fast paces and fragmented schedules, making solitary workouts like jogging or home workouts the most flexible and time-efficient option. In addition, exercising with peers fulfills social needs, offering mutual encouragement and stress relief after demanding work. Conversely, differing physical stamina and busy schedules among family members frequently make coordinated family exercise harder to schedule.\n\nIn conclusion, the popularity of physical fitness testifies to heightened health awareness among city dwellers. Regardless of which companionship mode citizens select, regular physical exercise undeniably leads to a healthier lifestyle.",
+    "analysis": {
+      "structure": "第一段准确提炼独自、结伴、家庭三类锻炼比例并排序；第二段剖析现代人生活节奏碎、社交陪伴需求、家庭成员体能与时间差异；第三段总结运动对健康生活的普遍益处。",
+      "scoring_points": [
+        "数据描述流畅（takes the lead, favored by, constitutes）",
+        "归因切中都市人心理和节奏",
+        "逻辑闭环完整"
+      ],
+      "highlights": [
+        "fragmented schedules (碎片化日程安排)",
+        "solitary workouts (独自锻炼)",
+        "fulfills social needs (满足社交需求)",
+        "mutual encouragement (互相激励)",
+        "city dwellers (城市居民)"
+      ]
+    },
+    "category": "柱状图（bar chart）",
+    "sub_type": "柱状图（bar chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2020_part_a",
+    "year": 2020,
+    "type": "小作文",
+    "sub_type": "告示/通知",
+    "title": "计划组织国际学生参观历史古迹，发布通知介绍古迹并给出出行建议",
+    "prompt_en": "Suppose you are planning a tour to a historical site for international students. Write a notice to: 1) briefly introduce the site, and 2) give some tips for the tour.",
+    "prompt_cn": "假设你正为留学生计划一次历史名胜古迹之旅。写一则告示（Notice）：1) 简要介绍该历史遗址；2) 给出出行与参观注意事项。词数100词左右，署名 The Student Union。",
+    "word_count": 118,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Notice\n\nNovember 20, 2019\n\n    To assist international students in experiencing the profound history of China, a guided tour to the Summer Palace will be held this Saturday, November 23rd.\n\n    Renowned as a masterpiece of Chinese landscape garden design, the Summer Palace integrates natural hills and open waters with pavilions and temples, offering breathtaking scenery and centuries-old imperial heritage. The tour will depart by chartered bus from the East Gate at 8:30 a.m. Participants are advised to wear comfortable walking shoes and bring water bottles. Please be mindful of personal belongings and strictly adhere to heritage conservation guidelines throughout the excursion.\n\n    Those interested please sign up at Room 204 before Thursday noon.\n\nThe Student Union",
+    "analysis": {
+      "structure": "通知格式标准（居中标题Notice、右侧日期、落款学生会）；正文简述颐和园历史地位与自然风光；列出集合出发、衣着鞋品、古迹保护细则及报名渠道。",
+      "scoring_points": [
+        "通知格式完全规范",
+        "地点选景真实得体",
+        "要点完备清晰"
+      ],
+      "highlights": [
+        "Renowned as a masterpiece of... (作为...的杰作而闻名遐迩)",
+        "imperial heritage (皇家历史文化遗产)",
+        "chartered bus (包车大巴)",
+        "adhere to heritage conservation guidelines (遵守文物保护准则)"
+      ]
+    },
+    "category": "告示/通知",
+    "chart_type": "告示/通知",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2020_part_b",
+    "year": 2020,
+    "type": "大作文",
+    "chart_type": "饼图（pie chart）",
+    "title": "某高校学生手机阅读目的调查（获取资讯、学习知识、休闲娱乐、打发时间等）",
+    "prompt_en": "Write an essay based on the chart below, which shows the purposes of mobile phone reading among students in a certain university. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "饼图展示了某高校大学生使用手机阅读的不同目的比例：获取资讯59.2%、学习知识53.5%、休闲娱乐41.3%、打发时间17.2%、其他。写短文解读并评论。",
+    "word_count": 176,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The pie chart above clearly portrays the diverse motivations behind mobile reading among undergraduates in a university. As demonstrated by the statistical data, gathering news and information tops the list at 59.2%, closely accompanied by acquiring knowledge at 53.5%. Meanwhile, leisure and entertainment takes up 41.3%, whereas killing time occupies a smaller percentage of 17.2%.\n\nTwo primary dynamics explain this reading behavior. Primarily, the ubiquitous presence of smartphones and mobile internet enables students to access up-to-date headlines and academic resources instantaneously, breaking temporal and spatial boundaries. Furthermore, facing competitive academic pressures, university youths actively utilize fragmented moments—such as commuting or queuing—to absorb professional materials and broaden their intellectual horizons while seeking psychological relaxation.\n\nIn summary, mobile reading has emerged as an indispensable learning companion. Nevertheless, students should strike a prudent balance between superficial fragmented reading and deep, rigorous contemplation to cultivate truly systematic knowledge.",
+    "analysis": {
+      "structure": "第一段规范点出饼图各比例分布；第二段剖析智能手机即时获取信息的媒介属性与大学生碎片化学习、纾解学业压力的现实需求；第三段辩证提醒深浅阅读平衡。",
+      "scoring_points": [
+        "数据概括全面且词性多变",
+        "针对大学生活剖析深刻",
+        "立意积极且有批判性思考"
+      ],
+      "highlights": [
+        "tops the list at... (以...名列榜首)",
+        "ubiquitous presence of smartphones (智能手机的无处不在)",
+        "fragmented moments (碎片化时间)",
+        "broaden their intellectual horizons (拓宽知识视野)",
+        "strike a prudent balance between... (在...之间取得审慎平衡)"
+      ]
+    },
+    "category": "饼图（pie chart）",
+    "sub_type": "饼图（pie chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2019_part_a",
+    "year": 2019,
+    "type": "小作文",
+    "sub_type": "邮件/建议与方案信",
+    "title": "受史密斯教授委托筹划城市交通辩论赛，写邮件提出辩题及安排",
+    "prompt_en": "Suppose Professor Smith asked you to plan a debate on the theme of city traffic. Write him an email to: 1) suggest a specific topic with your reasons, and 2) tell him about your arrangements.",
+    "prompt_cn": "假设史密斯教授让你筹划一场以城市交通为主题的辩论赛。写邮件给他：1) 提出具体辩题及理由；2) 说明赛事具体安排。约100词，署名 Li Ming。",
+    "word_count": 120,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Professor Smith,\n\n    I am writing to submit my proposal regarding the upcoming debate on city traffic as you requested.\n\n    I suggest our debate topic be: \"Should Private Cars Be Restricted in Megacity Centers to Alleviate Congestion?\" This topic is highly topical and directly touches upon the daily commute of urbanites, balancing environmental protection against personal travel convenience. Regarding the event arrangements, the preliminary round is planned for next Wednesday evening in Lecture Hall B, featuring four teams arguing both affirmative and negative sides. We will invite three professors from the Transportation Department to serve as panel judges.\n\n    Please let me know if any adjustments are needed. Thank you for your guidance!\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段说明来信呈交辩论赛筹备方案；次段提出极具现实针对性的辩题、阐述选定理由并列明时间、地点、赛制及评委安排；尾段诚恳征询修改意见。",
+      "scoring_points": [
+        "辩题设计极其专业贴合实际",
+        "筹备方案考虑周详",
+        "公文式邮件用词得体"
+      ],
+      "highlights": [
+        "submit my proposal regarding... (呈交关于...的提案)",
+        "highly topical (极具时效性与话题度)",
+        "alleviate congestion (缓解交通拥堵)",
+        "serve as panel judges (担任评审团评委)"
+      ]
+    },
+    "category": "邮件/建议与方案信",
+    "chart_type": "邮件/建议与方案信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2019_part_b",
+    "year": 2019,
+    "type": "大作文",
+    "chart_type": "柱状图（bar chart）",
+    "title": "某高校2013-2018年毕业生去向规划变化（升学深造、找工作、创业等）",
+    "prompt_en": "Write an essay based on the chart below, which shows the choices of college graduates from 2013 to 2018 in a university. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "柱状图展示某高校2013-2018年毕业生去向变化：直接就业比例由68.1%显著下滑至60.7%，升学考研深造由26.3%强劲攀升至34.0%，自主创业在2.6%小幅波动。写短文解读并评论。",
+    "word_count": 178,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The bar chart above outlines the shifting career choices of undergraduates in a Chinese university from 2013 to 2018. Over the five-year span, the percentage of students entering the workforce directly exhibited a noticeable downward slope from 68.1% to 60.7%. In stark contrast, those opting for postgraduate education experienced a pronounced rise from 26.3% to 34.0%, while entrepreneurs remained relatively steady around 2.6%.\n\nA host of underlying elements account for this evolving distribution. Primarily, the increasingly competitive job market places higher premiums on advanced academic degrees, prompting undergraduates to pursue postgraduate study to bolster their core competence. In addition, rapid industrial modernization demands high-caliber professionals equipped with interdisciplinary research expertise rather than merely general undergraduate training.\n\nTo sum up, the surging enthusiasm for further education reflects youth's proactive preparation for professional challenges. Nonetheless, graduates should make rational choices matching personal aptitude instead of blindly following trends.",
+    "analysis": {
+      "structure": "首段对比就业比例下降与考研深造强劲增长态势；第二段从人才市场竞争升级与国家产业转型对高精尖人才需求两重维度深刻归因；第三段辩证建议结合自身能力理性选择。",
+      "scoring_points": [
+        "走势描摹精准（downward slope, pronounced rise）",
+        "归因紧扣宏观就业生态",
+        "结尾理性警示盲从"
+      ],
+      "highlights": [
+        "exhibited a noticeable downward slope (呈现明显的下行走势)",
+        "In stark contrast (形成鲜明对比)",
+        "places higher premiums on... (对...赋予更高溢价/更重视)",
+        "bolster their core competence (增强核心竞争力)",
+        "blindly following trends (盲目跟风)"
+      ]
+    },
+    "category": "柱状图（bar chart）",
+    "sub_type": "柱状图（bar chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2018_part_a",
+    "year": 2018,
+    "type": "小作文",
+    "sub_type": "信件/道歉信",
+    "title": "因故取消拜访史密斯教授的旅行计划，写信致歉并约定下次会面",
+    "prompt_en": "Suppose you have to cancel your travel plan and can't visit Professor Smith. Write him a letter to: 1) apologize and explain the reason, and 2) suggest a meeting at another time.",
+    "prompt_cn": "假设你因故必须取消旅行计划而无法按期拜访史密斯教授。写一封信：1) 致以诚挚歉意并解释客观原因；2) 建议另择时间见面。词数约100词，署名 Li Ming。",
+    "word_count": 116,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Professor Smith,\n\n    I am writing to express my deepest apologies for having to cancel our scheduled meeting in your city this coming Friday.\n\n    An unexpected academic emergency arose yesterday: our research lab has been selected to undergo an urgent national project review, requiring all team members to remain on campus for defense preparations over the entire weekend. Knowing how valuable your time is, I genuinely regret any inconvenience my sudden cancellation may cause. If your schedule allows, could we reschedule our meeting to the second weekend of next month? I will gladly travel to your university at your convenience.\n\n    Thank you very much for your kind understanding.\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段开门见山致歉并指明不得不取消周五会面的事实；中段给出国家级项目紧急答辩的充足客观不可抗力理由，并表达内疚与歉意；尾段给出下月第二个周末的具体替代时间方案。",
+      "scoring_points": [
+        "道歉理由充分且尊重对方",
+        "补救方案具体可行",
+        "语气诚恳谦逊"
+      ],
+      "highlights": [
+        "express my deepest apologies for... (为...表达最深切的歉意)",
+        "undergo an urgent national project review (接受紧急国家级项目评审)",
+        "at your convenience (在您方便的时候)",
+        "kind understanding (体谅与理解)"
+      ]
+    },
+    "category": "信件/道歉信",
+    "chart_type": "信件/道歉信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2018_part_b",
+    "year": 2018,
+    "type": "大作文",
+    "chart_type": "饼图（pie chart）",
+    "title": "2017年某市消费者选择餐厅时关注的因素调查",
+    "prompt_en": "Write an essay based on the chart below, which shows the factors consumers consider when choosing a restaurant in a city in 2017. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "饼图展示2017年某城市消费者选择就餐餐厅时所考量的主要因素：特色特征 36.3%、服务质量 26.8%、就餐环境 24.2%、价格 8.0%、其他 4.7%。写短文解读图表并发表评论。",
+    "word_count": 175,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The pie chart depicts the primary considerations influencing consumers' choices of restaurants in a city in 2017. As revealed by the investigation, unique food features rank as the most critical factor, commanding 36.3%. Service quality and dining environment constitute 26.8% and 24.2% respectively, while price accounts for merely 8.0%, alongside 4.7% for other miscellaneous aspects.\n\nThese statistics illuminate significant transformations in contemporary dining psychology. First and foremost, thanks to steady income growth, citizens are no longer solely driven by economic frugality; instead, they seek distinctive taste sensations and culinary innovation. Furthermore, with rising living standards, dining out has evolved into a comprehensive lifestyle experience, wherein attentiveness of staff and aesthetic ambiance play indispensable roles in satisfying spiritual gratification.\n\nIn conclusion, modern diners prioritize culinary uniqueness and experiential quality over pure monetary cost. Restaurant operators should consequently focus on enhancing service excellence and signature dishes to remain competitive in today's catering market.",
+    "analysis": {
+      "structure": "第一段全面客观陈述特色、服务、环境、价格的份额占比；第二段从恩格尔系数下降、消费升级以及就餐场景化体验三个角度剖析原因；第三段为餐饮企业精细化运营提出建设性意见。",
+      "scoring_points": [
+        "数据提炼精准（commanding, constitute, merely）",
+        "消费心理分析入木三分",
+        "立意积极向上"
+      ],
+      "highlights": [
+        "commanding 36.3% (占据36.3%的高级动词表达)",
+        "no longer solely driven by economic frugality (不再仅仅受经济节俭驱使)",
+        "culinary innovation (烹饪创新)",
+        "aesthetic ambiance (美学用餐氛围)",
+        "signature dishes (招牌菜品)"
+      ]
+    },
+    "category": "饼图（pie chart）",
+    "sub_type": "饼图（pie chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2017_part_a",
+    "year": 2017,
+    "type": "小作文",
+    "sub_type": "回信/接受邀请",
+    "title": "受威廉姆斯教授邀请做中国文化演讲，写回信接受邀请并介绍演讲要点",
+    "prompt_en": "Suppose you are invited by Professor Williams to give a presentation about Chinese culture to international students. Write a reply to: 1) accept the invitation, and 2) introduce the key points of your presentation.",
+    "prompt_cn": "假设你受威廉姆斯教授邀请为留学生做一场中国文化主题讲座。写一封回信：1) 欣然接受邀请；2) 简要介绍你演讲的核心要点。约100词，署名使用 Li Ming。",
+    "word_count": 118,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Professor Williams,\n\n    I am honored to receive your gracious invitation to deliver a lecture on Chinese culture for international students next month, which I am thrilled to accept.\n\n    To provide the audience with an engaging and insightful overview, my presentation will revolve around traditional Chinese tea culture. Specifically, I plan to cover three key aspects: first, the philosophical connotations of tea symbolizing harmony between humanity and nature; second, the historic evolution of tea ceremonies; and third, an interactive live demonstration of brewing Longjing tea to engage participants.\n\n    I will send over my presentation slides ahead of time for your review. Thank you once again for providing this wonderful platform.\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段优雅致谢并欣然接受演讲邀请；中段以中国茶文化切入，细分哲学意蕴、历史演变、现场泡茶互动三大要点；尾段承诺提前报送PPT。",
+      "scoring_points": [
+        "演讲主题选材精妙且层次递进",
+        "要点完备，文化自信充分彰显",
+        "行文礼貌优雅"
+      ],
+      "highlights": [
+        "gracious invitation (热情厚意之邀)",
+        "philosophical connotations (哲学内涵)",
+        "harmony between humanity and nature (天人合一)",
+        "brewing Longjing tea (冲泡龙井茶)"
+      ]
+    },
+    "category": "回信/接受邀请",
+    "chart_type": "回信/接受邀请",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2017_part_b",
+    "year": 2017,
+    "type": "大作文",
+    "chart_type": "折线图（line graph）",
+    "title": "2013-2015年我国博物馆数量和参观人数变化情况",
+    "prompt_en": "Write an essay based on the chart below, which shows the number of museums and their visitors in China from 2013 to 2015. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "折线图反映了2013-2015年中国博物馆数量从4165座增加到4692座，年参观人数从6.38亿人次持续攀升至7.81亿人次的双增长态势。写短文解读并评论。",
+    "word_count": 179,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The line chart delineates the dual growth of both museums and visitor attendance in China between 2013 and 2015. Over the given period, the aggregate number of museums expanded steadily from 4,165 to 4,692. Parallel to this institutional increase, annual visitors witnessed an even steeper upward trajectory, surging from 638 million to 781 million, registering an increase of over 140 million within two years.\n\nTwo predominant forces underpin this museum craze. On one hand, government policies promoting free admission and increased fiscal subsidies have significantly lowered the threshold for the general public to enjoy public cultural resources. On the other hand, economic prosperity has catalyzed citizens' appetite for spiritual enrichment, encouraging families and students to frequent historical exhibitions to cultivate cultural confidence.\n\nIn brief, the burgeoning enthusiasm for museums reflects societal cultural renaissance. Public authorities should continue upgrading exhibition technologies—such as virtual reality displays—to make cultural relics even more accessible and engaging for future generations.",
+    "analysis": {
+      "structure": "首段对比描述博物馆场馆总数与访客流量的双重上升斜率；次段从国家公共文化免费开放政策与民众精神文化需求井喷两重维度论证；第三段总结并提出拥抱数字化策展建议。",
+      "scoring_points": [
+        "双折线复合数据描述流畅自然",
+        "归因紧扣文化强国与文化自信",
+        "行文极具学术气质"
+      ],
+      "highlights": [
+        "dual growth (双重增长)",
+        "steeper upward trajectory (更陡峭的上升轨迹)",
+        "museum craze (博物馆热潮)",
+        "cultural renaissance (文化复兴)",
+        "virtual reality displays (虚拟现实展陈)"
+      ]
+    },
+    "category": "折线图（line graph）",
+    "sub_type": "折线图（line graph）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2016_part_a",
+    "year": 2016,
+    "type": "小作文",
+    "sub_type": "回信/感谢与建议信",
+    "title": "你在翻译比赛中获奖，朋友Jack来信祝贺，写回信致谢并提供翻译建议",
+    "prompt_en": "Suppose you won a translation contest and your friend, Jack, wrote an email to congratulate you and ask for advice on translation. Write him a reply to: 1) thank him, and 2) give your advice.",
+    "prompt_cn": "你在翻译比赛中荣获佳绩，好友Jack发来贺信并向你讨教翻译诀窍。写回信：1) 感谢他的祝贺；2) 慷慨分享你的翻译学习建议。约100词，署名 Li Ming。",
+    "word_count": 119,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Jack,\n\n    Thank you so much for your warm congratulations on my contest victory; your words truly made my day!\n\n    Regarding your inquiry about improving translation proficiency, I would gladly offer two pieces of practical advice. First and foremost, translation is fundamentally rooted in cross-cultural comprehension rather than mechanical word-for-word substitution; thus, reading bilingual literary works helps internalize idiomatic expressions in both languages. Secondly, daily deliberate practice is crucial: try translating a short column or news editorial every day and comparing your draft with authoritative published translations to identify blind spots.\n\n    I hope these suggestions prove helpful in your studies. Feel free to exchange ideas whenever you wish!\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段热情回应并致谢朋友的祝贺；中段从文化意合而非机械字面直译、刻意练习与名家译本对照两个专业维度给出建议；尾段鼓励常态交流。",
+      "scoring_points": [
+        "专业翻译理念与方法极其地道",
+        "行文亲切得体",
+        "无任何语法漏洞"
+      ],
+      "highlights": [
+        "truly made my day (真让我格外开心)",
+        "cross-cultural comprehension (跨文化理解能力)",
+        "word-for-word substitution (逐字死译替代)",
+        "daily deliberate practice (每日刻意练习)"
+      ]
+    },
+    "category": "回信/感谢与建议信",
+    "chart_type": "回信/感谢与建议信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2016_part_b",
+    "year": 2016,
+    "type": "大作文",
+    "chart_type": "饼图（pie chart）",
+    "title": "某高校学生旅游目的调查（欣赏风景、缓解压力、结交朋友、培养独立等）",
+    "prompt_en": "Write an essay based on the chart below, which shows the travel purposes of students in a certain university. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "饼图显示某高校大学生的出游旅行目的分布：欣赏风景 37%、缓解压力 33%、结交朋友 9%、培养独立能力 6%、其他 15%。写短文解读数据并进行评论分析。",
+    "word_count": 177,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The pie chart above presents the distribution of primary motivations driving college students to travel in a Chinese university. As indicated by the survey, admiring scenic landscapes and relieving mental stress emerge as the two dominant objectives, accounting for 37% and 33% respectively. Making new acquaintances and cultivating personal independence take up 9% and 6%, while other diverse purposes make up the remaining 15%.\n\nA combination of internal psychological and external social factors accounts for these proportions. To start with, university students shoulder intense pressures from exams, theses, and future career hunts; therefore, venturing into natural scenery serves as an ideal sanctuary to unwind and rejuvenate. Furthermore, backpacking and group trips offer youths invaluable exposure to unfamiliar environments, thereby nurturing interpersonal empathy and autonomous life skills beyond textbook confines.\n\nIn conclusion, travel has become a multifaceted avenue for undergraduates to pursue holistic wellness and personal maturation. As the old saying goes, \"He who travels far knows much.\" Universities should support constructive field trips to expand students' worldviews.",
+    "analysis": {
+      "structure": "第一段提炼前二主导目标与其余分项；第二段从学业就业压力释放与拓展视野培养独立双重角度剖析；第三段引用名言升华研学旅行对大学生成长的深远意义。",
+      "scoring_points": [
+        "数据分类归纳条理清楚",
+        "心理学与社会学成因分析精炼",
+        "引用名言地道有力"
+      ],
+      "highlights": [
+        "admiring scenic landscapes (欣赏自然风光)",
+        "relieving mental stress (缓解心理压力)",
+        "an ideal sanctuary to unwind (放松身心的绝佳避风港)",
+        "autonomous life skills (自主生活技能)",
+        "He who travels far knows much (读万卷书行万里路/远行者见闻广博)"
+      ]
+    },
+    "category": "饼图（pie chart）",
+    "sub_type": "饼图（pie chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2015_part_a",
+    "year": 2015,
+    "type": "小作文",
+    "sub_type": "告示/通知",
+    "title": "大学将为高中生举办夏令营，写告示介绍活动并招募志愿者",
+    "prompt_en": "Suppose your university is going to host a summer camp for high school students. Write a notice to: 1) briefly introduce the camp activities, and 2) recruit volunteers.",
+    "prompt_cn": "假设你的大学即将为高中生举办一次夏令营。写一则告示（Notice）：1) 简述夏令营主要活动内容；2) 面向在校生招募志愿者及岗位要求。约100词，署名 The Student Union。",
+    "word_count": 115,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Notice\n\nMay 12, 2015\n\n    To help prospective high school graduates experience university life, our university will host a 7-day Summer Camp from July 10th to 16th.\n\n    The camp encompasses campus tours, academic lab workshops, career planning seminars, and friendly sports competitions. To ensure smooth operation, we are currently recruiting 30 enthusiastic student volunteers. Qualified applicants should possess strong English communication skills, a high sense of responsibility, and previous volunteer experience. Selected volunteers will assist with campus navigation, event coordination, and logistics support.\n\n    Interested candidates please submit your application forms to youth@university.edu.cn by May 25th.\n\nThe Student Union",
+    "analysis": {
+      "structure": "通知格式完全规范；开头点明夏令营面向群体与举行时间；第二段罗列科研实验室、名师讲座等活动并列出30名志愿者的招募素质要求；末段明确提交报名截止期。",
+      "scoring_points": [
+        "通知三大件格式齐全",
+        "活动与招募要求饱满真实",
+        "措辞得体官方"
+      ],
+      "highlights": [
+        "prospective high school graduates (准高中毕业生)",
+        "career planning seminars (生涯规划讲座)",
+        "high sense of responsibility (高度的责任心)",
+        "logistics support (后勤保障支持)"
+      ]
+    },
+    "category": "告示/通知",
+    "chart_type": "告示/通知",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2015_part_b",
+    "year": 2015,
+    "type": "大作文",
+    "chart_type": "饼图（pie chart）",
+    "title": "某市居民春节消费支出各部分所占比例调查",
+    "prompt_en": "Write an essay based on the chart below, which shows the distribution of Spring Festival expenses among residents in a city. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "饼图展示某市居民过春节期间花销比例：购买年货礼物 40%、聚会聚餐 20%、交通出行 20%、压岁钱及其他 20%。写短文解读数据并进行评论。",
+    "word_count": 173,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The pie chart above reflects the expenditure structure of citizens in a certain city during the Spring Festival. According to the statistics, purchasing New Year gifts claims the largest slice of the pie at 40%. Meanwhile, dining gatherings, travel transportation, and red packets along with miscellaneous items equally share the remaining budget, each capturing 20% respectively.\n\nMultiple social and emotional dynamics drive this consumption pattern. First and foremost, gift-giving embodies traditional Chinese virtues of mutual filial piety and friendship, encouraging people to purchase festive goods to demonstrate gratitude toward parents, relatives, and colleagues. Furthermore, with the holiday functioning as an annual reunion window, dining together with long-separated relatives and taking long-distance trips back home naturally generate substantial food and transit costs.\n\nIn summary, holiday spending epitomizes both flourishing retail vitality and enduring emotional bonds. Nonetheless, citizens should champion rational consumption and avoid ostentatious extravagance, ensuring the Spring Festival remains an occasion of genuine warmth and affection.",
+    "analysis": {
+      "structure": "第一段巧妙用 claims the largest slice 描述礼品大头，其余三项平分秋色各占20%；第二段从走亲访友礼尚往来与年度团圆饭交通刚需展开剖析；第三段呼吁理性节俭、杜绝攀比。",
+      "scoring_points": [
+        "数据比拟生动形象（largest slice of the pie）",
+        "文化内核理解深刻（filial piety）",
+        "批判奢靡树立正气"
+      ],
+      "highlights": [
+        "claims the largest slice of the pie (占据最大的一块蛋糕/份额)",
+        "filial piety (孝道/孝敬长辈)",
+        "annual reunion window (年度团圆期)",
+        "champion rational consumption (倡导理性消费)",
+        "ostentatious extravagance (铺张炫耀与奢靡浪费)"
+      ]
+    },
+    "category": "饼图（pie chart）",
+    "sub_type": "饼图（pie chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2014_part_a",
+    "year": 2014,
+    "type": "小作文",
+    "sub_type": "邮件/介绍信与询问信",
+    "title": "即将出国留学合住，写邮件给未来室友介绍生活习惯并询问要求",
+    "prompt_en": "Suppose you are going to study abroad and share a room with a foreign student. Write an email to your future roommate to: 1) introduce your living habits, and 2) ask about his/her preferences and requirements.",
+    "prompt_cn": "假设你即将出国留学并与一位外国室友合住。写一封邮件：1) 介绍自己的起居与生活习惯；2) 询问对方的偏好与要求。词数约100词，署名使用 Li Ming。",
+    "word_count": 117,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Roommate,\n\n    I hope this email finds you well! As we will soon share a dormitory room at the university this coming autumn, I am writing to break the ice and coordinate our shared living space.\n\n    To help us adjust smoothly, I would like to introduce my daily routines. I am accustomed to keeping early hours, usually rising around 7:00 a.m. and going to bed before 11:00 p.m. In terms of habits, I keep my personal study desk organized and prefer a relatively quiet atmosphere when studying in the room. Are there any particular preferences, quiet hours, or dietary customs you would like us to observe?\n\n    I look forward to meeting you soon and building a comfortable home together!\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段热情破冰；次段具体介绍早睡早起、桌面整洁、安静自习习惯，并主动询问对方作息与饮食禁忌；尾段表达友好同住期待。",
+      "scoring_points": [
+        "情境感真实，极富同理心",
+        "用词温和亲切",
+        "生活细节描述具体"
+      ],
+      "highlights": [
+        "break the ice (破冰建立联系)",
+        "accustomed to keeping early hours (习惯早睡早起)",
+        "dietary customs (饮食习俗与禁忌)",
+        "build a comfortable home together (共同营造温馨住所)"
+      ]
+    },
+    "category": "邮件/介绍信与询问信",
+    "chart_type": "邮件/介绍信与询问信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2014_part_b",
+    "year": 2014,
+    "type": "大作文",
+    "chart_type": "柱状图（bar chart）",
+    "title": "1990年、2000年与2010年中国城镇人口与乡村人口数量变化",
+    "prompt_en": "Write an essay based on the chart below, which shows the changes in urban and rural populations in China in 1990, 2000 and 2010. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "柱状图展示1990、2000和2010年中国城乡人口变化：城镇人口从3.0亿持续跃升到6.7亿，农村人口从8.3亿持续下降到6.7亿。写短文解读并评论。",
+    "word_count": 178,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The bar chart illustrates the dramatic demographic shift in China's urban and rural populations across three landmark years: 1990, 2000, and 2010. According to the data, China's urban population climbed steadily from 300 million in 1990 to 670 million in 2010, more than doubling. In stark contrast, rural inhabitants declined continually from 830 million to 670 million over the same two decades, reaching parity by 2010.\n\nThis profound demographic restructuring is propelled by China's accelerating modernization and industrialization. Decades of economic reform have created millions of manufacturing and service jobs in metropolises, attracting vast agricultural laborers to migrate eastward and inward into cities. Concurrently, government policies upgrading urban infrastructure, education, and medical resources have further accelerated voluntary urban migration.\n\nTo conclude, the convergence of urban and rural population lines signifies unprecedented urbanization progress. Looking ahead, policymakers should emphasize coordinated regional development to ensure equitable public services for both urban migrants and rural residents.",
+    "analysis": {
+      "structure": "第一段对比城镇翻倍增长与乡村人口平稳回落至二者持平的数据分界点；第二段从工业化吸收富余劳动力与城镇公共资源虹吸两方面剖析；第三段指出新型城镇化均衡发展要求。",
+      "scoring_points": [
+        "城乡人口剪刀差描述极其精确（reaching parity）",
+        "紧扣改革开放与城市化进程",
+        "格局宏阔论证精辟"
+      ],
+      "highlights": [
+        "dramatic demographic shift (剧烈的人口结构变迁)",
+        "reaching parity (达成持平/均等)",
+        "accelerating modernization and industrialization (加速推进的现代化与工业化)",
+        "equitable public services (均等化的公共服务)"
+      ]
+    },
+    "category": "柱状图（bar chart）",
+    "sub_type": "柱状图（bar chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2013_part_a",
+    "year": 2013,
+    "type": "小作文",
+    "sub_type": "邮件/倡议与通知信",
+    "title": "班级为需要帮助的儿童筹备慈善义卖，写邮件通知同学并号召参与",
+    "prompt_en": "Suppose your class is going to hold a charity sale for kids in need. Write an email to your classmates to: 1) give details about the event, and 2) encourage them to participate.",
+    "prompt_cn": "假设你们班级计划为需要帮助的孩子举办一场慈善义卖会。写邮件给全班同学：1) 告知活动时间、地点与筹款宗旨；2) 动员大家捐赠物品并积极参与。约100词，署名 Li Ming。",
+    "word_count": 118,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Classmates,\n\n    To extend our love and support to underprivileged children in impoverished areas, our class committee has decided to organize a campus Charity Sale next Tuesday, May 14th, in front of the University Library.\n\n    All proceeds from this event will be directly allocated to purchasing winter coats, storybooks, and stationery for a village primary school. We warmly encourage everyone to participate by donating idle items, such as books, handmade crafts, sports gear, or small electronic gadgets. You are also welcome to volunteer at our sales booths.\n\n    Every small contribution makes a tremendous difference in a child's life. Let us join hands and make this charitable endeavor a great success!\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段宣告为贫困山区儿童举办爱心义卖的时间地点；中段说明善款全额用于购置文具与御寒衣物，并号召捐赠闲置图书手工艺品或担任摊位志愿者；尾段动员呼吁。",
+      "scoring_points": [
+        "慈善爱心主题纯正充沛",
+        "要点完备号召力强",
+        "词汇搭配优美"
+      ],
+      "highlights": [
+        "underprivileged children (处于困境中的儿童)",
+        "all proceeds will be allocated to... (所有收益款项将用于...)",
+        "donating idle items (捐赠闲置物品)",
+        "makes a tremendous difference (带来巨大而积极的改变)"
+      ]
+    },
+    "category": "邮件/倡议与通知信",
+    "chart_type": "邮件/倡议与通知信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2013_part_b",
+    "year": 2013,
+    "type": "大作文",
+    "chart_type": "柱状图（bar chart）",
+    "title": "某高校大一至大四各年级学生兼职比例调查",
+    "prompt_en": "Write an essay based on the chart below, which shows the proportion of college students taking part-time jobs from freshmen to seniors in a university. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "柱状图显示某高校四个年级做兼职的学生比例：大一 67.7%、大二 77.9%、大三 87.2%、大四 71.4%。写短文解读数据规律并给出分析评论。",
+    "word_count": 176,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The bar chart above illustrates the percentage of university students engaged in part-time jobs across all four academic years. As is visibly indicated, the employment ratio exhibits an initial rise followed by a slight dip: starting at 67.7% among freshmen, climbing to 77.9% in sophomore year, reaching its zenith at 87.2% for juniors, and subsequently dropping to 71.4% in senior year.\n\nSeveral driving factors account for this arched trajectory. In early college years, students gradually gain independence and flexibility, seeking part-time gigs to earn pocket money and accumulate social experience. By junior year, with major coursework largely settled, students actively hunt for corporate internships to bolster their competitive resumes. However, upon entering senior year, demanding graduation dissertations and rigorous preparations for civil service or postgraduate exams compel students to pull back from part-time work.\n\nIn conclusion, taking part-time jobs provides undergraduates with practical social acclimatization. Nevertheless, students should ensure that off-campus employment does not compromise their academic performance.",
+    "analysis": {
+      "structure": "第一段以先升后降的弧形走势精准概括各年级数据，并标明大三达到最高峰87.2%；第二段逐年级深入归因剖析大学生在各阶段的心态与任务重心；第三段辩证提醒不能荒废学业。",
+      "scoring_points": [
+        "曲线特征概括极其精炼（reached its zenith, arched trajectory）",
+        "贴合大学四年真实轨迹",
+        "论证逻辑无懈可击"
+      ],
+      "highlights": [
+        "reaching its zenith at... (在...达到顶峰/天顶)",
+        "arched trajectory (拱形/先升后降的轨迹)",
+        "bolster their competitive resumes (充实其具备竞争力的简历)",
+        "social acclimatization (社会适应与融入)"
+      ]
+    },
+    "category": "柱状图（bar chart）",
+    "sub_type": "柱状图（bar chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2012_part_a",
+    "year": 2012,
+    "type": "小作文",
+    "sub_type": "信件/投诉信",
+    "title": "从网店购买的电子词典有质量缺陷，写信向客服投诉并提出解决方案",
+    "prompt_en": "Suppose you bought an electronic dictionary from an online store and found it defective. Write a letter to the customer service department to: 1) explain the problems, and 2) suggest a solution (refund or replacement).",
+    "prompt_cn": "你在网店购买了一台电子词典，收到后发现存在故障缺陷。给该网店客服部写一封投诉信：1) 说明具体质量问题；2) 提出退货退款或换货等解决方案。约100词，署名使用 Li Ming。",
+    "word_count": 116,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Customer Service Manager,\n\n    I am writing to file a formal complaint regarding an electronic dictionary (Order No. ED-98213) that I purchased from your flagship store on October 10th.\n\n    Upon unwrapping the package, I discovered several severe defects. Firstly, the LCD display screen flickers constantly, causing severe eye strain. Secondly, the phonetic pronunciation function fails to emit any sound even after a full recharge. As I urgently need this dictionary for my impending language proficiency exam, this malfunction has caused me great inconvenience. Therefore, I request a prompt replacement of a brand-new, thoroughly inspected device, or a full refund including return postage.\n\n    I enclose a copy of the purchase receipt and expect your swift reply.\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段亮明订单号与投诉意向；中段分条列举屏幕闪烁与发音故障两大具体缺陷，阐明对备考造成的困扰；尾段明确提出换新或全额退款的诉求并附上发票。",
+      "scoring_points": [
+        "投诉信要素齐备（订单号、具体故障、受害者损失、解决时限）",
+        "语气理智坚定维权",
+        "语言极其干练"
+      ],
+      "highlights": [
+        "file a formal complaint regarding... (就...提出正式投诉)",
+        "LCD display screen flickers constantly (液晶屏幕持续闪烁)",
+        "impending language proficiency exam (临近的语言水平考试)",
+        "a prompt replacement or a full refund (迅速换新或全额退款)"
+      ]
+    },
+    "category": "信件/投诉信",
+    "chart_type": "信件/投诉信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2012_part_b",
+    "year": 2012,
+    "type": "大作文",
+    "chart_type": "表格（table）",
+    "title": "某公司不同年龄段员工工作满意度调查",
+    "prompt_en": "Write an essay based on the table below, which shows the job satisfaction survey results of employees of different age groups in a company. In your writing, you should: 1) interpret the table, and 2) give your comments.",
+    "prompt_cn": "表格展示某公司不同年龄段员工满意度分布：<=40岁（不满意64%、一般36%、满意0%）；41-50岁（不满意0%、一般60%、满意40%）；>50岁（不满意10%、一般50%、满意40%）。写短文解读并评论。",
+    "word_count": 178,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The table outlines the results of a job satisfaction survey among employees of different age brackets in a company. Strikingly, younger workers aged 40 or under show the lowest satisfaction, with 64% feeling dissatisfied and none expressing total satisfaction. In contrast, among employees aged between 41 and 50, satisfaction climbs to 40% with zero dissatisfaction. Meanwhile, senior staff over 50 exhibit a balanced stance, with 40% satisfied, 50% neutral, and merely 10% discontented.\n\nThis stark disparity across age groups can be explained by differing career phases and life pressures. Younger employees under 40 often face intense burdens—such as purchasing apartments, raising infants, and career stagnation—making them more prone to anxiety and frustration over compensation. Conversely, veteran employees in their forties and fifties enjoy stable professional seniority, established savings, and clearer vocational paths, allowing them to perceive corporate roles with greater contentment.\n\nTo improve overall organizational efficiency, corporate management should implement competitive incentive mechanisms and psychological support programs tailored specifically for younger employees.",
+    "analysis": {
+      "structure": "首段条分缕析三组年龄段的数据对照，提炼出年轻员工普遍焦虑与中老年员工满意度稳步上升的对比；第二段从人生阶段面临的房贷育儿与职场晋升瓶颈深刻归因；第三段为企业青年激励机制建言献策。",
+      "scoring_points": [
+        "表格复杂多行多列数据提取极其清晰",
+        "代际心理对比分析鞭辟入里",
+        "建议切中肯綮"
+      ],
+      "highlights": [
+        "employees of different age brackets (不同年龄段员工)",
+        "Strikingly (令人瞩目的是，高级副词过渡)",
+        "stark disparity (鲜明悬殊的差距)",
+        "career stagnation (职业生涯停滞/瓶颈期)",
+        "tailored specifically for... (专为...量身定制)"
+      ]
+    },
+    "category": "表格（table）",
+    "sub_type": "表格（table）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2011_part_a",
+    "year": 2011,
+    "type": "小作文",
+    "sub_type": "信件/祝贺信与建议信",
+    "title": "表弟李明刚考入大学，写信表示祝贺并给出大学生活与学习建议",
+    "prompt_en": "Suppose your cousin Li Ming has just been admitted to a university. Write him a letter to: 1) congratulate him, and 2) give some advice on how to get prepared for college life.",
+    "prompt_cn": "假设你的表弟李明刚被大学录取。写信给他：1) 热烈祝贺他金榜题名；2) 就如何做好大学学习与生活准备给出建议。词数约100词，署名 Zhang Wei。",
+    "word_count": 118,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Li Ming,\n\n    Heartiest congratulations on your admission to your dream university! The whole family is overjoyed and proud of your remarkable accomplishment.\n\n    As you embark on this brand-new chapter, I would like to offer two practical pieces of advice. First, university education relies heavily on autonomous learning rather than passive spoon-feeding; therefore, establishing a self-disciplined study timetable and making regular use of library archives will keep you ahead. Second, actively participate in student clubs and campus societies to hone your communication skills and forge lifelong friendships alongside your academic pursuits.\n\n    Believe in yourself and make the most of your college days. I wish you all the best in your forthcoming campus journey!\n\nYours sincerely,\nZhang Wei",
+    "analysis": {
+      "structure": "首段热情真挚祝贺金榜题名；次段从自主学习避免被动填鸭式教育、积极参与社团结交朋友两个核心切面给出建议；尾段寄予厚望与祝福。",
+      "scoring_points": [
+        "语气关切亲切，长辈同辈指引感极强",
+        "要点完备切中大学痛点",
+        "署名严格遵守题设 Zhang Wei"
+      ],
+      "highlights": [
+        "Heartiest congratulations on... (致以最由衷的祝贺)",
+        "embark on this brand-new chapter (开启这一崭新篇章)",
+        "autonomous learning rather than passive spoon-feeding (自主学习而非被动填鸭)",
+        "forge lifelong friendships (缔结终身友谊)"
+      ]
+    },
+    "category": "信件/祝贺信与建议信",
+    "chart_type": "信件/祝贺信与建议信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2011_part_b",
+    "year": 2011,
+    "type": "大作文",
+    "chart_type": "柱状图（bar chart）",
+    "title": "2008年与2009年国内轿车市场国产品牌与合资品牌市场份额变化",
+    "prompt_en": "Write an essay based on the chart below, which shows the market share of domestic and foreign car brands in China in 2008 and 2009. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "柱状图显示2008与2009年我国汽车市场份额变迁：国产品牌从25%增至接近30%，日系品牌略降至35%左右，美系德系微降或持平。写短文解读并评论。",
+    "word_count": 178,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The bar chart above provides an informative comparison of market shares among various car brands in China between 2008 and 2009. As the statistics reveal, domestic auto brands made notable headway, expanding their market share from 25% in 2008 to nearly 30% in 2009. Conversely, while Japanese and American brands still occupied substantial shares around 35% and 15% respectively, their dominance saw moderate contraction or plateaued.\n\nThis rising trajectory of domestic automobiles can be credited to several advantageous forces. Foremost among them is that Chinese automakers have continuously accelerated indigenous technological innovation and enhanced manufacturing craft, significantly narrowing the quality gap with overseas competitors. Additionally, domestic vehicles offer superior cost-performance ratios and competitive after-sales service, making them exceptionally appealing to middle-income families under favorable national purchase subsidy policies.\n\nIn conclusion, the expanding share of indigenous cars symbolizes the rise of homegrown manufacturing prowess. If Chinese enterprises continue prioritizing green energy technology and brand prestige, they will secure an even stronger presence globally.",
+    "analysis": {
+      "structure": "第一段对比国产汽车市场份额从25%迈向30%的崛起势头，对比合资品牌微降；第二段从自主技术创新赶超与高性价比结合国家购车补贴两方面论证；第三段对中国制造向绿能和全球化迈进提出愿景。",
+      "scoring_points": [
+        "数据对比精准，术语极其专业（indigenous brands, cost-performance ratios）",
+        "逻辑自洽，紧扣时代产业升级脉搏"
+      ],
+      "highlights": [
+        "made notable headway (取得了显著进展/突破)",
+        "indigenous technological innovation (本土自主技术创新)",
+        "superior cost-performance ratios (卓越的性价比)",
+        "homegrown manufacturing prowess (本土制造硬实力)"
+      ]
+    },
+    "category": "柱状图（bar chart）",
+    "sub_type": "柱状图（bar chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2010_part_a",
+    "year": 2010,
+    "type": "小作文",
+    "sub_type": "信件/感谢信与欢迎信",
+    "title": "给美国同事写信感谢在美期间的招待，并欢迎他来中国访问",
+    "prompt_en": "Write a letter to your American colleague to: 1) thank him/her for the warm hospitality during your stay in the US, and 2) welcome him/her to visit China.",
+    "prompt_cn": "写一封信给你的美国同事：1) 感谢你在美停留交流期间他的热情款待与关照；2) 热情邀请并欢迎他近期来中国访问做客。词数约100词，署名 Li Ming。",
+    "word_count": 118,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear John,\n\n    Having safely returned to Beijing, I am writing to convey my heartfelt gratitude for your warm hospitality throughout my three-month visiting stint in the United States.\n\n    Your generous assistance—ranging from helping me settle into the apartment to guiding me through our joint laboratory trials—not only made my stay exceptionally fruitful but also left me with cherished memories. Knowing that you have long had a curiosity about Chinese history and traditional architecture, I would be overjoyed if you could visit China this autumn. I would be honored to host you, show you around the Forbidden City and Great Wall, and treat you to authentic Peking duck!\n\n    Thank you once again for everything. I eagerly await your visit!\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段抵京后致信，表达最衷心的谢意；次段点明科研协助与生活照拂的细节，回忆珍贵友情；第三段投其所好邀请其今秋访华，并承诺带其游览故宫长城品尝烤鸭。",
+      "scoring_points": [
+        "感谢信与邀请信双线交织极其自然",
+        "文化互动极具画面感",
+        "词采清丽自然"
+      ],
+      "highlights": [
+        "heartfelt gratitude (由衷的感激之情)",
+        "visiting stint (访问研修期)",
+        "cherished memories (珍贵难忘的回忆)",
+        "eagerly await your visit (热切期盼您的来访)"
+      ]
+    },
+    "category": "信件/感谢信与欢迎信",
+    "chart_type": "信件/感谢信与欢迎信",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "past_2010_part_b",
+    "year": 2010,
+    "type": "大作文",
+    "chart_type": "柱状图（bar chart）",
+    "title": "2000-2008年发展中国家与发达国家移动电话用户数量变化",
+    "prompt_en": "Write an essay based on the chart below, which shows mobile phone subscriptions in developed and developing countries from 2000 to 2008. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+    "prompt_cn": "柱状图展示2000-2008年发展中国家与发达国家手机订阅用户数变化：发展中国家用户数从约4亿暴增至40亿，增长近10倍；发达国家从约5亿稳步增至10亿，发展中国家全面反超。写短文解读并评论。",
+    "word_count": 179,
+    "band": "第一档 (高分示范)",
+    "score": "14.5/15",
+    "sample_essay": "The bar chart above vividly exhibits the massive expansion of mobile phone subscriptions across developed and developing countries between 2000 and 2008. Over this eight-year span, mobile users in developing nations experienced exponential growth, skyrocketing tenfold from approximately 400 million to a staggering 4 billion. Meanwhile, developed countries maintained a steady increase from 500 million to 1 billion, allowing developing nations to dramatically overtake them in total subscribers.\n\nTwo major forces underpin this worldwide technological leap. Above all, rapid economic modernization and telecom infrastructure upgrades in emerging markets made wireless cellular networks far cheaper and quicker to deploy than traditional landlines, leapfrogging older communications eras. In addition, mass production drastically reduced device manufacturing costs, enabling low- and middle-income populations across developing territories to easily afford mobile communication for daily commerce and connectivity.\n\nIn summary, the telecom explosion demonstrates that digital globalization bridges developmental divides. Mobile connectivity will continue serving as a potent catalyst for socio-economic progress across the developing world.",
+    "analysis": {
+      "structure": "首段展现发展中国家手机用户从4亿暴增到40亿的跨越式暴涨及其对发达国家的反超；第二段从新兴市场跳跃式基建普及与设备规模量产降本两个硬核维度深度归因；第三段总结数字全球化对社会经济的催化作用。",
+      "scoring_points": [
+        "跨越式增长动词精准（skyrocketing tenfold, leapfrogging）",
+        "论据站位高，揭示了全球数字化跨越式发展规律",
+        "学术表达纯熟地道"
+      ],
+      "highlights": [
+        "exponential growth (指数级增长)",
+        "skyrocketing tenfold to a staggering 4 billion (暴涨十倍达到令人惊叹的40亿)",
+        "leapfrogging older communications eras (实现跨越式通信代际迭代)",
+        "a potent catalyst for socio-economic progress (社会经济进步的强劲催化剂)"
+      ]
+    },
+    "category": "柱状图（bar chart）",
+    "sub_type": "柱状图（bar chart）",
+    "exam_category": "英语二"
+  },
+  {
+    "id": "eng1_2025_part_b",
+    "exam_category": "英语一",
+    "year": 2025,
+    "type": "大作文",
+    "sub_type": "图表与社会发展",
+    "title": "2014-2023年我国居民耐用消费品拥有量变化（生活水平提升与家电普及）",
+    "prompt_en": "Write an essay based on the chart showing changes in possession of durable consumer goods among Chinese residents (2014-2023). Interpret the chart and give your comments.",
+    "prompt_cn": "图表展示了2014-2023年我国居民耐用消费品（冰箱、空调、洗衣机等）每百户拥有量的稳步上升趋势。请描述图表并分析生活水平提升与高质量发展的时代特征。",
+    "word_count": 186,
+    "band": "第一档 (高分示范)",
+    "score": "18.5/20",
+    "sample_essay": "The chart above delineates a remarkable upward trajectory in the possession of durable consumer goods among Chinese households from 2014 to 2023. As is vividly demonstrated by the data, the ownership of essential home appliances, particularly refrigerators and air conditioners, has experienced steady and sustained expansion over the past decade, with nearly every hundred households equipped with modern appliances.\n\nThe profound factors underpinning this transformative shift are twofold. Foremost among them is the robust economic growth and the continuous enhancement of household disposable income, which have drastically strengthened citizens' purchasing power. Furthermore, the nationwide implementation of high-quality development strategies and rural revitalizing initiatives has bridged regional disparities, enabling smart and eco-friendly appliances to penetrate broader consumer demographics. Consequently, durable goods have transitioned from luxury symbols into standard household necessities.\n\nIn conclusion, the surge in consumer appliance ownership bears vivid testimony to the monumental improvement in people's living standards. Looking ahead, as consumption upgrading accelerates, intelligent and green products will undoubtedly inject fresh vitality into our pursuit of high-quality life.",
+    "analysis": {
+      "structure": "首段精准概括耐用消费品拥有量十年上升趋势；第二段从居民可支配收入增长与乡村振兴/高质量发展双重视角深入归因；第三段总结提炼民生福祉飞跃并积极展望未来消费升级。",
+      "scoring_points": [
+        "准确把握时代变迁与宏观经济背景",
+        "词汇表达高级地道（remarkable upward trajectory, disposable income, penetrate broader consumer demographics）",
+        "段落逻辑严谨递进"
+      ],
+      "highlights": [
+        "delineates a remarkable upward trajectory (精准描述显著上升态势)",
+        "underpinning this transformative shift (支撑这一变革性转变的深层因素)",
+        "bears vivid testimony to... (生动见证了……)",
+        "inject fresh vitality into... (注入新鲜活力)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2025_part_a",
+    "exam_category": "英语一",
+    "year": 2025,
+    "type": "小作文",
+    "sub_type": "书信/邀请信",
+    "title": "传统文化手工艺展示邀请信",
+    "prompt_en": "Suppose you are planning an exhibition of traditional Chinese craftsmanship. Write your foreign friend John an email to: 1) introduce the event, and 2) invite him to attend.",
+    "prompt_cn": "假设你正在筹办一个中国传统手工艺展示活动。给外国朋友John写一封邮件：1) 介绍活动；2) 邀请他参加。词数100词左右，署名 Li Ming。",
+    "word_count": 116,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear John,\n\n    I am writing to share some thrilling news with you. Our university is organizing an Exhibition of Traditional Chinese Craftsmanship next Friday, and I would love to invite you to join us.\n\n    The event will showcase a fascinating array of intangible cultural heritage, ranging from delicate paper-cutting and pottery to exquisite embroidery. Moreover, masters will demonstrate their techniques live and guide visitors in hands-on workshops. Knowing your keen fascination with oriental culture, I am convinced that you will find this experience deeply rewarding.\n\n    The exhibition will open at 2:00 p.m. in the Art Center. Please let me know if you can make it.\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段开门见山点出活动与邀请；中段生动介绍剪纸、陶艺、刺绣等非遗项目及互动工坊；末段明确时间地点并礼貌期盼回复。",
+      "scoring_points": [
+        "覆盖所有题目要求要点",
+        "词汇地道优雅（thrilling news, delicate paper-cutting, exquisite embroidery）",
+        "格式完全规范"
+      ],
+      "highlights": [
+        "delicate paper-cutting and exquisite embroidery (生动具体的非遗词汇)",
+        "Knowing your keen fascination with... (从对方兴趣出发进行邀请，情理交融)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2024_part_b",
+    "exam_category": "英语一",
+    "year": 2024,
+    "type": "大作文",
+    "sub_type": "图画与城市宜居发展",
+    "title": "城市公园与市民生活品质提升",
+    "prompt_en": "Write an essay based on the drawing and table: a citizen enjoys walking in a nearby pocket park with table showing increase in urban parks. 1) describe the drawing and data, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "左侧漫画描绘了一位市民感叹家门口的小微公园越来越便利；右侧数据展示了城市公园数量的迅速增长。请描述图画与数据，阐释其寓意并发表评论。",
+    "word_count": 194,
+    "band": "第一档 (高分示范)",
+    "score": "19/20",
+    "sample_essay": "As is vividly delineated in the picture, a smiling citizen is strolling leisurely in a newly built pocket park right outside his doorstep, delighting in the lush greenery and recreational facilities. Adjacent to the drawing, a statistical table illustrates a substantial surge in the total number of urban parks over the past few years. The visual and numerical evidence jointly mirrors a heartening transformation in modern urban life.\n\nThe core implication of this scenario is that green ecological development constitutes an indispensable cornerstone of civic happiness. On the one hand, accessible public parks provide vital breathing spaces within bustling metropolises, effectively alleviating residents' mental strain and promoting active physical exercise. On the other hand, the continuous expansion of urban greenery reflects a fundamental upgrade in municipal governance philosophies—shifting from GDP-centered urban sprawl toward human-oriented, sustainable coexistence between humanity and nature.\n\nTo preserve this encouraging momentum, concerted efforts should be sustained. Municipal authorities ought to continue optimizing urban landscaping and maintaining public amenities, while citizens should cherish these shared green assets. Only by harmonizing urban modernization with ecological preservation can we build cities where people live with dignity and joy.",
+    "analysis": {
+      "structure": "第一段图画结合数据生动描述口袋公园建设；第二段从缓解心理压力促进健康与城市治理理念升级双重视角深入剖析；第三段提出管理与市民共建对策并用倒装句升华。",
+      "scoring_points": [
+        "图画与图表双要素结合精准紧密",
+        "论点深刻（以人为本的城市发展逻辑）",
+        "语言高级流畅，句式多样"
+      ],
+      "highlights": [
+        "right outside his doorstep (家门口，地道生动)",
+        "vital breathing spaces within bustling metropolises (繁华都市中至关重要的呼吸空间)",
+        "shifting from GDP-centered urban sprawl toward human-oriented, sustainable coexistence (深刻辩证的论证表达)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2024_part_a",
+    "exam_category": "英语一",
+    "year": 2024,
+    "type": "小作文",
+    "sub_type": "书信/回信与建议信",
+    "title": "介绍中国古代科学家课堂报告建议信",
+    "prompt_en": "Suppose you have received an email from an international student asking for advice on doing an oral report about ancient Chinese scientists. Write an email to him to: 1) recommend a specific scientist, and 2) give your reasons.",
+    "prompt_cn": "给外国朋友写回信，推荐一位中国古代科学家（如张衡、李时珍、祖冲之等），说明推荐理由并给出报告展示建议。词数约100词，署名 Li Ming。",
+    "word_count": 118,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear friend,\n\n    I am delighted to receive your email inquiring about advice on your upcoming oral presentation regarding ancient Chinese scientists. It gives me great pleasure to share my recommendations with you.\n\n    In terms of the candidate, I strongly recommend focusing on Zhang Heng, an outstanding polymath of the Eastern Han Dynasty. He is globally renowned for inventing the seismoscope and making profound contributions to astronomy and mathematics. For your presentation, I suggest adopting a story-telling approach that highlights how his inventions solved practical problems. Furthermore, utilizing vivid illustrations will make your talk much more engaging for your audience.\n\n    I hope these suggestions prove helpful for your presentation. Please feel free to ask if you need further reference materials.\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段热情回应；中段推荐张衡及其地震仪成就，并给出故事化与多媒体展示建议；末段表达祝愿并提供后续支持。",
+      "scoring_points": [
+        "推荐对象具代表性，理由充分",
+        "兼顾科学家成就与口头报告技巧两个层面",
+        "用词得体高雅"
+      ],
+      "highlights": [
+        "outstanding polymath (杰出的博学者/通才)",
+        "inventing the seismoscope (发明候风地动仪)",
+        "adopting a story-telling approach (采取故事化呈现手法)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2023_part_b",
+    "exam_category": "英语一",
+    "year": 2023,
+    "type": "大作文",
+    "sub_type": "图画/传统文化传承",
+    "title": "龙舟赛与传统节日文化传承",
+    "prompt_en": "A drawing shows young people enthusiastically competing in a Dragon Boat race while crowds cheer by the river. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画展现了几个年轻人齐心协力划龙舟，两岸挤满了欢呼雀跃的观众。请描述图画，揭示其寓意并发表评论。",
+    "word_count": 190,
+    "band": "第一档 (高分示范)",
+    "score": "19/20",
+    "sample_essay": "A close inspection of the drawing reveals a captivating and spirited scene. In the center of the river, several vigorous young people are paddling a dragon boat in unison, slicing through surging waves with resolute determination. On the riverbanks, cheering spectators are enthusiastically waving flags and applauding. This vibrant imagery immediately highlights the timeless allure of traditional festive customs.\n\nThe profound message embedded in the drawing is the dynamic revitalization of traditional Chinese culture among the younger generation. In this era of rapid modernization, traditional festivities are far from obsolete relics; instead, they serve as emotional anchors that unite communities and preserve historical memory. By actively participating in dragon boat racing, contemporary youth not only honor ancestral heritage but also embody the virtues of teamwork, resilience, and patriotic devotion. Such grass-roots cultural engagement injects fresh vitality into time-honored traditions, safeguarding our national identity against the erosion of cultural homogenization.\n\nTo sustain this cultural Renaissance, society should continue integrating traditional folklore into modern education and community activities. As college students, we ought to cherish our cultural roots with pride and proactive participation. Only in this way can the beacon of traditional wisdom illuminate our shared future.",
+    "analysis": {
+      "structure": "首段生动描摹龙舟破浪前行与两岸观众欢呼的热烈场面；第二段揭示青年一代对传统文化的主动激活与精神凝聚作用；第三段呼吁将传统民俗融入现代生活，用倒装句升华。",
+      "scoring_points": [
+        "将龙舟赛引申到文化传承、团队协作与文化认同",
+        "语言极富文采与感染力",
+        "行文节奏连贯自然"
+      ],
+      "highlights": [
+        "paddling a dragon boat in unison (齐心协力划龙舟)",
+        "dynamic revitalization of traditional Chinese culture (传统文化的蓬勃复兴)",
+        "emotional anchors that unite communities (凝聚社区的情感针脚)",
+        "safeguarding our national identity (守护民族认同)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2019_part_b",
+    "exam_category": "英语一",
+    "year": 2019,
+    "type": "大作文",
+    "sub_type": "图画/人生哲理与坚持",
+    "title": "半山腰歇脚：坚持不懈与半途而废",
+    "prompt_en": "Two people are climbing a hill. One sits down exhausted saying 'I can't go on', while the other drinks water and encourages him to keep climbing. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画中两人爬山到了半山腰，一人坐倒在地感叹“爬不动了”，另一人喝水并热情鼓励同伴继续登顶。文字说明：“半山腰”。请描述图画、阐释寓意并评论。",
+    "word_count": 196,
+    "band": "第一档 (高分示范)",
+    "score": "19/20",
+    "sample_essay": "As is vividly and subtly portrayed in the cartoon, two mountaineers are resting on their journey up a rugged slope. One exhausted climber sits down on the ground, wiping sweat and lamenting that he cannot go any further. In sharp contrast, his companion stands firmly, taking a sip of water while holding out his hand to encourage his peer to keep pressing onward. The caption underneath explicitly reads: \"Halfway Up the Mountain\".\n\nThe metaphorical implication of this visual scene is both profound and inspiring: it is perseverance that constitutes the indispensable cornerstone of any remarkable accomplishment. In the voyage of life, when confronting daunting bottlenecks, people inevitably diverge in their attitudes. Those who surrender halfway invariably fall victim to momentary exhaustion, thereby losing the precious opportunity to witness the picturesque scenery at the summit. Conversely, individuals endowed with indomitable grit view temporary hardship not as a dead end, but as a stepping stone toward higher horizons. Historical records and personal triumphs abundantly prove that monumental breakthroughs stem from persistent endeavor rather than sheer luck.\n\nFrom what has been discussed above, it is imperative for us, particularly contemporary college students, to foster psychological resilience in our academic and personal undertakings. Only by arming ourselves with unwavering determination can we conquer looming hurdles and eventually scale the pinnacle of life.",
+    "analysis": {
+      "structure": "首段精准刻画半山腰对比反差；第二段将爬山升华到人生旅程中的坚毅品质与自我实现；第三段号召青年学子磨砺内心韧性。",
+      "scoring_points": [
+        "图画描述极其细致（wiping sweat, holding out his hand）",
+        "寓意阐述对比鲜明有力",
+        "句型多样（倒装句、同位语从句、非谓语从句）"
+      ],
+      "highlights": [
+        "rugged slope (崎岖的山坡)",
+        "indispensable cornerstone (不可或缺的基石)",
+        "endowed with indomitable grit (具备坚韧不拔的毅力)",
+        "scale the pinnacle of life (攀登人生巅峰)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2015_part_b",
+    "exam_category": "英语一",
+    "year": 2015,
+    "type": "大作文",
+    "sub_type": "图画/社会现象与低头族",
+    "title": "手机时代的聚会（低头族与人际疏离）",
+    "prompt_en": "Four friends sitting around a dining table, each staring at a smartphone screen instead of talking. Caption: 'Gathering in Mobile Era'. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "四个朋友围坐餐桌聚会，每个人都在低头刷手机，互相毫无交流。文字说明：“手机时代的聚会”。请描述漫画、阐明深层寓意并给出评论与建议。",
+    "word_count": 192,
+    "band": "第一档 (高分示范)",
+    "score": "18.5/20",
+    "sample_essay": "The cartoon above illustrates a thought-provoking scenario that is exceedingly prevalent in contemporary life. Four friends are gathered around a lavish dining table, surrounded by delicious dishes. However, instead of engaging in lively face-to-face conversation, each individual is burying their head in a glowing smartphone screen, entirely absorbed in cyberspace. The caption succinctly crystallizes the theme: \"A Gathering in the Mobile Era\".\n\nThe primary intention of the artist is not merely to satirize this bizarre scene, but to sound an alarm regarding the growing interpersonal alienation triggered by digital addiction. A multitude of underlying factors account for this dilemma. First and foremost, mobile applications and algorithm-driven content offer instant sensory gratification, subtly trapping users into compulsive screen consumption. Furthermore, the relentless pace of modern society often leaves young adults emotionally exhausted, prompting them to seek refuge in virtual relationships while neglecting genuine warmth in the physical world. Consequently, the very technology designed to bridge distances has ironically built an invisible wall between human hearts.\n\nTo reverse this worrisome trend, concerted endeavors must be mobilized. Individuals should cultivate digital moderation, consciously putting away mobile phones during family reunions and social gatherings. Only when we strike a balance between technology and humanity can we rebuild genuine intimacy.",
+    "analysis": {
+      "structure": "首段点破手机时代聚会常态；次段从算法感官刺激与快节奏情感疲惫双重视角深入剖析人际疏离；末段倡导数字节制并强调重构亲密关系。",
+      "scoring_points": [
+        "讽刺画面描摹极具视觉画面感",
+        "归因透彻（instant sensory gratification, digital moderation）",
+        "篇章过渡行云流水"
+      ],
+      "highlights": [
+        "burying their head in a glowing smartphone screen (低头沉迷发光手机屏幕)",
+        "interpersonal alienation triggered by digital addiction (数字依赖引发的人际疏离)",
+        "built an invisible wall between human hearts (在人心之间筑起无形的墙)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2010_part_b",
+    "exam_category": "英语一",
+    "year": 2010,
+    "type": "大作文",
+    "sub_type": "图画/文化交流与融合",
+    "title": "文化“火锅”既美味又营养",
+    "prompt_en": "A boiling hotpot labeled 'Culture' contains various cultural elements like Shakespeare, Confucianism, Kung Fu, Postmodernism. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "一口热气腾腾的火锅上写着“文化”二字，里面有莎士比亚、儒学、功夫、解构等中外文明要素。文字说明：“文化‘火锅’，既美味又营养”。请描述图画，阐述其寓意并发表评论。",
+    "word_count": 188,
+    "band": "第一档 (高分示范)",
+    "score": "18/20",
+    "sample_essay": "A close examination of the drawing reveals a captivating and symbolic illustration. Centered in the picture is a steamy traditional hotpot labeled \"Culture\", into which diverse cultural ingredients—ranging from Shakespeare and Einstein to Confucianism, Taoism, and Kung Fu—are blended harmoniously. The caption beneath notes: \"Cultural Hotpot: Delicious and Nutritious\".\n\nWhat the painter intends to highlight is the paramount significance of cross-cultural integration and mutual learning in a globalized era. In an interconnected world, no civilization can flourish in self-imposed isolation; cultural diversity serves as the very lifeblood that propels human progress forward. On the one hand, assimilating the essence of foreign wisdom injects fresh dynamism into domestic cultural development. On the other hand, sharing our time-honored heritage with the global community enables different civilizations to transcend misunderstandings and achieve common prosperity. A culturally inclusive mindset not only invigorates national vitality but also enriches human civilization as a whole.\n\nIn contemplation of this inspiring message, we ought to approach distinct cultures with an open mind and steadfast cultural confidence. As college students, it is our duty to champion intercultural dialogues and cherish our indigenous roots, ensuring that different civilizations illuminate one another.",
+    "analysis": {
+      "structure": "首段准确描摹文化火锅及各种元素；第二段从文明互鉴、吸收外来与传承本土两个维度阐述包容心态的重要性；第三段从青年使命与文化自信角度升华。",
+      "scoring_points": [
+        "紧扣文化交融主题，立意宏大高远",
+        "句式极富学术典雅气息",
+        "逻辑环环相扣"
+      ],
+      "highlights": [
+        "steamy traditional hotpot (热气腾腾的传统火锅)",
+        "no civilization can flourish in self-imposed isolation (没有任何文明能在自我封闭中繁荣)",
+        "steadfast cultural confidence (坚定不移的文化自信)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2020_part_a",
+    "exam_category": "英语一",
+    "year": 2020,
+    "type": "小作文",
+    "sub_type": "告示/通知",
+    "title": "留学生歌唱比赛通知",
+    "prompt_en": "A singing contest for international students is to be held. Post a notice to: 1) introduce the contest, and 2) encourage students to take part in it.",
+    "prompt_cn": "面向留学生举办歌唱比赛，写一则通知：介绍比赛并鼓励参与。词数约100词，署名 The Students' Union。",
+    "word_count": 115,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "NOTICE\n\nOctober 9, 2026\n\n    Aiming to enrich campus cultural life and foster friendship between domestic and international students, the Students' Union is organizing an English & Chinese Singing Contest. The event is scheduled to be held in the University Grand Auditorium on Friday, November 15, starting at 6:30 p.m.\n\n    All international students passionate about music are warmly invited to participate. Contestants may perform individually or in groups of up to three members. Generous prizes and certificates of honor will be awarded to outstanding performers. Those who wish to take part should submit their application forms and music tracks to singingcontest@univ.edu.cn before November 5.\n\n    Come and showcase your talent! We look forward to your active participation.\n\nThe Students' Union",
+    "analysis": {
+      "structure": "大写NOTICE居中、右对齐日期；首段明确比赛宗旨与时间地点；中段说明参赛资格、形式与奖励；末段发出邀请并由学生会署名。",
+      "scoring_points": [
+        "告示格式标准完美",
+        "信息完备准确，表达得体热情"
+      ],
+      "highlights": [
+        "NOTICE (规范居中大写标题)",
+        "Aiming to enrich campus cultural life (清晰的活动宗旨说明)",
+        "certificates of honor (荣誉证书)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2023_part_a",
+    "year": 2023,
+    "type": "小作文",
+    "sub_type": "书信/建议信",
+    "title": "给大学新生就如何适应大学学习与生活提供建议",
+    "prompt_en": "Write an email to a group of freshmen in your university to: 1) welcome them, and 2) give suggestions on how to adapt to university life and study.",
+    "prompt_cn": "给本校大一新生写一封电子邮件：1) 表达热烈欢迎；2) 就如何适应大学学习与校园生活提出切实建议。署名 Li Ming，约100词。",
+    "word_count": 118,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Freshmen,\n\n    On behalf of the Students' Union, I would like to extend our warmest welcome to all of you on joining our university community.\n\n    To help you smoothly navigate this exciting transition, I would like to venture a few practical recommendations. First and foremost, it is highly advisable to cultivate self-directed learning habits, shifting from passive memorization to proactive academic exploration. Furthermore, striking a sound balance between curricular coursework and extracurricular engagements will prove invaluable for your personal well-being. Lastly, do not hesitate to seek counsel from your academic advisors whenever academic perplexities arise.\n\n    May your university years be an intellectually enriching and profoundly memorable chapter.\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段热情开门见山表示祝贺与欢迎；中段从自主学习、身心平衡、积极求助三方面提出清晰务实的建议；尾段致以诚挚的学业期许与祝福。",
+      "scoring_points": [
+        "语域亲切得体，完全符合高年级学长向新生的建议口吻",
+        "建议层次分明（学业自主性、课外平衡、师长求助），具备极高的可操作性",
+        "关联衔接词流畅自然（First and foremost, Furthermore, Lastly）"
+      ],
+      "highlights": [
+        "extend our warmest welcome to... (致以最热烈的欢迎)",
+        "smoothly navigate this exciting transition (平稳度过这一激动人心的过渡期)",
+        "self-directed learning habits (自主学习习惯)",
+        "an intellectually enriching chapter (一段充满智慧与启迪的篇章)"
+      ]
+    },
+    "category": "建议信",
+    "chart_type": "建议信",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2022_part_b",
+    "year": 2022,
+    "type": "大作文",
+    "sub_type": "图画作文（传统文化与文化自信）",
+    "title": "校园传统文化讲座与青年文化认同",
+    "prompt_en": "A drawing portrays two students standing in front of a campus billboard discussing lectures on traditional Chinese culture. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画展示两位大学生在校园宣传栏前热烈讨论关于中国传统文化的系列讲座海报。请描写图画、阐释寓意并给出你的评论。160-200词。",
+    "word_count": 186,
+    "band": "第一档 (高分示范)",
+    "score": "18.5/20",
+    "sample_essay": "As is vividly delineated in the cartoon above, two university students are standing attentively in front of a campus bulletin board, engaging in a lively discussion about a poster advertising a lecture series on traditional Chinese culture. With radiant smiles on their faces, their keen interest in classical heritage is unmistakably evident.\n\nThe metaphorical implication conveyed by the illustrator is both profound and timely: traditional culture is experiencing an unprecedented revival among the contemporary youth. A multitude of driving factors can account for this heartening trend. Foremost among them is the growing cultural confidence across our nation, which inspires young minds to seek spiritual nourishment from millennia-old wisdom rather than merely chasing fleeting exotic trends. Furthermore, innovative educational initiatives on modern campuses have revitalized ancient treasures, rendering traditional philosophy and art remarkably accessible to university students.\n\nIn conclusion, traditional culture constitutes the spiritual soul and anchor of our nation. To sustain this momentum, higher institutions should continue curating immersive cultural activities, while we college students ought to embrace traditional virtues as our guiding light in modern life.",
+    "analysis": {
+      "structure": "第一段精准抓取青年驻足宣传板神态与对话细节；第二段以文化自信与高校创新两重视角透视国潮与传统文化复兴深层根源；第三段总结提炼文化根脉定位并对高校与青年提出对策。",
+      "scoring_points": [
+        "首段图画描写动静结合，神态描写到位",
+        "寓意阐释深度切合文化自信与精神根脉的时代价值",
+        "语言典雅优美，句式富于变化"
+      ],
+      "highlights": [
+        "standing attentively in front of a campus bulletin board (生动细节描写)",
+        "unprecedented revival among contemporary youth (当代青年中前所未有的复兴)",
+        "spiritual nourishment from millennia-old wisdom (从千年智慧中汲取精神滋养)",
+        "constitutes the spiritual soul and anchor (构成精神灵魂与压舱石)"
+      ]
+    },
+    "category": "图画作文（传统文化）",
+    "chart_type": "图画作文",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2022_part_a",
+    "year": 2022,
+    "type": "小作文",
+    "sub_type": "书信/邀请信",
+    "title": "邀请外籍教授担任校园英语演讲比赛评委",
+    "prompt_en": "Suppose you are organizing a campus English speech contest. Write an email to Professor Smith to: 1) introduce the contest, and 2) invite him to be a judge.",
+    "prompt_cn": "假设你负责筹备校园英语演讲比赛。给史密斯教授写一封电子邮件：1) 介绍比赛基本情况；2) 邀请他担任评委。署名使用 Li Ming，约100词。",
+    "word_count": 121,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Professor Smith,\n\n    I am writing on behalf of the English Association to cordially invite you to serve as a distinguished judge for our forthcoming annual Campus English Speech Contest.\n\n    The contest, themed \"Voices of the Youth and Global Dialogue\", is scheduled to take place in the university grand auditorium from 2:00 PM to 5:00 PM on November 15th. Twelve shortlisted candidates from diverse departments will deliver keynote speeches followed by impromptu question-and-answer sessions. Given your profound academic prestige and renowned expertise in public communication, your presence and insightful critiques would undoubtedly elevate the academic rigor of this event.\n\n    We would be immensely honored if you could accept our invitation. Please confirm your availability at your earliest convenience.\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段代表社团礼貌发出担任评委的正式邀请；中段详细交待主题、时间、地点、赛程环节并阐明邀请教授的崇高理由；尾段表达荣幸并期待回复。",
+      "scoring_points": [
+        "语域极为得体尊崇，公函规范规范严谨",
+        "赛事要素全面完整（主题、时间、地点、形式）",
+        "赞誉教授的措辞自然贴切，理由充分"
+      ],
+      "highlights": [
+        "cordially invite you to serve as a distinguished judge (诚挚邀请担任特邀评委)",
+        "followed by impromptu question-and-answer sessions (随后进行即兴问答环节)",
+        "Given your profound academic prestige (鉴于您深厚的学术声望)",
+        "elevate the academic rigor (提升学术严谨度与专业水准)"
+      ]
+    },
+    "category": "邀请信",
+    "chart_type": "邀请信",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2021_part_b",
+    "year": 2021,
+    "type": "大作文",
+    "sub_type": "图画作文（身心平衡与全面发展）",
+    "title": "学业钻研与体育锻炼的平衡发展（书桌与跑鞋）",
+    "prompt_en": "A drawing portrays a student studying diligently at a desk with running shoes placed prominently beside. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画中一名学生在书桌前专心致志研读，书桌旁醒目地摆放着一双运动跑鞋。请描述图画、阐释寓意并评论。160-200词。",
+    "word_count": 184,
+    "band": "第一档 (高分示范)",
+    "score": "18.5/20",
+    "sample_essay": "The drawing presents a symbolic and harmonious scene: a young scholar sits upright at his study desk engrossed in textbooks, while a clean pair of running shoes is placed conspicuously on the floor beside him. This thoughtful combination illustrates the golden balance between intellectual endeavor and physical fitness.\n\nThe metaphorical message conveyed here is both clear and imperative: enduring academic excellence requires the firm underpinning of robust health. In contemporary society, fierce academic and career competition often misleads students into sacrificing physical wellness for marginal grade gains. However, prolonged sedentariness inevitably breeds mental exhaustion and chronic ailments. As the classical maxim perceptively proclaims, a sound mind resides in a sound body. Regular physical exercise not only revitalizes bodily vigor but also sharpens cognitive acuity, acting as an indispensable catalyst rather than a hindrance to academic distinction.\n\nTo conclude, intellectual cultivation and athletic training should be regarded as mutually reinforcing pillars of human growth. We university students ought to prioritize routine exercise, ensuring that our intellectual aspirations are sustained by robust physical stamina.",
+    "analysis": {
+      "structure": "第一段细致捕捉书桌与跑鞋的和谐并置并点明身心平衡主旨；第二段驳斥牺牲健康换学业的短视偏见，引用古训深入论证锻炼对心智活力的促进；第三段总结呼吁青年学子知行合一强化体魄。",
+      "scoring_points": [
+        "深刻扣紧体育与智育辩证统一的立意内核",
+        "正反对比与名言引用有机融合",
+        "词汇高阶精准（conspicuously, prolonged sedentariness, cognitive acuity）"
+      ],
+      "highlights": [
+        "the golden balance between intellectual endeavor and physical fitness (智力求索与身体素质的黄金平衡)",
+        "a sound mind resides in a sound body (健全的精神寓于健康的体魄)",
+        "indispensable catalyst rather than a hindrance (必不可少的催化剂而非绊脚石)",
+        "mutually reinforcing pillars (相互强化的支柱)"
+      ]
+    },
+    "category": "图画作文（身心健康）",
+    "chart_type": "图画作文",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2021_part_a",
+    "year": 2021,
+    "type": "小作文",
+    "sub_type": "书信/建议与祝贺信",
+    "title": "给即将出国留学的同学提供适应建议",
+    "prompt_en": "A friend of yours is going to study abroad. Write him an email to: 1) congratulate him, and 2) offer suggestions on preparation and adaptation.",
+    "prompt_cn": "你的好友即将出国深造。给他写一封邮件：1) 表达祝贺；2) 就前期准备与异国适应提供建议。署名使用 Li Ming，约100词。",
+    "word_count": 120,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Jack,\n\n    I was thrilled to hear the wonderful news that you have been admitted to your dream postgraduate program abroad! Please accept my heartiest congratulations on this well-deserved milestone.\n\n    Knowing how challenging it can be to adapt to an unfamiliar environment, I would like to offer a few practical suggestions. First and foremost, immersing yourself in daily conversational English before departure will significantly cushion the initial culture shock. Furthermore, cultivating basic culinary and financial self-reliance will prove indispensable in managing your independent daily routine. Lastly, maintaining an open mindset and actively participating in multicultural campus societies will help you forge lifelong international friendships.\n\n    Wishing you a safe voyage and a tremendously rewarding academic journey overseas!\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段热情真挚祝贺好友录取名校；中段从语言沉浸、生活独立技能、跨文化交际三方面提出贴心建议；尾段致以温馨美好的旅途与学业祝愿。",
+      "scoring_points": [
+        "语气亲切真挚，情感自然流露",
+        "建议针对性极强（口语过渡、自理能力、社交融入）",
+        "句式丰富多样（动名词伴随、并列结构、排比递进）"
+      ],
+      "highlights": [
+        "cushion the initial culture shock (缓冲最初的文化冲击)",
+        "culinary and financial self-reliance (生活烹饪与财务自主能力)",
+        "forge lifelong international friendships (结下终生受益的国际友谊)",
+        "tremendously rewarding academic journey (无比丰硕的海外求学之旅)"
+      ]
+    },
+    "category": "建议信",
+    "chart_type": "建议信",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2020_part_b",
+    "year": 2020,
+    "type": "大作文",
+    "sub_type": "图画作文（人生哲理与拒绝拖延）",
+    "title": "今日事今日毕与习惯性拖延的对照",
+    "prompt_en": "Two students with contrasting habits: one says 'Finish it now and enjoy later', while the other procrastinates saying 'Plenty of time, do it later'. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画描绘两个面对作业任务态度截然不同的学生：一个说“先做完再踏实玩”，另一个却拖延道“时间还多，以后再做”。请描述图画、阐释寓意并评论。160-200词。",
+    "word_count": 189,
+    "band": "第一档 (高分示范)",
+    "score": "19.0/20",
+    "sample_essay": "The cartoon presents a stark contrast between two students confronted with academic assignments. The one on the left rolls up his sleeves decisively, stating, \"I will finish it right away and enjoy my leisure later.\" In sharp contrast, his counterpart reclines casually on the chair, murmuring, \"There is still plenty of time, why hurry?\"\n\nThe cartoonist vividly illustrates a common behavioral divergence in human life: decisive diligence versus chronic procrastination. Procrastination is often termed the thief of time; those who habitually postpone tasks into an uncertain future inevitably accumulate overwhelming anxiety, ultimately submitting hurried, subpar work. Conversely, individuals who practice immediate execution not only liberate themselves from cognitive burdens but also gain profound mastery over their schedules. As Edward Young perceptively remarked, procrastination steals our most irrecoverable asset—time.\n\nFrom my perspective, overcoming the inertia of delay is vital for college students aiming for distinction. We should break formidable goals into manageable milestones and cultivate the habit of prompt action. Only by doing what should be done today can we greet tomorrow with composure and confidence.",
+    "analysis": {
+      "structure": "第一段用鲜明的动作与语言对照生动还原图画反差；第二段剖析拖延偷走时间与引发焦虑的危害，对比即刻行动带来的掌控感，巧妙化用名言；第三段针对大学生提出分解目标、即刻践行的行动建议。",
+      "scoring_points": [
+        "对比性极强，完全契合双人对比图画的考查重心",
+        "成因分析深入到心理认知层面（cognitive burden, inertia of delay）",
+        "结尾呼应题眼“今日事今日毕”"
+      ],
+      "highlights": [
+        "rolls up his sleeves decisively (挽起袖子果断行动)",
+        "decisive diligence versus chronic procrastination (果决勤勉与习惯性拖延的鲜明对照)",
+        "procrastination is the thief of time (拖延是时间的窃贼)",
+        "greet tomorrow with composure and confidence (从容自信迎接明天)"
+      ]
+    },
+    "category": "图画作文（人生哲理）",
+    "chart_type": "图画作文",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2018_part_b",
+    "year": 2018,
+    "type": "大作文",
+    "sub_type": "图画作文（求真务实与选课反思）",
+    "title": "大学生选课反思：轻松混学分还是学真本领",
+    "prompt_en": "Two students select courses: one prioritizes high grades with little effort, while the other values practical knowledge and competence. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画中两名大学生在电脑前选课：一人专门挑选给分高、任务轻、易通过的课程；另一人则看重能否学到新知识与过硬本领。请描述图画、阐述寓意并评论。160-200词。",
+    "word_count": 188,
+    "band": "第一档 (高分示范)",
+    "score": "18.5/20",
+    "sample_essay": "Unfolded in the elaborately painted cartoon is a revealing scene of college course selection. Two undergraduates sit before a computer monitor holding diametrically opposed attitudes. One student searches exclusively for courses characterized by lenient grading and minimal homework, while his companion thoughtfully prioritizes classes that impart cutting-edge knowledge and practical competence.\n\nThe drawing captures a pervasive dilemma on contemporary campuses: shortsighted pragmatism versus the genuine pursuit of knowledge. Enticed by the illusion of effortless high marks, a concerning number of students treat higher education as a mere diploma mill, avoiding intellectual challenges. However, superficial grades acquired without rigorous training resemble houses built on quicksand, leaving graduates vulnerable when entering the fiercely competitive job market. Genuine higher education is designed to stretch intellectual horizons and forge problem-solving faculties through rigorous academic discipline.\n\nIn light of the above discussion, undergraduates must fundamentally re-examine their educational values. We should discard opportunistic shortcuts and embrace demanding courses with enthusiasm, since real competence is forged only through strenuous intellectual labor.",
+    "analysis": {
+      "structure": "首段用完全倒装句起笔引出选课电脑屏幕前的态度对立；次段深入批判功利主义与“混文凭”短视心态，指出缺乏真才实学的成绩单如同流沙建房；末段呼吁树立正确学业观、敢于迎接智力挑战。",
+      "scoring_points": [
+        "立意高远，直击大学教育本质与功利主义危害",
+        "隐喻生动（diploma mill, houses built on quicksand）",
+        "批判性思维与说服力极强"
+      ],
+      "highlights": [
+        "holding diametrically opposed attitudes (持有截然相反的态度)",
+        "shortsighted pragmatism versus genuine pursuit of knowledge (短视功利主义与求知初心的博弈)",
+        "resemble houses built on quicksand (宛如建在流沙之上的房屋)",
+        "forged only through strenuous intellectual labor (唯有在艰辛的智力锤炼中方能铸就)"
+      ]
+    },
+    "category": "图画作文（求真务实）",
+    "chart_type": "图画作文",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2018_part_a",
+    "year": 2018,
+    "type": "小作文",
+    "sub_type": "倡议书/公开信",
+    "title": "校园环保倡议书：减少塑料与白色污染",
+    "prompt_en": "Write an open proposal to all students on campus advocating: 1) the reduction of disposable plastic items, and 2) the adoption of eco-friendly living habits.",
+    "prompt_cn": "面向全校同学写一封倡议书：1) 号召减少一次性塑料制品的使用；2) 倡导绿色低碳的环保生活习惯。署名使用 The Students' Union，约100词。",
+    "word_count": 116,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Fellow Students,\n\n    In a bid to curb escalating white pollution and build a sustainable campus, we hereby launch this proposal to advocate green living across our university.\n\n    To translate our environmental commitment into tangible actions, we earnestly encourage everyone to practice the following measures. In the first place, please substitute disposable plastic bags and cups with reusable cloth totes and refillable tumblers in daily dining. Furthermore, sorting dining hall refuse consciously and rejecting single-use cutlery during takeaway orders will remarkably lighten our campus waste disposal burden.\n\n    Individual efforts may seem modest, but collective consistency can work miracles. Let us act today to safeguard our shared ecological sanctuary!\n\nYours sincerely,\nThe Students' Union",
+    "analysis": {
+      "structure": "首段直奔主题，提出治理白色污染与共建绿色校园倡议；次段分两点给出自带水杯布袋与外卖拒用一次性餐具等具体可行举措；尾段以富有号召力的格言升华并署名学生会。",
+      "scoring_points": [
+        "倡议书体裁标准，号召力极强",
+        "举措极为具体且紧贴大学校园实际生活",
+        "格式与署名规范合规"
+      ],
+      "highlights": [
+        "curb escalating white pollution (遏制日益加剧的白色污染)",
+        "translate commitment into tangible actions (将承诺转化为切实行动)",
+        "refillable tumblers and reusable cloth totes (自带可循环水杯与布袋)",
+        "collective consistency can work miracles (集体的恒心能够创造奇迹)"
+      ]
+    },
+    "category": "倡议书",
+    "chart_type": "倡议书",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2017_part_b",
+    "year": 2017,
+    "type": "大作文",
+    "sub_type": "图画作文（读书质量与知行合一）",
+    "title": "坐拥万卷书叹息书太多 vs 专注精读一本好书",
+    "prompt_en": "One person possesses overflowing bookshelves but complains he has too many to read, while another earnestly finishes one book. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画对比两人读书状态：一人坐拥满架图书却叹息书太多无从读起；另一人则静心捧读、踏实读透一本书。请描写图画、阐明寓意并评论。160-200词。",
+    "word_count": 186,
+    "band": "第一档 (高分示范)",
+    "score": "18.5/20",
+    "sample_essay": "As is vividly portrayed in the drawing, an ironic contrast is drawn between two book owners. On the left side, a man sits surrounded by towering bookshelves, sighing helplessly that he possesses far too many volumes to ever finish. On the right side, however, another reader sits calmly by the window, totally immersed in completing a single masterpiece with deep appreciation.\n\nThe drawing conveys a thought-stimulating truth about knowledge acquisition: the quality of focused reading far outweighs the vanity of superficial hoarding. In our information-saturated era, people frequently equate possessing resources with possessing wisdom. Many succumb to the illusion of knowledge by buying mountains of books without ever turning a page. Nevertheless, skimming hundreds of titles fleetingly merely skims the surface, whereas digesting a single masterpiece thoroughly enriches one's intellect and nurtures critical thinking.\n\nIn my perspective, real learning demands relentless concentration and disciplined execution. Rather than being paralyzed by the abundance of unread volumes, we should begin with the book right before our eyes, reading it with depth and earnest reflection.",
+    "analysis": {
+      "structure": "第一段以左右对照刻画满架藏书叹息与窗前静读一本的鲜明神态；第二段直击“囤积焦虑”与“拥有资源不等于拥有智慧”的现代人痛点，对比精读对思维的滋养；第三段提出戒除浮躁、专注当下的行动建议。",
+      "scoring_points": [
+        "紧扣信息过载时代的认知心理，立意极具现实批判性",
+        "对仗句式优美流畅",
+        "结尾扣题收束有力"
+      ],
+      "highlights": [
+        "ironic contrast between two book owners (两个藏书者之间的讽刺对比)",
+        "the vanity of superficial hoarding (浅层囤积的虚荣感)",
+        "equate possessing resources with possessing wisdom (将占有资源等同于占有智慧)",
+        "paralyzed by the abundance of unread volumes (被浩繁未读书目所震慑麻痹)"
+      ]
+    },
+    "category": "图画作文（专注与行动）",
+    "chart_type": "图画作文",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2017_part_a",
+    "year": 2017,
+    "type": "小作文",
+    "sub_type": "书信/推荐信",
+    "title": "给外国友人推荐中国经典图书",
+    "prompt_en": "Write an email to an international friend recommending a classic Chinese book to: 1) introduce the book, and 2) give your reasons.",
+    "prompt_cn": "给外国朋友写一封电子邮件，推荐一部中国经典图书：1) 介绍该书基本情况；2) 说明推荐理由。署名使用 Li Ming，约100词。",
+    "word_count": 119,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear David,\n\n    Learning that you are keen to delve deeper into Chinese culture and literature, I am writing with immense delight to recommend the classical masterpiece \"The Analects of Confucius\".\n\n    This celebrated work compiles the dialogues and philosophical reflections between Confucius and his disciples, encapsulating core traditional values such as benevolence, filial piety, and harmonious social living. I strongly recommend it because it offers an authentic window into the spiritual roots of Chinese civilization. Furthermore, its succinct and memorable aphorisms make it exceptionally accessible for international readers seeking philosophical enlightenment.\n\n    I am convinced that you will find it an intellectually stimulating and enjoyable read. Looking forward to discussing your impressions soon!\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段针对对方了解中国文化的兴趣直奔主题推荐《论语》；次段简明介绍《论语》核心思想并从文化窗口与警句易读两个角度阐述推荐理由；尾段表达期盼共同交流心得。",
+      "scoring_points": [
+        "选材精当，极具中国文化代表性与可读性",
+        "词汇典雅丰富（delve into, compiles the dialogues, succinct aphorisms）",
+        "书信逻辑紧凑严密"
+      ],
+      "highlights": [
+        "delve deeper into Chinese culture (深入探寻中国文化奥秘)",
+        "encapsulating core traditional values (凝练传统核心价值观)",
+        "spiritual roots of Chinese civilization (中华文明的精神根脉)",
+        "succinct and memorable aphorisms (简练而令人过目难忘的警句格言)"
+      ]
+    },
+    "category": "推荐信",
+    "chart_type": "推荐信",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2016_part_b",
+    "year": 2016,
+    "type": "大作文",
+    "sub_type": "图画作文（家庭教育与言传身教）",
+    "title": "榜样的力量与家庭教育：看电视催读书 vs 陪伴孩子共同学习",
+    "prompt_en": "Two contrasting fathers: one lies watching TV while urging his son to study; the other studies alongside his child as a role model. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画对比两位父亲：一位自己躺在沙发上看电视却训斥儿子去用功读书；另一位则在书桌旁与孩子共同学习、做榜样。请描述图画、阐释寓意并评论。160-200词。",
+    "word_count": 188,
+    "band": "第一档 (高分示范)",
+    "score": "19.0/20",
+    "sample_essay": "The cartoon presents a striking contrast between two parenting styles. In the left frame, a father relaxes comfortably on a sofa watching television, sternly commanding his son, \"Go study hard!\" In sharp contrast, the father in the right frame sits quietly by his child's side under a warm desk lamp, reading a book together as an inspiring example.\n\nThe illustrator astutely exposes a crucial truth in family upbringing: leading by example is incomparably superior to empty preaching. Children are keen observers who naturally imitate parental behavior rather than obey abstract orders. When parents indulge in passive amusement while imposing severe academic demands on their offspring, hypocrisy inevitably breeds resentment and resistance. Conversely, when parents embody self-discipline and intellectual curiosity in daily life, they subtly nurture a lifelong passion for learning in their children's hearts. As Albert Schweitzer famously noted, example is not merely the best way to influence others; it is the only way.\n\nTo foster healthy next generations, parents should step down from authoritarian pedestals and become co-learners with their children. Only through genuine companionship can education bear sweet fruit.",
+    "analysis": {
+      "structure": "第一段以左右两幅画面直观描摹训斥与伴读的鲜明对比；第二段深入教育心理学机制，批判双标说教的虚伪，论证潜移默化言传身教的威力，引用史怀哲名言；第三段倡导家长走下威权神坛、与孩子共同成长。",
+      "scoring_points": [
+        "审题精准，精准扣准“言传身教大于空洞说教”核心立意",
+        "心理动机剖析深刻（hypocrisy breeds resentment）",
+        "名言引用贴切到位"
+      ],
+      "highlights": [
+        "leading by example is incomparably superior to empty preaching (以身作则远胜空洞说教)",
+        "keen observers who naturally imitate parental behavior (天生会模仿父母行为的敏锐观察者)",
+        "hypocrisy inevitably breeds resentment (言行不一的虚伪必然滋生抵触反感)",
+        "step down from authoritarian pedestals (走下威权的神坛)"
+      ]
+    },
+    "category": "图画作文（家庭教育）",
+    "chart_type": "图画作文",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2016_part_a",
+    "year": 2016,
+    "type": "小作文",
+    "sub_type": "告示/通知",
+    "title": "高校英语翻译比赛报名通知",
+    "prompt_en": "Post a notice to recruit participants for a campus English translation contest. State: 1) contest purpose and schedule, and 2) registration details.",
+    "prompt_cn": "就举办校园英语翻译比赛发布一则通知：1) 说明比赛目的与安排；2) 说明报名方式与截止时间。署名使用 The Students' Union，约100词。",
+    "word_count": 115,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "NOTICE\n\nOctober 12th, 2026\n\n    In order to enhance students' bilingual translation competence and promote cross-cultural communication, the annual Campus Translation Contest is scheduled to take place at 2:00 PM on October 25th in the Lecture Hall.\n\n    The contest includes two distinct categories: Literary Translation and Non-literary Translation. Participants may select either category according to their academic interests. Certificates of honor and rewarding prizes will be conferred upon the top ten winners. All registered students who possess enthusiasm for translation are warmly encouraged to participate.\n\n    Those interested should register via email at translation@univ.edu.cn before October 20th. Come and showcase your cross-linguistic talent!\n\nThe Students' Union",
+    "analysis": {
+      "structure": "符合官方 Notice 告示规范：标题 NOTICE 居中；首段交代目的与比赛时间地点；次段说明分设组别、奖项激励与参赛资格；尾段明确报名邮箱与截止日期，末尾规范署名。",
+      "scoring_points": [
+        "完全符合考研英语一 Notice 告示格式规范，无 Dear 称呼",
+        "比赛信息完备周详（组别、时间、地点、奖励、邮箱）",
+        "号召性语言铿锵有力"
+      ],
+      "highlights": [
+        "bilingual translation competence (双语互译能力)",
+        "Certificates of honor and rewarding prizes (荣誉证书与丰厚奖品)",
+        "showcase your cross-linguistic talent (展示跨语言文化风采)"
+      ]
+    },
+    "category": "通知/告示",
+    "chart_type": "通知/告示",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2014_part_b",
+    "year": 2014,
+    "type": "大作文",
+    "sub_type": "图画作文（孝道美德与相携反哺）",
+    "title": "相携三十年：母亲牵幼子与成年子女搀扶衰老母亲",
+    "prompt_en": "A drawing shows a mother tenderly holding her toddler's hand thirty years ago, and thirty years later, the grown child supporting his aging mother. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画包含两幅温馨画面：三十年前年轻母亲牵着幼童稚嫩的小手；三十年后长大成人的子女深情搀扶着步履蹒跚的年迈母亲。请描述图画、阐述寓意并评论。160-200词。",
+    "word_count": 189,
+    "band": "第一档 (高分示范)",
+    "score": "19.0/20",
+    "sample_essay": "The touching drawing spans across three decades to present two intertwined moments. In the first scene, a young mother gently holds her toddler's tiny hand, guiding his fledgling steps with endless patience. In the second scene thirty years later, the roles are reversed: the grown child tenderly supports his stooped, white-haired mother, walking hand in hand down the avenue of life.\n\nThe heartwarming picture pays a sublime tribute to filial piety, a cherished cornerstone of traditional Chinese virtues. Filial devotion is fundamentally a reciprocal obligation born out of gratitude. Parents dedicate their prime years and boundless love to nurturing their offspring into maturity. When relentless time bends their posture and dims their eyesight, it is the sacred moral duty of adult children to provide reciprocal comfort and companionship. Sadly, in contemporary society, some individuals neglect their aging parents under the pretext of hectic careers, forgetting that emotional presence outweighs material allowances.\n\nIn conclusion, caring for the elderly reflects the moral conscience of a civilized society. We should cherish our parents while time permits, repaying their unconditional love with attentive companionship and heartfelt warmth.",
+    "analysis": {
+      "structure": "第一段以时光流转为主线，优美刻画牵手三十年角色反转的温情细节；第二段将孝道定位为反哺深情与道德契约，批评以工作繁忙为借口忽视父母陪伴的不良现象；第三段由个人美德上升到社会良知的高度发起倡议。",
+      "scoring_points": [
+        "情感饱满真挚，语言充满文学美感与画面感",
+        "紧扣反哺之情（reciprocal obligation, sacred moral duty）",
+        "结尾呼吁“趁时光未老尽孝陪伴”极具共鸣"
+      ],
+      "highlights": [
+        "intertwined moments across three decades (跨越三十年交织的温情瞬间)",
+        "guiding his fledgling steps with endless patience (以无尽耐心搀扶稚嫩的脚步)",
+        "sublime tribute to filial piety (对孝道美德的崇高礼赞)",
+        "under the pretext of hectic careers (以忙碌的工作为借口)"
+      ]
+    },
+    "category": "图画作文（孝道与美德）",
+    "chart_type": "图画作文",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2014_part_a",
+    "year": 2014,
+    "type": "小作文",
+    "sub_type": "书信/建议信",
+    "title": "给外国留学生推荐中国传统文化课程与学习建议",
+    "prompt_en": "Suppose you are writing to international students who are curious about Chinese culture. 1) recommend a cultural course, and 2) offer tips on learning it effectively.",
+    "prompt_cn": "给对中国文化感兴趣的外国留学生写一封建议信：1) 推荐一门传统文化选修课程；2) 提供有效学习与体验的实用建议。署名使用 Li Ming，约100词。",
+    "word_count": 118,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Friends,\n\n    Delighted to know your enthusiastic interest in traditional Chinese culture, I am writing to recommend the upcoming elective course entitled \"Appreciation of Traditional Chinese Art and Calligraphy\".\n\n    This course provides a panoramic introduction to classic ink painting, seal carving, and calligraphy, offering an immersive hands-on experience under the guidance of renowned masters. To make the most of this course, I suggest that you actively participate in studio practice sessions rather than merely taking notes. Additionally, visiting local museums on weekends will offer vivid contextual appreciation of ancient relics.\n\n    I am confident this course will offer you an unforgettable cultural journey. Please let me know if you need any assistance!\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段热情开门见山推荐书画艺术鉴赏课程；中段介绍课程特色（大师指导、动手体验）并提出重视实操与参观博物馆两项建议；尾段致以美好祝福。",
+      "scoring_points": [
+        "推荐内容文化意蕴深厚且实践性强",
+        "建议层次清晰合理（课内动手实操 + 课外博物馆调研）",
+        "文笔流利地道"
+      ],
+      "highlights": [
+        "panoramic introduction to classic ink painting (中国水墨画全景式导读)",
+        "immersive hands-on experience (沉浸式动手体验)",
+        "vivid contextual appreciation of ancient relics (对古代文物的生动语境鉴赏)"
+      ]
+    },
+    "category": "建议信",
+    "chart_type": "建议信",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2013_part_b",
+    "year": 2013,
+    "type": "大作文",
+    "sub_type": "图画作文（青年抉择与职业规划）",
+    "title": "大学毕业生的人生抉择：求职、考研、出国、考公的十字路口",
+    "prompt_en": "A college graduate stands at a crossroads facing four distinct career paths. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画中一名即将毕业的大学生站在人生的十字路口前，路标分别指向“直接就业”、“考研深造”、“出国留学”和“考公务员”。请描述图画、阐述寓意并评论。160-200词。",
+    "word_count": 187,
+    "band": "第一档 (高分示范)",
+    "score": "18.5/20",
+    "sample_essay": "As is vividly portrayed in the cartoon, a perplexed college graduate stands before an intersection, staring intently at four signposts pointing in divergent directions: employment, postgraduate entrance examinations, studying abroad, and civil service. With a backpack on his shoulder, his hesitant expression reveals the profound uncertainty of his dilemma.\n\nThe picture mirrors a common crossroads that almost every university graduate must confront. As higher education expands rapidly, graduating youth are blessed with diversified opportunities yet burdened with severe decision anxiety. Some blindly follow peer trends without self-evaluation, often abandoning their initial choices later in regret. However, there is no universally supreme path in life; the optimum choice is the one that aligns harmoniously with one's genuine passion, academic aptitudes, and realistic conditions.\n\nFrom my perspective, graduates should refrain from being paralyzed by hesitation. What is truly essential is conducting an honest self-assessment and maintaining steadfast determination once a path is chosen. After all, success is determined not by which road we select, but by the relentless effort we invest upon it.",
+    "analysis": {
+      "structure": "第一段逼真抓取毕业生背包驻足十字路口的犹豫神情；第二段由图及人，揭示多元机遇与选择焦虑的时代背景，强调适合自身特质才是最优解；第三段劝诫青年拒绝内耗纠结，重在自知与选择之后的全力以赴。",
+      "scoring_points": [
+        "审题紧扣青年心理热点，立意成熟豁达",
+        "逻辑论证环环相扣（现象 -> 成因 -> 辨析 -> 对策）",
+        "尾句富含哲理哲思，升华全文境界"
+      ],
+      "highlights": [
+        "stands before an intersection, staring intently (站在路口凝神注视)",
+        "blessed with diversified opportunities yet burdened with severe anxiety (坐拥多元机会却背负焦虑重担)",
+        "aligns harmoniously with one's genuine passion (与内心真正热爱高度契合)",
+        "determined not by which road we select, but by the relentless effort (不取决于选择哪条路，而取决于付出的执着努力)"
+      ]
+    },
+    "category": "图画作文（人生抉择）",
+    "chart_type": "图画作文",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2013_part_a",
+    "year": 2013,
+    "type": "小作文",
+    "sub_type": "告示/通知",
+    "title": "为偏远山区儿童举办慈善义卖活动通知",
+    "prompt_en": "Post a notice to organize a charity sale for children in rural areas. State: 1) sale purpose and items needed, and 2) date and venue.",
+    "prompt_cn": "就为偏远山区贫困儿童举办爱心慈善义卖发布一则通知：1) 说明义卖目的及募集物品；2) 说明活动时间与地点。署名使用 The Students' Union，约100词。",
+    "word_count": 115,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "NOTICE\n\nMay 10th, 2026\n\n    In a joint effort to assist underprivileged children in remote rural regions, the Students' Union is organizing a grand Charity Bazaar on campus.\n\n    The event will be staged in the Central Square from 9:00 AM to 5:00 PM on May 20th. We cordially solicit donations of idle books, stationery, warm clothing, and handcrafted artworks. All proceeds from the sale, together with unsold items, will be delivered directly to primary schools in mountainous areas to support their educational needs.\n\n    Your compassion and participation will illuminate these children's futures. Donations can be dropped off at Room 102 of the Student Activity Center beforehand.\n\nThe Students' Union",
+    "analysis": {
+      "structure": "官方公文通知标准格式：居中 NOTICE 醒目标题；首段明确公益义卖宗旨；次段公布义卖时间、地点、募集物资类别及资金善款流向；末段注明提前捐赠交接地点并呼吁爱心奉献。",
+      "scoring_points": [
+        "公文告示用词庄重大气（solicit donations, All proceeds, illuminate futures）",
+        "关键事实信息完整无遗漏",
+        "符合考研英语一应用文纯正公函要求"
+      ],
+      "highlights": [
+        "assist underprivileged children in remote rural regions (援助偏远贫困儿童)",
+        "cordially solicit donations of idle books (诚挚征集闲置图书文具)",
+        "illuminate these children's futures (照亮孩子们的未来)"
+      ]
+    },
+    "category": "通知/告示",
+    "chart_type": "通知/告示",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2012_part_b",
+    "year": 2012,
+    "type": "大作文",
+    "sub_type": "图画作文（人生哲理与乐观心态）",
+    "title": "打翻的牛奶瓶：悲观叹息全完了 vs 乐观庆幸还剩一半",
+    "prompt_en": "A bottle of milk falls on the floor, spilling half. One person laments 'Everything is ruined', while another says 'Fortunately some is left'. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画中一瓶牛奶打翻在地洒出一半：一人抱头痛哭叹息“全完了”；另一人则乐观庆幸“幸好还剩半瓶”。请描述图画、阐述寓意并评论。160-200词。",
+    "word_count": 188,
+    "band": "第一档 (高分示范)",
+    "score": "19.0/20",
+    "sample_essay": "As is vividly illustrated in the drawing, a bottle of milk accidentally falls to the ground, spilling half of its liquid. Confronted with the exact same occurrence, two individuals display diametrically conflicting psychological responses. The person on the left covers his face in sheer despair, mourning that \"everything is ruined,\" whereas his companion calmly stoops down, cheerfully remarking that \"fortunately there is still some left.\"\n\nThe cartoon conveys an invaluable philosophical lesson regarding life mindset: our reality is molded not by external mishaps, but by the cognitive perspective through which we interpret them. In our lifetime journey, unforeseen misfortunes and setbacks are virtually inevitable. While a defeatist pessimist paralyzes himself in unproductive grief over spilled milk, an unshakable optimist actively directs his attention toward salvaging remaining resources and uncovering hidden opportunities. As the proverbial saying goes, life is ten percent what happens to you and ninety percent how you react to it.\n\nIn conclusion, cultivating an optimistic disposition is vital for anyone striving to surmount challenges. Whenever setbacks strike, we must refrain from sterile laments, maintain a hopeful heart, and forge ahead with fortitude.",
+    "analysis": {
+      "structure": "第一段以同一意外事件为基点，生动描画痛哭绝望与乐观庆幸的强烈反差；第二段将牛奶打翻升华至认知视角决定现实高度的哲理，深入对比悲观沉沦与乐观求变的本质差异，自然嵌入名言；第三段呼吁青年保持希望与定力向前看。",
+      "scoring_points": [
+        "完美切中考研英语一最经典的哲理母题——心态决定人生",
+        "高级词汇丰富（diametrically conflicting, cognitive perspective, defeatist pessimist, sterile laments）",
+        "说理透彻，富有文采与哲思感染力"
+      ],
+      "highlights": [
+        "display diametrically conflicting psychological responses (展现截然相反的心理反应)",
+        "molded not by external mishaps, but by the cognitive perspective (非由外界横祸决定，而是由认知视角所塑造)",
+        "unproductive grief over spilled milk (为打翻牛奶徒劳悲伤)",
+        "refrain from sterile laments and forge ahead (杜绝空洞哀怨，坚定笃定前行)"
+      ]
+    },
+    "category": "图画作文（乐观心态）",
+    "chart_type": "图画作文",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2012_part_a",
+    "year": 2012,
+    "type": "小作文",
+    "sub_type": "书信/投诉与建议信",
+    "title": "就某电子产品质量问题向客服部门写投诉与建议信",
+    "prompt_en": "Write a letter to a customer service department suggesting ways to improve their after-sales service and quality control.",
+    "prompt_cn": "给某公司客户服务部门写一封信：1) 反映购买电子产品的质量与售后问题；2) 就改进质检与售后提出建议。署名使用 Li Ming，约100词。",
+    "word_count": 118,
+    "band": "第一档 (高分示范)",
+    "score": "9.0/10",
+    "sample_essay": "Dear Customer Service Manager,\n\n    I am writing to express my disappointment regarding a laptop I recently purchased from your flagship store, and to offer constructive suggestions for improving your customer service.\n\n    Regrettably, the device developed severe screen flickering issues within only three days of normal usage. When I sought assistance from your service center, the technicians were uncooperative and delayed the warranty inspection unnecessarily. To restore consumer trust, I strongly recommend that your company institute stricter factory quality control to eliminate hardware defects. Furthermore, providing comprehensive customer care training for frontline technicians would significantly enhance your brand reputation.\n\n    I look forward to your prompt replacement arrangement and a satisfactory reply.\n\nYours faithfully,\nLi Ming",
+    "analysis": {
+      "structure": "首段客气委婉点明买到故障电脑的经历及提出建议的目的；中段据实陈述屏幕故障及售后人员推诿延迟的事实，紧接着提出加强出厂品控与一线人员培训两项专业建议；尾段期待换机与回复，末尾合规署名。",
+      "scoring_points": [
+        "措辞理性得体，不卑不亢，既有效维权又具建设性",
+        "兼顾问题反映与改进建议两个要点",
+        "格式规范（Dear Customer Service Manager ... Yours faithfully）"
+      ],
+      "highlights": [
+        "screen flickering issues (屏幕闪烁硬件故障)",
+        "delayed the warranty inspection unnecessarily (不必要地延误保修检测)",
+        "restore consumer trust (重塑消费者信任)",
+        "stricter factory quality control (更严格的出厂质量把控)"
+      ]
+    },
+    "category": "建议信",
+    "chart_type": "建议信",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2011_part_b",
+    "year": 2011,
+    "type": "大作文",
+    "sub_type": "图画作文（生态环保与公共道德）",
+    "title": "旅途之余抛弃垃圾：生态环保与公共道德缺失",
+    "prompt_en": "Tourists on a boat throw trash into a scenic lake, leaving floating waste behind. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画中在如诗如画的湖泊游船上，游客随手将食品袋和塑料瓶抛入清澈湖水中，身后漂浮着刺目的垃圾。请描述图画、阐述寓意并评论。160-200词。",
+    "word_count": 187,
+    "band": "第一档 (高分示范)",
+    "score": "18.5/20",
+    "sample_essay": "As is vividly delineated in the cartoon, several tourists are taking a sightseeing excursion across an otherwise breathtaking lake. Dishearteningly, instead of admiring the natural scenery quietly, they casually discard bottles and plastic wraps into the pristine water, leaving an unsightly trail of floating rubbish behind their boat.\n\nThe picture illustrates a distressing conflict between booming tourism and lagging public morality. With living standards rising rapidly, travel has become a popular leisure pursuit. However, uncivilized behaviors like littering not only desecrate picturesque landscapes but also pose grave threats to vulnerable aquatic ecosystems. Such misconduct exposes a glaring deficit in civic decorum and environmental responsibility among certain travelers who prioritize personal convenience at the expense of public well-being.\n\nIn my perspective, safeguarding our natural ecology demands collaborative societal endeavors. On one hand, tourism authorities should implement stricter supervision and penalize littering rigorously. On the other hand, public education must be amplified to nurture genuine ecological consciousness. Only when every tourist practices self-restraint can our waters remain lucid and our mountains verdant.",
+    "analysis": {
+      "structure": "第一段以优美湖光山色反衬游客随手抛弃塑料瓶的扎眼细节；第二段将问题上升至旅游繁荣与公民公德滞后的尖锐矛盾，深入剖析乱扔垃圾对生态系统的破坏与责任缺失；第三段从监管处罚与环保教育双轨齐下提出对策，结尾化用绿水青山名句。",
+      "scoring_points": [
+        "立意兼具生态保护与公民道德双重维度",
+        "反差描写富有感染力（breathtaking lake vs unsightly trail of floating rubbish）",
+        "措施标本兼治，行文连贯有力"
+      ],
+      "highlights": [
+        "taking a sightseeing excursion (参加观光游览)",
+        "unsightly trail of floating rubbish (身后漂浮的扎眼垃圾轨迹)",
+        "lagging public morality (滞后的公民社会道德)",
+        "deficit in civic decorum (文明素养的匮乏)",
+        "waters remain lucid and our mountains verdant (绿水长清，青山长翠)"
+      ]
+    },
+    "category": "图画作文（生态公德）",
+    "chart_type": "图画作文",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2011_part_a",
+    "year": 2011,
+    "type": "小作文",
+    "sub_type": "书信/建议信",
+    "title": "给表弟写信，推荐大学与专业选择建议",
+    "prompt_en": "Write a letter to a cousin who is going to choose a university and major, offering your advice.",
+    "prompt_cn": "给即将填报高考志愿的表弟写一封信，就大学与专业的选择提出建议。署名使用 Li Ming，约100词。",
+    "word_count": 119,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear Cousin,\n\n    Delighted to learn that you achieved excellent marks in your college entrance examination, I am writing to offer a few personal recommendations regarding your university and major selection.\n\n    To begin with, I suggest choosing a major that genuinely ignites your intrinsic curiosity, such as Computer Science or Environmental Engineering, rather than blindly pursuing transient commercial hypes. Furthermore, when selecting a university, prioritize institutions located in dynamic metropolitan centers, as they provide richer internship opportunities and broader intellectual horizons. Lastly, discussing your career inclinations with industry mentors will give you realistic guidance.\n\n    I have full confidence in your judgment. Feel free to ring me if you want to brainstorm further!\n\nYours affectionately,\nLi Ming",
+    "analysis": {
+      "structure": "首段亲切祝贺表弟高考取得优异成绩；中段从内心兴趣导向、城市区位视野、与业界导师沟通三方面给出深谋远虑的务实建议；尾段表达信任与随时的亲情支持。",
+      "scoring_points": [
+        "亲情语域温馨体贴（Yours affectionately）",
+        "建议极具前瞻性（重视大城市区位与真实兴趣）",
+        "语言地道自然"
+      ],
+      "highlights": [
+        "ignites your intrinsic curiosity (点燃你内心的探索好奇心)",
+        "blindly pursuing transient commercial hypes (盲目追逐短暂的商业热门噱头)",
+        "dynamic metropolitan centers (充满活力的大都市)",
+        "broader intellectual horizons (更加广阔的智力视野)"
+      ]
+    },
+    "category": "建议信",
+    "chart_type": "建议信",
+    "exam_category": "英语一"
+  },
+  {
+    "id": "eng1_2010_part_a",
+    "year": 2010,
+    "type": "小作文",
+    "sub_type": "告示/招募通知",
+    "title": "国际科技博览会志愿者招募通知",
+    "prompt_en": "Post a notice to recruit volunteers for an international science and technology expo. State basic requirements and contact information.",
+    "prompt_cn": "发布一则为国际科技博览会招募学生志愿者的通知：1) 说明博览会概况与招募要求；2) 告知报名与联系方式。署名使用 The Postgraduates' Association，约100词。",
+    "word_count": 118,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "NOTICE\n\nMarch 15th, 2026\n\n    To ensure the smooth operation of the upcoming International Science and Technology Expo, the Postgraduates' Association is currently recruiting student volunteers to provide reception and translation services.\n\n    Applicants must demonstrate fluent English communication skills, basic technological literacy, and a strong sense of responsibility. Selected volunteers will be responsible for guiding international delegations, assisting with seminar logistics, and interpreting during keynote forums. All volunteers will receive specialized diplomatic etiquette training and an official certificate of appreciation upon completion.\n\n    Interested candidates should submit their resumes to expo_volunteer@univ.edu.cn before March 25th. Join us to broaden your global horizons!\n\nThe Postgraduates' Association",
+    "analysis": {
+      "structure": "完全符合考研英语一官方 Notice 规范：居中标题；首段阐明科技博览会招募背景与服务职责；次段清晰规定三大基本素养（外语流利、科技常识、责任心）并告知培训与官方荣誉证书；尾段提供简历接收邮箱与截止日期，末尾署名研究生会。",
+      "scoring_points": [
+        "文体格式100%严谨合规",
+        "志愿者招募要素清晰齐全（职责、条件、权益、报名）",
+        "用词专业干练"
+      ],
+      "highlights": [
+        "diplomatic etiquette training (外交礼仪培训)",
+        "official certificate of appreciation (官方感谢与志愿证书)",
+        "guiding international delegations (引导国际代表团)"
+      ]
+    },
+    "category": "通知/告示",
+    "chart_type": "通知/告示",
+    "exam_category": "英语一"
+  }
+]

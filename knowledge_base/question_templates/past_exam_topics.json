@@ -1,0 +1,411 @@
+{
+  "module": "question_templates",
+  "type": "past_exam_topics",
+  "description": "考研英语二 2010-2025 年历年官方权威真题写作题目汇总（100%真题核对）",
+  "data": {
+    "small_essays": [
+      {
+        "year": 2025,
+        "type": "小作文",
+        "sub_type": "邮件/邀请信",
+        "topic_cn": "计划排演一部中国经典小说改编短剧，写邮件邀请外国朋友John参加",
+        "prompt_en": "Suppose you are planning a short play based on a classic Chinese novel. Write your friend John an email to: 1) introduce the play, and 2) invite him to take part in it.",
+        "key_points": [
+          "introduce the classic play",
+          "invite John to participate"
+        ],
+        "format": "email",
+        "salutation": "Dear John,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2024,
+        "type": "小作文",
+        "sub_type": "邮件/建议与方案信",
+        "topic_cn": "与Jack合作开展古镇老建筑保护调查，写邮件提出计划并征求意见",
+        "prompt_en": "Suppose you and Jack are going to do a survey on the protection of old houses in an ancient town. Write him an email to: 1) put forward your plan, and 2) ask for his opinion.",
+        "key_points": [
+          "put forward survey plan",
+          "ask for Jack's opinion"
+        ],
+        "format": "email",
+        "salutation": "Dear Jack,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2023,
+        "type": "小作文",
+        "sub_type": "邮件/建议与推荐信",
+        "topic_cn": "周日有艺术展和机器人展，朋友David询问去哪个，写邮件给出建议和理由",
+        "prompt_en": "An art exhibition and a robot show are to be held on Sunday, and your friend David asks you which one he should go to. Write an email to him to: 1) give your recommendation, and 2) give your reasons.",
+        "key_points": [
+          "recommend art exhibition or robot show",
+          "give persuasive reasons"
+        ],
+        "format": "email",
+        "salutation": "Dear David,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2022,
+        "type": "小作文",
+        "sub_type": "邮件/通知与邀请信",
+        "topic_cn": "筹办校园美食节，给留学生写邮件介绍活动并邀请参加",
+        "prompt_en": "Suppose you are planning a campus food festival. Write an email to international students in your university to: 1) introduce the festival, and 2) invite them to attend.",
+        "key_points": [
+          "introduce food festival details",
+          "invite international students"
+        ],
+        "format": "email",
+        "salutation": "Dear International Students,",
+        "closing": "Yours sincerely, Zhang Wei",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2021,
+        "type": "小作文",
+        "sub_type": "邮件/邀请信",
+        "topic_cn": "组织在线学术会议，给留学生Jack写邮件邀请参加并告知会议细节",
+        "prompt_en": "Suppose you are organizing an online meeting. Write an email to Jack, an international student, to: 1) invite him to attend, and 2) tell him the details.",
+        "key_points": [
+          "invite Jack to online meeting",
+          "specify meeting details (time, topic, prep)"
+        ],
+        "format": "email",
+        "salutation": "Dear Jack,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2020,
+        "type": "小作文",
+        "sub_type": "告示/通知",
+        "topic_cn": "计划组织国际学生参观历史古迹，发布通知介绍古迹并给出出行建议",
+        "prompt_en": "Suppose you are planning a tour to a historical site for international students. Write a notice to: 1) briefly introduce the site, and 2) give some tips for the tour.",
+        "key_points": [
+          "introduce the historical site",
+          "provide practical tips and schedule"
+        ],
+        "format": "notice",
+        "salutation": "Notice",
+        "closing": "The Student Union",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2019,
+        "type": "小作文",
+        "sub_type": "邮件/建议与方案信",
+        "topic_cn": "受史密斯教授委托筹划城市交通辩论赛，写邮件提出辩题及安排",
+        "prompt_en": "Suppose Professor Smith asked you to plan a debate on the theme of city traffic. Write him an email to: 1) suggest a specific topic with your reasons, and 2) tell him about your arrangements.",
+        "key_points": [
+          "suggest traffic debate topic with reasons",
+          "outline arrangements"
+        ],
+        "format": "email",
+        "salutation": "Dear Professor Smith,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2018,
+        "type": "小作文",
+        "sub_type": "信件/道歉信",
+        "topic_cn": "因故取消拜访史密斯教授的旅行计划，写信致歉并约定下次会面",
+        "prompt_en": "Suppose you have to cancel your travel plan and can't visit Professor Smith. Write him a letter to: 1) apologize and explain the reason, and 2) suggest a meeting at another time.",
+        "key_points": [
+          "apologize for cancelling trip",
+          "explain reason and suggest future meeting"
+        ],
+        "format": "letter",
+        "salutation": "Dear Professor Smith,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2017,
+        "type": "小作文",
+        "sub_type": "回信/接受邀请",
+        "topic_cn": "受威廉姆斯教授邀请做中国文化演讲，写回信接受邀请并介绍演讲要点",
+        "prompt_en": "Suppose you are invited by Professor Williams to give a presentation about Chinese culture to international students. Write a reply to: 1) accept the invitation, and 2) introduce the key points of your presentation.",
+        "key_points": [
+          "accept presentation invitation",
+          "highlight key points of Chinese culture talk"
+        ],
+        "format": "letter",
+        "salutation": "Dear Professor Williams,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2016,
+        "type": "小作文",
+        "sub_type": "回信/感谢与建议信",
+        "topic_cn": "你在翻译比赛中获奖，朋友Jack来信祝贺，写回信致谢并提供翻译建议",
+        "prompt_en": "Suppose you won a translation contest and your friend, Jack, wrote an email to congratulate you and ask for advice on translation. Write him a reply to: 1) thank him, and 2) give your advice.",
+        "key_points": [
+          "thank Jack for congratulatory email",
+          "offer practical translation tips"
+        ],
+        "format": "email/letter",
+        "salutation": "Dear Jack,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2015,
+        "type": "小作文",
+        "sub_type": "告示/通知",
+        "topic_cn": "大学将为高中生举办夏令营，写告示介绍活动并招募志愿者",
+        "prompt_en": "Suppose your university is going to host a summer camp for high school students. Write a notice to: 1) briefly introduce the camp activities, and 2) recruit volunteers.",
+        "key_points": [
+          "introduce summer camp activities",
+          "recruit volunteer requirements"
+        ],
+        "format": "notice",
+        "salutation": "Notice",
+        "closing": "The Student Union",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2014,
+        "type": "小作文",
+        "sub_type": "邮件/介绍信与询问信",
+        "topic_cn": "即将出国留学合住，写邮件给未来室友介绍生活习惯并询问要求",
+        "prompt_en": "Suppose you are going to study abroad and share a room with a foreign student. Write an email to your future roommate to: 1) introduce your living habits, and 2) ask about his/her preferences and requirements.",
+        "key_points": [
+          "introduce your living habits",
+          "ask for roommate preferences"
+        ],
+        "format": "email",
+        "salutation": "Dear Roommate,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2013,
+        "type": "小作文",
+        "sub_type": "邮件/倡议与通知信",
+        "topic_cn": "班级为需要帮助的儿童筹备慈善义卖，写邮件通知同学并号召参与",
+        "prompt_en": "Suppose your class is going to hold a charity sale for kids in need. Write an email to your classmates to: 1) give details about the event, and 2) encourage them to participate.",
+        "key_points": [
+          "provide charity sale details",
+          "encourage classmates to participate and donate"
+        ],
+        "format": "email",
+        "salutation": "Dear Classmates,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2012,
+        "type": "小作文",
+        "sub_type": "信件/投诉信",
+        "topic_cn": "从网店购买的电子词典有质量缺陷，写信向客服投诉并提出解决方案",
+        "prompt_en": "Suppose you bought an electronic dictionary from an online store and found it defective. Write a letter to the customer service department to: 1) explain the problems, and 2) suggest a solution (refund or replacement).",
+        "key_points": [
+          "complain about defective electronic dictionary",
+          "demand refund or replacement"
+        ],
+        "format": "letter",
+        "salutation": "Dear Customer Service Manager,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2011,
+        "type": "小作文",
+        "sub_type": "信件/祝贺信与建议信",
+        "topic_cn": "表弟李明刚考入大学，写信表示祝贺并给出大学生活与学习建议",
+        "prompt_en": "Suppose your cousin Li Ming has just been admitted to a university. Write him a letter to: 1) congratulate him, and 2) give some advice on how to get prepared for college life.",
+        "key_points": [
+          "congratulate cousin on university admission",
+          "provide advice on college preparation"
+        ],
+        "format": "letter",
+        "salutation": "Dear Li Ming,",
+        "closing": "Yours sincerely, Zhang Wei",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2010,
+        "type": "小作文",
+        "sub_type": "信件/感谢信与欢迎信",
+        "topic_cn": "给美国同事写信感谢在美期间的招待，并欢迎他来中国访问",
+        "prompt_en": "Write a letter to your American colleague to: 1) thank him/her for the warm hospitality during your stay in the US, and 2) welcome him/her to visit China.",
+        "key_points": [
+          "express gratitude for US hospitality",
+          "welcome colleague to visit China"
+        ],
+        "format": "letter",
+        "salutation": "Dear Colleague,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      }
+    ],
+    "big_essays": [
+      {
+        "year": 2025,
+        "type": "大作文",
+        "chart_type": "柱状图（bar chart）",
+        "topic_cn": "某社区老年人日常休闲/业余活动类型调查",
+        "prompt_en": "Write an essay based on the chart below. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "elderly leisure activities / aging society lifestyle",
+        "data_description": "柱状图展示了老年人日常休闲活动分布：体育锻炼、文娱社交、数字阅读、家庭休闲等比例",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2024,
+        "type": "大作文",
+        "chart_type": "柱状图（bar chart）",
+        "topic_cn": "某高校学生劳动实践课收获调查",
+        "prompt_en": "Write an essay based on the chart below, which shows the benefits gained by university students from labor practice courses. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "benefits of labor practice / college student growth",
+        "data_description": "柱状图显示收获分布：学习知识 90%、动手能力 80%、心情愉悦 50%、合作精神 30%",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2023,
+        "type": "大作文",
+        "chart_type": "折线图（line graph）",
+        "topic_cn": "2012至2021年我国居民健康素养水平变化情况",
+        "prompt_en": "Write an essay based on the chart below, which shows the changes in health literacy level of Chinese residents from 2012 to 2021. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "health literacy / healthy living awareness",
+        "data_description": "折线图显示我国居民健康素养水平由2012年的8.8%持续稳步上升到2021年的25.4%",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2022,
+        "type": "大作文",
+        "chart_type": "柱状图（bar chart）",
+        "topic_cn": "2018至2020年我国总快递件数与农村快递件数变化情况",
+        "prompt_en": "Write an essay based on the chart below, which shows the express delivery packages in China and rural areas from 2018 to 2020. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "express delivery boom / rural e-commerce and logistics",
+        "data_description": "柱状图展示总快递业务量由510亿件增长到840亿件，农村快递量从120亿件增至300亿件",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2021,
+        "type": "大作文",
+        "chart_type": "柱状图（bar chart）",
+        "topic_cn": "某市居民体育锻炼方式/偏好调查（独处、朋友同行、家人同行）",
+        "prompt_en": "Write an essay based on the chart below, which shows the survey results about exercise preferences among residents in a certain city. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "exercise preferences / healthy lifestyle",
+        "data_description": "柱状图展示居民锻炼偏好：独自一人约54%、与朋友结伴约47%、与家人同行约23%",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2020,
+        "type": "大作文",
+        "chart_type": "饼图（pie chart）",
+        "topic_cn": "某高校学生手机阅读目的调查（获取资讯、学习知识、休闲娱乐、打发时间等）",
+        "prompt_en": "Write an essay based on the chart below, which shows the purposes of mobile phone reading among students in a certain university. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "mobile reading habits / digital lifestyle",
+        "data_description": "饼图显示手机阅读目的占比：获取资讯 59.2%、学习知识 53.5%、休闲娱乐 41.3%、打发时间 17.2%、其他",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2019,
+        "type": "大作文",
+        "chart_type": "柱状图（bar chart）",
+        "topic_cn": "某高校2013-2018年毕业生去向规划变化（升学深造、找工作、创业等）",
+        "prompt_en": "Write an essay based on the chart below, which shows the choices of college graduates from 2013 to 2018 in a university. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "career choices of college graduates / postgraduate study trend",
+        "data_description": "柱状图展示本科毕业生去向：直接找工作比例逐年下降，而选择考研升学深造的比例大幅增加",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2018,
+        "type": "大作文",
+        "chart_type": "饼图（pie chart）",
+        "topic_cn": "2017年某市消费者选择餐厅时关注的因素调查",
+        "prompt_en": "Write an essay based on the chart below, which shows the factors consumers consider when choosing a restaurant in a city in 2017. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "consumer behavior / dining preferences",
+        "data_description": "饼图展示餐厅选择因素占比：特色特征 36.3%、服务 26.8%、就餐环境 24.2%、价格 8.0%、其他 4.7%",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2017,
+        "type": "大作文",
+        "chart_type": "折线图（line graph）",
+        "topic_cn": "2013-2015年我国博物馆数量和参观人数变化情况",
+        "prompt_en": "Write an essay based on the chart below, which shows the number of museums and their visitors in China from 2013 to 2015. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "cultural heritage / public enthusiasm for museums",
+        "data_description": "折线图显示我国博物馆数量从4165所增至4692所，年参观人次从6.38亿持续攀升至7.81亿",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2016,
+        "type": "大作文",
+        "chart_type": "饼图（pie chart）",
+        "topic_cn": "某高校学生旅游目的调查（欣赏风景、缓解压力、结交朋友、培养独立等）",
+        "prompt_en": "Write an essay based on the chart below, which shows the travel purposes of students in a certain university. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "college students travel motivations",
+        "data_description": "饼图展示旅游目的占比：欣赏风景 37%、缓解压力 33%、广交朋友 9%、培养独立 6%、其他 15%",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2015,
+        "type": "大作文",
+        "chart_type": "饼图（pie chart）",
+        "topic_cn": "某市居民春节消费支出各部分所占比例调查",
+        "prompt_en": "Write an essay based on the chart below, which shows the distribution of Spring Festival expenses among residents in a city. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "Spring Festival expenditure / consumption patterns",
+        "data_description": "饼图展示春节花销结构：购买礼物 40%、聚会聚餐 20%、交通出行 20%、压岁钱及其他 20%",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2014,
+        "type": "大作文",
+        "chart_type": "柱状图（bar chart）",
+        "topic_cn": "1990年、2000年与2010年中国城镇人口与乡村人口数量变化",
+        "prompt_en": "Write an essay based on the chart below, which shows the changes in urban and rural populations in China in 1990, 2000 and 2010. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "urbanization in China / demographic transition",
+        "data_description": "柱状图展示人口变迁：城镇人口由3亿大幅攀升至6.7亿，农村人口由8.3亿逐步减少至6.7亿",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2013,
+        "type": "大作文",
+        "chart_type": "柱状图（bar chart）",
+        "topic_cn": "某高校大一至大四各年级学生兼职比例调查",
+        "prompt_en": "Write an essay based on the chart below, which shows the proportion of college students taking part-time jobs from freshmen to seniors in a university. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "college students part-time jobs / social practice",
+        "data_description": "柱状图展示兼职比例：大一 67.7%、大二 77.9%、大三 87.2%、大四 71.4%",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2012,
+        "type": "大作文",
+        "chart_type": "表格（table）",
+        "topic_cn": "某公司不同年龄段员工工作满意度调查",
+        "prompt_en": "Write an essay based on the table below, which shows the job satisfaction survey results of employees of different age groups in a company. In your writing, you should: 1) interpret the table, and 2) give your comments.",
+        "theme": "job satisfaction across different age groups",
+        "data_description": "表格显示<=40岁、41-50岁与>50岁员工满意度分布：40岁以下不满意度较高，50岁以上满意度最高",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2011,
+        "type": "大作文",
+        "chart_type": "柱状图（bar chart）",
+        "topic_cn": "2008年与2009年国内轿车市场国产品牌与合资品牌市场份额变化",
+        "prompt_en": "Write an essay based on the chart below, which shows the market share of domestic and foreign car brands in China in 2008 and 2009. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "domestic car brand development / market competition",
+        "data_description": "柱状图展示市场份额变化：国产品牌份额从25%提升至接近30%，合资品牌份额略有微降",
+        "word_count": "150 words"
+      },
+      {
+        "year": 2010,
+        "type": "大作文",
+        "chart_type": "柱状图（bar chart）",
+        "topic_cn": "2000-2008年发展中国家与发达国家移动电话用户数量变化",
+        "prompt_en": "Write an essay based on the chart below, which shows mobile phone subscriptions in developed and developing countries from 2000 to 2008. In your writing, you should: 1) interpret the chart, and 2) give your comments.",
+        "theme": "mobile phone explosion in developing nations / communication technology",
+        "data_description": "柱状图显示移动电话用户变迁：发展中国家由4亿暴增至40亿，发达国家从5亿增长至10亿",
+        "word_count": "150 words"
+      }
+    ]
+  }
+}

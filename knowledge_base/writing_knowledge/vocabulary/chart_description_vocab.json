@@ -1,0 +1,191 @@
+{
+  "module": "writing_knowledge",
+  "type": "chart_description_vocabulary",
+  "description": "图表描述类词汇和表达，用于大作文写作",
+  "categories": [
+    {
+      "category": "trend_description",
+      "name_cn": "趋势描述",
+      "subcategories": [
+        {
+          "trend": "上升/增长",
+          "verbs": [
+            {"word": "increase", "formality": "neutral", "intensity": "moderate"},
+            {"word": "rise", "formality": "neutral", "intensity": "moderate"},
+            {"word": "grow", "formality": "neutral", "intensity": "moderate"},
+            {"word": "climb", "formality": "neutral", "intensity": "moderate"},
+            {"word": "surge", "formality": "formal", "intensity": "strong"},
+            {"word": "soar", "formality": "formal", "intensity": "very strong"},
+            {"word": "skyrocket", "formality": "informal", "intensity": "very strong"},
+            {"word": "rocket", "formality": "informal", "intensity": "very strong"},
+            {"word": "jump", "formality": "neutral", "intensity": "strong"},
+            {"word": "boom", "formality": "neutral", "intensity": "strong"},
+            {"word": "expand", "formality": "formal", "intensity": "moderate"},
+            {"word": "escalate", "formality": "formal", "intensity": "strong"}
+          ],
+          "nouns": ["increase", "rise", "growth", "climb", "surge", "boom", "expansion", "upturn"],
+          "example_sentences": [
+            "The number of students increased dramatically from 200 to 500.",
+            "There was a sharp rise in the proportion of graduates choosing further education.",
+            "Sales soared to an all-time high of 10 million units in 2020."
+          ]
+        },
+        {
+          "trend": "下降/减少",
+          "verbs": [
+            {"word": "decrease", "formality": "neutral", "intensity": "moderate"},
+            {"word": "decline", "formality": "formal", "intensity": "moderate"},
+            {"word": "drop", "formality": "neutral", "intensity": "moderate"},
+            {"word": "fall", "formality": "neutral", "intensity": "moderate"},
+            {"word": "reduce", "formality": "formal", "intensity": "moderate"},
+            {"word": "plummet", "formality": "formal", "intensity": "very strong"},
+            {"word": "plunge", "formality": "formal", "intensity": "very strong"},
+            {"word": "dip", "formality": "neutral", "intensity": "weak"},
+            {"word": "shrink", "formality": "neutral", "intensity": "moderate"},
+            {"word": "slump", "formality": "neutral", "intensity": "strong"},
+            {"word": "dwindle", "formality": "formal", "intensity": "moderate"}
+          ],
+          "nouns": ["decrease", "decline", "drop", "fall", "reduction", "downturn", "slump"],
+          "example_sentences": [
+            "The percentage of rural population declined steadily over the decade.",
+            "There was a dramatic drop in the market share of domestic brands.",
+            "The number of visitors fell by 30% compared to the previous year."
+          ]
+        },
+        {
+          "trend": "波动",
+          "verbs": [
+            {"word": "fluctuate", "formality": "formal", "intensity": "moderate"},
+            {"word": "vary", "formality": "neutral", "intensity": "weak"},
+            {"word": "oscillate", "formality": "very formal", "intensity": "moderate"}
+          ],
+          "nouns": ["fluctuation", "variation", "volatility"],
+          "example_sentences": [
+            "The figures fluctuated between 20% and 35% over the five-year period.",
+            "There were considerable fluctuations in the data from 2015 to 2020."
+          ]
+        },
+        {
+          "trend": "保持稳定",
+          "expressions": [
+            "remain stable / steady / constant / unchanged",
+            "level off",
+            "plateau",
+            "stay at the same level",
+            "hold steady at",
+            "maintain at",
+            "stabilize at"
+          ],
+          "example_sentences": [
+            "The proportion remained relatively stable at around 40%.",
+            "After the initial increase, the number leveled off at 500.",
+            "The figure plateaued at approximately 25% in the final two years."
+          ]
+        },
+        {
+          "trend": "达到峰值/谷底",
+          "expressions": [
+            "peak at / reach a peak of",
+            "hit a high of / reach a high of",
+            "reach its highest point",
+            "bottom out at / reach a low of",
+            "hit a low of / reach its lowest point",
+            "reach a trough"
+          ],
+          "example_sentences": [
+            "The number peaked at 800 in 2018 before declining slightly.",
+            "Satisfaction levels reached a low of 15% in the category of salary."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "degree_adverbs",
+      "name_cn": "变化程度副词",
+      "levels": [
+        {
+          "degree": "急剧/大幅",
+          "adverbs": ["dramatically", "sharply", "significantly", "considerably", "substantially", "remarkably", "enormously", "tremendously", "steeply"],
+          "adjectives": ["dramatic", "sharp", "significant", "considerable", "substantial", "remarkable", "steep"]
+        },
+        {
+          "degree": "适度/较大",
+          "adverbs": ["moderately", "noticeably", "notably"],
+          "adjectives": ["moderate", "noticeable", "notable"]
+        },
+        {
+          "degree": "缓慢/小幅",
+          "adverbs": ["gradually", "slowly", "steadily", "slightly", "marginally", "minimally", "gently", "mildly"],
+          "adjectives": ["gradual", "slow", "steady", "slight", "marginal", "minimal", "gentle", "mild"]
+        },
+        {
+          "degree": "快速",
+          "adverbs": ["rapidly", "quickly", "swiftly"],
+          "adjectives": ["rapid", "quick", "swift"]
+        }
+      ]
+    },
+    {
+      "category": "proportion_expressions",
+      "name_cn": "比例/占比表达（饼图/柱状图常用）",
+      "expressions": [
+        {"expression": "account for / make up / constitute + 百分比", "example": "Entertainment accounts for 35% of the total usage."},
+        {"expression": "represent / comprise", "example": "Online shopping represents the largest proportion at 40%."},
+        {"expression": "the majority of / most of", "example": "The majority of students prefer running as their exercise."},
+        {"expression": "a minority of / a small fraction of", "example": "Only a minority of respondents chose 'other' options."},
+        {"expression": "approximately / roughly / about", "example": "Approximately 25% of the spending goes to transportation."},
+        {"expression": "nearly / almost / close to", "example": "Nearly half of the graduates opted for further education."},
+        {"expression": "more than / over / above", "example": "More than 60% of consumers consider taste as the primary factor."},
+        {"expression": "less than / under / below", "example": "Less than 10% of students engage in entrepreneurship."},
+        {"expression": "one-third / two-thirds / a quarter / three-quarters", "example": "One-third of the budget is allocated to gifts."},
+        {"expression": "twice as much as / three times as many as", "example": "The urban population was twice as large as the rural population."}
+      ]
+    },
+    {
+      "category": "comparison_expressions",
+      "name_cn": "比较与对比表达",
+      "expressions": [
+        {"expression": "compared with / to", "example": "Compared with 2010, the figure in 2020 doubled."},
+        {"expression": "in comparison with", "example": "In comparison with other factors, taste ranked the highest."},
+        {"expression": "in contrast to / by contrast", "example": "In contrast to the rural population, urban residents increased rapidly."},
+        {"expression": "on the other hand / conversely", "example": "Study accounted for 20%; on the other hand, gaming took up 35%."},
+        {"expression": "similarly / likewise / in the same way", "example": "Similarly, the proportion of female participants also increased."},
+        {"expression": "whereas / while / whilst", "example": "The percentage of freshmen working part-time was only 10%, whereas seniors reached 60%."},
+        {"expression": "differ from / be different from", "example": "The data in 2020 differed significantly from that in 2015."},
+        {"expression": "surpass / exceed / outstrip", "example": "Developing countries surpassed developed countries in mobile subscriptions."},
+        {"expression": "lag behind / fall behind", "example": "Rural areas still lagged behind urban areas in terms of infrastructure."},
+        {"expression": "... times as ... as / ... times more than", "example": "The number was three times as large as that of the previous year."}
+      ]
+    },
+    {
+      "category": "opening_sentences",
+      "name_cn": "图表描述开头句型",
+      "sentences": [
+        "As is clearly shown/illustrated/depicted in the chart/graph/table, ...",
+        "The chart/graph/table above shows/reveals/indicates that ...",
+        "According to the data presented in the chart, ...",
+        "It can be seen/observed from the chart that ...",
+        "The bar chart provides information about ...",
+        "As can be seen from the pie chart, ...",
+        "The table gives/presents data on ...",
+        "A glance at the chart reveals a notable trend in ...",
+        "The line graph demonstrates the changes in ... from [year] to [year].",
+        "From the chart, we can observe some interesting trends regarding ..."
+      ]
+    },
+    {
+      "category": "data_referencing",
+      "name_cn": "引用数据的表达",
+      "expressions": [
+        "The figure stood at 25% in 2020.",
+        "The number reached / hit 500.",
+        "The percentage rose from 20% to 45%.",
+        "There was a 15% increase in ...",
+        "The proportion of ... was 30%, followed by ... at 25%.",
+        "... ranked first/highest at 40%, while ... came in last at 5%.",
+        "The data indicates a growing/declining trend in ...",
+        "Specifically / To be specific, the number of ... was 200 in 2015."
+      ]
+    }
+  ]
+}

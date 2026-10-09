@@ -1,0 +1,80 @@
+{
+  "module": "writing_knowledge",
+  "exam_category": "英语一",
+  "type": "format_guidelines",
+  "subtype": "picture_essay",
+  "description": "考研英语一大作文（图画/漫画作文）三段论格式与规范指南",
+  "format": {
+    "structure": "标准三段式（Three-Paragraph Essay）",
+    "paragraphs": [
+      {
+        "paragraph": 1,
+        "name": "图画描摹段（Picture Description）",
+        "purpose": "用生动准确的笔触描绘图画场景、主体动作、细节反差与文字说明，引申象征主题",
+        "suggested_words": "40-50词",
+        "suggested_sentences": "3-4句",
+        "framework": [
+          "第1句（引出图画）：As is vividly/humorously demonstrated in the drawing/cartoon, ...",
+          "第2-3句（细节与反差）：Specifically, [描写主体人物动作神态与环境]. Meanwhile/In stark contrast, [若为双幅图或对比画面，描写另一方].",
+          "第4句（点出文字说明/引出寓意）：The caption beneath the illustration explicitly notes: \"...\". This visual depiction is not merely artistic, but carries a profound metaphorical undertone."
+        ],
+        "do": [
+          "抓住图画的“题眼”：人物动作、表情神态、对比反差",
+          "准确翻译图画中的中文文字说明（Caption）",
+          "使用生动描摹动词（depict, illustrate, portray, spotlight）",
+          "行文紧凑利落，控制在50词左右"
+        ],
+        "do_not": [
+          "切忌第一段直接跳过图画描写去空泛讲大道理（漏写图画必扣档次分）",
+          "切忌罗列无关冗长细节，避免词藻堆砌",
+          "不要在第一段过早展开深层社会原因分析"
+        ]
+      },
+      {
+        "paragraph": 2,
+        "name": "寓意阐释与论据剖析段（Interpretation & Deep Analysis）",
+        "purpose": "点破图画背后的深层哲理或社会现象，展开2-3个维度的充分论证",
+        "suggested_words": "90-110词",
+        "suggested_sentences": "4-6句",
+        "framework": [
+          "第1句（点破核心寓意）：The primary purpose of the artist is to reveal [核心主题/社会现象/人生哲理].",
+          "第2-3句（论据维度一：心理认知/个体意识）：On the individual level, [深入阐释原因或积极/消极影响].",
+          "第4-5句（论据维度二：社会环境/科技文化）：From a societal perspective, [深入展开客观背景或普遍规律].",
+          "第6句（小结或警示）：Consequently, it is no exaggeration to state that [升华本段核心论点]."
+        ],
+        "do": [
+          "中心立意必须与图画主旨高度吻合，立论高远辩证",
+          "从不同维度（心理、社会、历史、科技、教育）层层剥茧",
+          "使用多样化连接过渡词（To begin with, Furthermore, More fundamentally）",
+          "运用高级语法结构（主语从句、非谓语分词短语、同位语从句）"
+        ],
+        "do_not": [
+          "不要生搬硬套假大空的万能模板套话",
+          "避免论据相互冲突或逻辑跳跃",
+          "避免单一维度扁平化说教"
+        ]
+      },
+      {
+        "paragraph": 3,
+        "name": "对策建议与评论展望段（Countermeasures, Comments & Conclusion）",
+        "purpose": "提出针对性对策建议或发表独到见解，升华文章境界并积极展望",
+        "suggested_words": "40-50词",
+        "suggested_sentences": "3-4句",
+        "framework": [
+          "第1句（承上启下提对策）：In light of the arguments above, effective measures/enlightened mindsets must be fostered.",
+          "第2句（分层落实行动）：On the one hand, [个人自律/提升意识]. On the other hand, [社会引导/教育宣传/制度约束].",
+          "第3句（倒装句/虚拟语气升华展望）：Only when [全民合力/青年践行] can we [实现美好愿景/跨越困难挑战]."
+        ],
+        "do": [
+          "建议具体可行，切中前文揭示的问题或主旨",
+          "句式典雅有力，结尾建议使用倒装结构（Only in this way can we...）",
+          "篇幅精炼，与首段相呼应"
+        ],
+        "do_not": [
+          "避免虎头蛇尾，匆忙草草收尾",
+          "不要提出脱离实际的极端措施"
+        ]
+      }
+    ]
+  }
+}

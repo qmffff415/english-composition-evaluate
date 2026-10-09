@@ -1,0 +1,246 @@
+[
+  {
+    "id": "eng1_2025_part_b",
+    "exam_category": "英语一",
+    "year": 2025,
+    "type": "大作文",
+    "sub_type": "图表与社会发展",
+    "title": "2014-2023年我国居民耐用消费品拥有量变化（生活水平提升与家电普及）",
+    "prompt_en": "Write an essay based on the chart showing changes in possession of durable consumer goods among Chinese residents (2014-2023). Interpret the chart and give your comments.",
+    "prompt_cn": "图表展示了2014-2023年我国居民耐用消费品（冰箱、空调、洗衣机等）每百户拥有量的稳步上升趋势。请描述图表并分析生活水平提升与高质量发展的时代特征。",
+    "word_count": 186,
+    "band": "第一档 (高分示范)",
+    "score": "18.5/20",
+    "sample_essay": "The chart above delineates a remarkable upward trajectory in the possession of durable consumer goods among Chinese households from 2014 to 2023. As is vividly demonstrated by the data, the ownership of essential home appliances, particularly refrigerators and air conditioners, has experienced steady and sustained expansion over the past decade, with nearly every hundred households equipped with modern appliances.\n\nThe profound factors underpinning this transformative shift are twofold. Foremost among them is the robust economic growth and the continuous enhancement of household disposable income, which have drastically strengthened citizens' purchasing power. Furthermore, the nationwide implementation of high-quality development strategies and rural revitalizing initiatives has bridged regional disparities, enabling smart and eco-friendly appliances to penetrate broader consumer demographics. Consequently, durable goods have transitioned from luxury symbols into standard household necessities.\n\nIn conclusion, the surge in consumer appliance ownership bears vivid testimony to the monumental improvement in people's living standards. Looking ahead, as consumption upgrading accelerates, intelligent and green products will undoubtedly inject fresh vitality into our pursuit of high-quality life.",
+    "analysis": {
+      "structure": "首段精准概括耐用消费品拥有量十年上升趋势；第二段从居民可支配收入增长与乡村振兴/高质量发展双重视角深入归因；第三段总结提炼民生福祉飞跃并积极展望未来消费升级。",
+      "scoring_points": [
+        "准确把握时代变迁与宏观经济背景",
+        "词汇表达高级地道（remarkable upward trajectory, disposable income, penetrate broader consumer demographics）",
+        "段落逻辑严谨递进"
+      ],
+      "highlights": [
+        "delineates a remarkable upward trajectory (精准描述显著上升态势)",
+        "underpinning this transformative shift (支撑这一变革性转变的深层因素)",
+        "bears vivid testimony to... (生动见证了……)",
+        "inject fresh vitality into... (注入新鲜活力)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2025_part_a",
+    "exam_category": "英语一",
+    "year": 2025,
+    "type": "小作文",
+    "sub_type": "书信/邀请信",
+    "title": "传统文化手工艺展示邀请信",
+    "prompt_en": "Suppose you are planning an exhibition of traditional Chinese craftsmanship. Write your foreign friend John an email to: 1) introduce the event, and 2) invite him to attend.",
+    "prompt_cn": "假设你正在筹办一个中国传统手工艺展示活动。给外国朋友John写一封邮件：1) 介绍活动；2) 邀请他参加。词数100词左右，署名 Li Ming。",
+    "word_count": 116,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear John,\n\n    I am writing to share some thrilling news with you. Our university is organizing an Exhibition of Traditional Chinese Craftsmanship next Friday, and I would love to invite you to join us.\n\n    The event will showcase a fascinating array of intangible cultural heritage, ranging from delicate paper-cutting and pottery to exquisite embroidery. Moreover, masters will demonstrate their techniques live and guide visitors in hands-on workshops. Knowing your keen fascination with oriental culture, I am convinced that you will find this experience deeply rewarding.\n\n    The exhibition will open at 2:00 p.m. in the Art Center. Please let me know if you can make it.\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段开门见山点出活动与邀请；中段生动介绍剪纸、陶艺、刺绣等非遗项目及互动工坊；末段明确时间地点并礼貌期盼回复。",
+      "scoring_points": [
+        "覆盖所有题目要求要点",
+        "词汇地道优雅（thrilling news, delicate paper-cutting, exquisite embroidery）",
+        "格式完全规范"
+      ],
+      "highlights": [
+        "delicate paper-cutting and exquisite embroidery (生动具体的非遗词汇)",
+        "Knowing your keen fascination with... (从对方兴趣出发进行邀请，情理交融)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2024_part_b",
+    "exam_category": "英语一",
+    "year": 2024,
+    "type": "大作文",
+    "sub_type": "图画与城市宜居发展",
+    "title": "城市公园与市民生活品质提升",
+    "prompt_en": "Write an essay based on the drawing and table: a citizen enjoys walking in a nearby pocket park with table showing increase in urban parks. 1) describe the drawing and data, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "左侧漫画描绘了一位市民感叹家门口的小微公园越来越便利；右侧数据展示了城市公园数量的迅速增长。请描述图画与数据，阐释其寓意并发表评论。",
+    "word_count": 194,
+    "band": "第一档 (高分示范)",
+    "score": "19/20",
+    "sample_essay": "As is vividly delineated in the picture, a smiling citizen is strolling leisurely in a newly built pocket park right outside his doorstep, delighting in the lush greenery and recreational facilities. Adjacent to the drawing, a statistical table illustrates a substantial surge in the total number of urban parks over the past few years. The visual and numerical evidence jointly mirrors a heartening transformation in modern urban life.\n\nThe core implication of this scenario is that green ecological development constitutes an indispensable cornerstone of civic happiness. On the one hand, accessible public parks provide vital breathing spaces within bustling metropolises, effectively alleviating residents' mental strain and promoting active physical exercise. On the other hand, the continuous expansion of urban greenery reflects a fundamental upgrade in municipal governance philosophies—shifting from GDP-centered urban sprawl toward human-oriented, sustainable coexistence between humanity and nature.\n\nTo preserve this encouraging momentum, concerted efforts should be sustained. Municipal authorities ought to continue optimizing urban landscaping and maintaining public amenities, while citizens should cherish these shared green assets. Only by harmonizing urban modernization with ecological preservation can we build cities where people live with dignity and joy.",
+    "analysis": {
+      "structure": "第一段图画结合数据生动描述口袋公园建设；第二段从缓解心理压力促进健康与城市治理理念升级双重视角深入剖析；第三段提出管理与市民共建对策并用倒装句升华。",
+      "scoring_points": [
+        "图画与图表双要素结合精准紧密",
+        "论点深刻（以人为本的城市发展逻辑）",
+        "语言高级流畅，句式多样"
+      ],
+      "highlights": [
+        "right outside his doorstep (家门口，地道生动)",
+        "vital breathing spaces within bustling metropolises (繁华都市中至关重要的呼吸空间)",
+        "shifting from GDP-centered urban sprawl toward human-oriented, sustainable coexistence (深刻辩证的论证表达)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2024_part_a",
+    "exam_category": "英语一",
+    "year": 2024,
+    "type": "小作文",
+    "sub_type": "书信/回信与建议信",
+    "title": "介绍中国古代科学家课堂报告建议信",
+    "prompt_en": "Suppose you have received an email from an international student asking for advice on doing an oral report about ancient Chinese scientists. Write an email to him to: 1) recommend a specific scientist, and 2) give your reasons.",
+    "prompt_cn": "给外国朋友写回信，推荐一位中国古代科学家（如张衡、李时珍、祖冲之等），说明推荐理由并给出报告展示建议。词数约100词，署名 Li Ming。",
+    "word_count": 118,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "Dear friend,\n\n    I am delighted to receive your email inquiring about advice on your upcoming oral presentation regarding ancient Chinese scientists. It gives me great pleasure to share my recommendations with you.\n\n    In terms of the candidate, I strongly recommend focusing on Zhang Heng, an outstanding polymath of the Eastern Han Dynasty. He is globally renowned for inventing the seismoscope and making profound contributions to astronomy and mathematics. For your presentation, I suggest adopting a story-telling approach that highlights how his inventions solved practical problems. Furthermore, utilizing vivid illustrations will make your talk much more engaging for your audience.\n\n    I hope these suggestions prove helpful for your presentation. Please feel free to ask if you need further reference materials.\n\nYours sincerely,\nLi Ming",
+    "analysis": {
+      "structure": "首段热情回应；中段推荐张衡及其地震仪成就，并给出故事化与多媒体展示建议；末段表达祝愿并提供后续支持。",
+      "scoring_points": [
+        "推荐对象具代表性，理由充分",
+        "兼顾科学家成就与口头报告技巧两个层面",
+        "用词得体高雅"
+      ],
+      "highlights": [
+        "outstanding polymath (杰出的博学者/通才)",
+        "inventing the seismoscope (发明候风地动仪)",
+        "adopting a story-telling approach (采取故事化呈现手法)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2023_part_b",
+    "exam_category": "英语一",
+    "year": 2023,
+    "type": "大作文",
+    "sub_type": "图画/传统文化传承",
+    "title": "龙舟赛与传统节日文化传承",
+    "prompt_en": "A drawing shows young people enthusiastically competing in a Dragon Boat race while crowds cheer by the river. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画展现了几个年轻人齐心协力划龙舟，两岸挤满了欢呼雀跃的观众。请描述图画，揭示其寓意并发表评论。",
+    "word_count": 190,
+    "band": "第一档 (高分示范)",
+    "score": "19/20",
+    "sample_essay": "A close inspection of the drawing reveals a captivating and spirited scene. In the center of the river, several vigorous young people are paddling a dragon boat in unison, slicing through surging waves with resolute determination. On the riverbanks, cheering spectators are enthusiastically waving flags and applauding. This vibrant imagery immediately highlights the timeless allure of traditional festive customs.\n\nThe profound message embedded in the drawing is the dynamic revitalization of traditional Chinese culture among the younger generation. In this era of rapid modernization, traditional festivities are far from obsolete relics; instead, they serve as emotional anchors that unite communities and preserve historical memory. By actively participating in dragon boat racing, contemporary youth not only honor ancestral heritage but also embody the virtues of teamwork, resilience, and patriotic devotion. Such grass-roots cultural engagement injects fresh vitality into time-honored traditions, safeguarding our national identity against the erosion of cultural homogenization.\n\nTo sustain this cultural Renaissance, society should continue integrating traditional folklore into modern education and community activities. As college students, we ought to cherish our cultural roots with pride and proactive participation. Only in this way can the beacon of traditional wisdom illuminate our shared future.",
+    "analysis": {
+      "structure": "首段生动描摹龙舟破浪前行与两岸观众欢呼的热烈场面；第二段揭示青年一代对传统文化的主动激活与精神凝聚作用；第三段呼吁将传统民俗融入现代生活，用倒装句升华。",
+      "scoring_points": [
+        "将龙舟赛引申到文化传承、团队协作与文化认同",
+        "语言极富文采与感染力",
+        "行文节奏连贯自然"
+      ],
+      "highlights": [
+        "paddling a dragon boat in unison (齐心协力划龙舟)",
+        "dynamic revitalization of traditional Chinese culture (传统文化的蓬勃复兴)",
+        "emotional anchors that unite communities (凝聚社区的情感针脚)",
+        "safeguarding our national identity (守护民族认同)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2019_part_b",
+    "exam_category": "英语一",
+    "year": 2019,
+    "type": "大作文",
+    "sub_type": "图画/人生哲理与坚持",
+    "title": "半山腰歇脚：坚持不懈与半途而废",
+    "prompt_en": "Two people are climbing a hill. One sits down exhausted saying 'I can't go on', while the other drinks water and encourages him to keep climbing. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "图画中两人爬山到了半山腰，一人坐倒在地感叹“爬不动了”，另一人喝水并热情鼓励同伴继续登顶。文字说明：“半山腰”。请描述图画、阐释寓意并评论。",
+    "word_count": 196,
+    "band": "第一档 (高分示范)",
+    "score": "19/20",
+    "sample_essay": "As is vividly and subtly portrayed in the cartoon, two mountaineers are resting on their journey up a rugged slope. One exhausted climber sits down on the ground, wiping sweat and lamenting that he cannot go any further. In sharp contrast, his companion stands firmly, taking a sip of water while holding out his hand to encourage his peer to keep pressing onward. The caption underneath explicitly reads: \"Halfway Up the Mountain\".\n\nThe metaphorical implication of this visual scene is both profound and inspiring: it is perseverance that constitutes the indispensable cornerstone of any remarkable accomplishment. In the voyage of life, when confronting daunting bottlenecks, people inevitably diverge in their attitudes. Those who surrender halfway invariably fall victim to momentary exhaustion, thereby losing the precious opportunity to witness the picturesque scenery at the summit. Conversely, individuals endowed with indomitable grit view temporary hardship not as a dead end, but as a stepping stone toward higher horizons. Historical records and personal triumphs abundantly prove that monumental breakthroughs stem from persistent endeavor rather than sheer luck.\n\nFrom what has been discussed above, it is imperative for us, particularly contemporary college students, to foster psychological resilience in our academic and personal undertakings. Only by arming ourselves with unwavering determination can we conquer looming hurdles and eventually scale the pinnacle of life.",
+    "analysis": {
+      "structure": "首段精准刻画半山腰对比反差；第二段将爬山升华到人生旅程中的坚毅品质与自我实现；第三段号召青年学子磨砺内心韧性。",
+      "scoring_points": [
+        "图画描述极其细致（wiping sweat, holding out his hand）",
+        "寓意阐述对比鲜明有力",
+        "句型多样（倒装句、同位语从句、非谓语从句）"
+      ],
+      "highlights": [
+        "rugged slope (崎岖的山坡)",
+        "indispensable cornerstone (不可或缺的基石)",
+        "endowed with indomitable grit (具备坚韧不拔的毅力)",
+        "scale the pinnacle of life (攀登人生巅峰)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2015_part_b",
+    "exam_category": "英语一",
+    "year": 2015,
+    "type": "大作文",
+    "sub_type": "图画/社会现象与低头族",
+    "title": "手机时代的聚会（低头族与人际疏离）",
+    "prompt_en": "Four friends sitting around a dining table, each staring at a smartphone screen instead of talking. Caption: 'Gathering in Mobile Era'. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "四个朋友围坐餐桌聚会，每个人都在低头刷手机，互相毫无交流。文字说明：“手机时代的聚会”。请描述漫画、阐明深层寓意并给出评论与建议。",
+    "word_count": 192,
+    "band": "第一档 (高分示范)",
+    "score": "18.5/20",
+    "sample_essay": "The cartoon above illustrates a thought-provoking scenario that is exceedingly prevalent in contemporary life. Four friends are gathered around a lavish dining table, surrounded by delicious dishes. However, instead of engaging in lively face-to-face conversation, each individual is burying their head in a glowing smartphone screen, entirely absorbed in cyberspace. The caption succinctly crystallizes the theme: \"A Gathering in the Mobile Era\".\n\nThe primary intention of the artist is not merely to satirize this bizarre scene, but to sound an alarm regarding the growing interpersonal alienation triggered by digital addiction. A multitude of underlying factors account for this dilemma. First and foremost, mobile applications and algorithm-driven content offer instant sensory gratification, subtly trapping users into compulsive screen consumption. Furthermore, the relentless pace of modern society often leaves young adults emotionally exhausted, prompting them to seek refuge in virtual relationships while neglecting genuine warmth in the physical world. Consequently, the very technology designed to bridge distances has ironically built an invisible wall between human hearts.\n\nTo reverse this worrisome trend, concerted endeavors must be mobilized. Individuals should cultivate digital moderation, consciously putting away mobile phones during family reunions and social gatherings. Only when we strike a balance between technology and humanity can we rebuild genuine intimacy.",
+    "analysis": {
+      "structure": "首段点破手机时代聚会常态；次段从算法感官刺激与快节奏情感疲惫双重视角深入剖析人际疏离；末段倡导数字节制并强调重构亲密关系。",
+      "scoring_points": [
+        "讽刺画面描摹极具视觉画面感",
+        "归因透彻（instant sensory gratification, digital moderation）",
+        "篇章过渡行云流水"
+      ],
+      "highlights": [
+        "burying their head in a glowing smartphone screen (低头沉迷发光手机屏幕)",
+        "interpersonal alienation triggered by digital addiction (数字依赖引发的人际疏离)",
+        "built an invisible wall between human hearts (在人心之间筑起无形的墙)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2010_part_b",
+    "exam_category": "英语一",
+    "year": 2010,
+    "type": "大作文",
+    "sub_type": "图画/文化交流与融合",
+    "title": "文化“火锅”既美味又营养",
+    "prompt_en": "A boiling hotpot labeled 'Culture' contains various cultural elements like Shakespeare, Confucianism, Kung Fu, Postmodernism. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+    "prompt_cn": "一口热气腾腾的火锅上写着“文化”二字，里面有莎士比亚、儒学、功夫、解构等中外文明要素。文字说明：“文化‘火锅’，既美味又营养”。请描述图画，阐述其寓意并发表评论。",
+    "word_count": 188,
+    "band": "第一档 (高分示范)",
+    "score": "18/20",
+    "sample_essay": "A close examination of the drawing reveals a captivating and symbolic illustration. Centered in the picture is a steamy traditional hotpot labeled \"Culture\", into which diverse cultural ingredients—ranging from Shakespeare and Einstein to Confucianism, Taoism, and Kung Fu—are blended harmoniously. The caption beneath notes: \"Cultural Hotpot: Delicious and Nutritious\".\n\nWhat the painter intends to highlight is the paramount significance of cross-cultural integration and mutual learning in a globalized era. In an interconnected world, no civilization can flourish in self-imposed isolation; cultural diversity serves as the very lifeblood that propels human progress forward. On the one hand, assimilating the essence of foreign wisdom injects fresh dynamism into domestic cultural development. On the other hand, sharing our time-honored heritage with the global community enables different civilizations to transcend misunderstandings and achieve common prosperity. A culturally inclusive mindset not only invigorates national vitality but also enriches human civilization as a whole.\n\nIn contemplation of this inspiring message, we ought to approach distinct cultures with an open mind and steadfast cultural confidence. As college students, it is our duty to champion intercultural dialogues and cherish our indigenous roots, ensuring that different civilizations illuminate one another.",
+    "analysis": {
+      "structure": "首段准确描摹文化火锅及各种元素；第二段从文明互鉴、吸收外来与传承本土两个维度阐述包容心态的重要性；第三段从青年使命与文化自信角度升华。",
+      "scoring_points": [
+        "紧扣文化交融主题，立意宏大高远",
+        "句式极富学术典雅气息",
+        "逻辑环环相扣"
+      ],
+      "highlights": [
+        "steamy traditional hotpot (热气腾腾的传统火锅)",
+        "no civilization can flourish in self-imposed isolation (没有任何文明能在自我封闭中繁荣)",
+        "steadfast cultural confidence (坚定不移的文化自信)"
+      ]
+    }
+  },
+  {
+    "id": "eng1_2020_part_a",
+    "exam_category": "英语一",
+    "year": 2020,
+    "type": "小作文",
+    "sub_type": "告示/通知",
+    "title": "留学生歌唱比赛通知",
+    "prompt_en": "A singing contest for international students is to be held. Post a notice to: 1) introduce the contest, and 2) encourage students to take part in it.",
+    "prompt_cn": "面向留学生举办歌唱比赛，写一则通知：介绍比赛并鼓励参与。词数约100词，署名 The Students' Union。",
+    "word_count": 115,
+    "band": "第一档 (高分示范)",
+    "score": "9.5/10",
+    "sample_essay": "NOTICE\n\nOctober 9, 2026\n\n    Aiming to enrich campus cultural life and foster friendship between domestic and international students, the Students' Union is organizing an English & Chinese Singing Contest. The event is scheduled to be held in the University Grand Auditorium on Friday, November 15, starting at 6:30 p.m.\n\n    All international students passionate about music are warmly invited to participate. Contestants may perform individually or in groups of up to three members. Generous prizes and certificates of honor will be awarded to outstanding performers. Those who wish to take part should submit their application forms and music tracks to singingcontest@univ.edu.cn before November 5.\n\n    Come and showcase your talent! We look forward to your active participation.\n\nThe Students' Union",
+    "analysis": {
+      "structure": "大写NOTICE居中、右对齐日期；首段明确比赛宗旨与时间地点；中段说明参赛资格、形式与奖励；末段发出邀请并由学生会署名。",
+      "scoring_points": [
+        "告示格式标准完美",
+        "信息完备准确，表达得体热情"
+      ],
+      "highlights": [
+        "NOTICE (规范居中大写标题)",
+        "Aiming to enrich campus cultural life (清晰的活动宗旨说明)",
+        "certificates of honor (荣誉证书)"
+      ]
+    }
+  }
+]

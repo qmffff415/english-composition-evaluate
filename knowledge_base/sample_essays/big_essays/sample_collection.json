@@ -1,0 +1,256 @@
+[
+  {
+    "id": "big_001",
+    "type": "大作文",
+    "sub_type": "柱状图",
+    "year": "2013",
+    "topic": "大一到大四各年级学生做兼职的比例",
+    "score": 14,
+    "total_score": 15,
+    "band": "第一档",
+    "word_count": 185,
+    "essay": "As is clearly illustrated in the bar chart, the proportion of college students engaging in part-time jobs increases progressively from freshmen to seniors. Specifically, only about 10% of freshmen take part-time jobs, while the percentage rises to approximately 30% for sophomores. The figure continues to climb to around 50% for juniors, and ultimately peaks at 65% for seniors.\n\nSeveral factors may account for this upward trend. First and foremost, as students advance in their academic careers, they develop a stronger desire for financial independence and practical experience. Senior students, in particular, feel the pressure of the approaching job market and seek to enhance their competitiveness through work experience. Furthermore, higher-grade students generally have lighter course loads and more flexible schedules, which enables them to balance study and work more effectively. Additionally, the influence of career-oriented education and peer examples also motivates students to seek part-time employment opportunities.\n\nIn conclusion, the increasing participation in part-time jobs among college students reflects a positive trend of career awareness and self-reliance. However, it is essential that students strike a proper balance between work and academic responsibilities to ensure their overall development.",
+    "comments": {
+      "content": "图表描述准确全面，数据引用恰当；分析段提出三个有力原因并充分展开；总结段简洁有力且提出辩证观点",
+      "organization": "严格的三段式结构，段落比例合理。衔接词使用丰富（specifically, first and foremost, furthermore, additionally, in conclusion）",
+      "language": "词汇丰富高级（progressively, ultimately, competitiveness, motivates, self-reliance），句式多样（分词短语、定语从句、it is essential that虚拟语气），无语法错误",
+      "chart_description": "数据准确，趋势描述清晰，使用了 rises, climb, peaks 等变化动词"
+    },
+    "highlights": [
+      "increases progressively（精准描述递增趋势）",
+      "enhance their competitiveness through work experience（高级表达）",
+      "enables them to balance study and work（动词搭配得当）",
+      "strike a proper balance between ... and ...（高级短语）",
+      "It is essential that（虚拟语气的运用）"
+    ],
+    "errors": []
+  },
+  {
+    "id": "big_002",
+    "type": "大作文",
+    "sub_type": "饼图",
+    "year": "2018",
+    "topic": "某市消费者选择餐厅时关注的原因",
+    "score": 11,
+    "total_score": 15,
+    "band": "第二档",
+    "word_count": 165,
+    "essay": "The pie chart above shows the factors that consumers consider when choosing a restaurant. As can be seen, taste takes up the largest share at 36.3%, followed by service quality at 26.8%. Price and environment account for 20.5% and 12.6% respectively. Other factors make up 3.8%.\n\nThere are several reasons behind this phenomenon. First, food quality is the most basic requirement for any restaurant. Consumers naturally prioritize taste because it directly determines their dining satisfaction. Second, with the improvement of living standards, people are paying more attention to service quality. Good service can greatly enhance the dining experience. Third, although price is still a concern, it is no longer the top priority for most consumers, which shows that people's consumption concepts have changed.\n\nIn conclusion, the chart tells us that consumers' dining choices are influenced by multiple factors, with taste and service being the most important. Restaurant owners should focus on improving food quality and service to attract more customers.",
+    "comments": {
+      "content": "内容完整，涵盖了图表描述、原因分析和总结三个部分",
+      "organization": "结构清晰，逻辑合理，使用了 First, Second, Third 进行衔接",
+      "language": "语言基本准确，有一些好的表达，但整体词汇和句式可以更丰富",
+      "chart_description": "数据引用准确，比例描述清楚"
+    },
+    "highlights": [
+      "takes up the largest share at（饼图描述常用表达）",
+      "directly determines their dining satisfaction",
+      "consumption concepts have changed"
+    ],
+    "errors": [
+      "the chart tells us（中式英语，建议改为 the chart reveals/indicates）",
+      "paying more attention to（可以用 attaching greater importance to 更高级）",
+      "衔接词 First, Second, Third 略显机械，可以更多样"
+    ]
+  },
+  {
+    "id": "big_003",
+    "type": "大作文",
+    "sub_type": "折线图",
+    "year": "2017",
+    "topic": "博物馆参观人数的变化情况",
+    "score": 8,
+    "total_score": 15,
+    "band": "第三档",
+    "word_count": 155,
+    "essay": "The line graph shows the number of people who visited museums from 2013 to 2017. We can see that the number increased year by year.\n\nIn 2013, about 6 million people visited museums. Then the number grew slowly. In 2015, it reached about 7.5 million. After that, the number continued to increase and in 2017, it reached about 9 million. So we can see the number almost doubled in five years.\n\nI think there are some reasons for this trend. First, people's life is getting better, so they have more time and money to visit museums. Second, the government built more museums and made them free to visit. Third, people care more about culture and history now.\n\nIn conclusion, more and more people visit museums. I think this is a good thing for our society. The government should continue to support museums.",
+    "comments": {
+      "content": "基本涵盖了描述、分析和总结，但各部分展开不够充分",
+      "organization": "结构存在但段落划分不太合理（描述段和分析段的界限不够清晰）",
+      "language": "词汇较为基础（good, more, better），句式简单（多为简单句），有中式英语表达",
+      "chart_description": "数据引用基本准确但描述方式单一"
+    },
+    "highlights": [],
+    "errors": [
+      "We can see（主观且口语化，改为 It can be observed / As shown in the graph）",
+      "people's life is getting better（中式表达，改为 living standards have improved / people enjoy a higher quality of life）",
+      "people care more about（口语化，改为 people have developed a greater appreciation for）",
+      "more and more people（中式英语，改为 an increasing number of people）",
+      "I think this is a good thing（过于口语化和主观）",
+      "数据描述方式单一，反复使用 the number + 动词"
+    ]
+  },
+  {
+    "id": "big_004",
+    "type": "大作文",
+    "sub_type": "表格",
+    "year": "2014",
+    "topic": "中国城镇和乡村人口变化情况",
+    "score": 13,
+    "total_score": 15,
+    "band": "第一档",
+    "word_count": 178,
+    "essay": "The table above presents the changes in China's urban and rural populations from 1990 to 2010. According to the data, the urban population experienced a remarkable increase, rising from 300 million in 1990 to 670 million in 2010. In stark contrast, the rural population witnessed a notable decline, dropping from 840 million to 680 million over the same period. Significantly, the year 2010 marked a historical turning point when the urban population nearly equaled the rural population.\n\nThis dramatic shift can be attributed to several factors. Primarily, China's rapid industrialization and economic reforms have created abundant job opportunities in cities, attracting a massive influx of rural migrants. Moreover, the urban areas offer superior educational resources, healthcare facilities, and public services, which serve as powerful magnets for rural residents. Additionally, government policies promoting urbanization have accelerated this population redistribution.\n\nIn summary, the data clearly reflects China's ongoing urbanization process. As this trend is likely to continue, policymakers should focus on ensuring sustainable urban development while also revitalizing rural communities to achieve balanced regional growth.",
+    "comments": {
+      "content": "数据描述准确详细，分析深入有力，总结具有前瞻性",
+      "organization": "结构严谨，段落分配合理，衔接自然",
+      "language": "词汇高级（remarkable, in stark contrast, witnessed, magnets, redistribution, revitalizing），句式复杂多样，语法准确",
+      "chart_description": "精准引用数据，使用了对比手法描述城乡差异"
+    },
+    "highlights": [
+      "In stark contrast（强对比过渡）",
+      "marked a historical turning point（标志性表达）",
+      "serve as powerful magnets（比喻修辞）",
+      "population redistribution（专业术语）",
+      "revitalizing rural communities（高级用词）",
+      "balanced regional growth（总结性概括）"
+    ],
+    "errors": []
+  },
+  {
+    "id": "big_005",
+    "type": "大作文",
+    "sub_type": "柱状图",
+    "year": "2012",
+    "topic": "某公司员工工作满意度调查",
+    "score": 5,
+    "total_score": 15,
+    "band": "第三档",
+    "word_count": 140,
+    "essay": "The bar chart show the job satisfaction of workers in a company. From the chart, we can see that some workers are satisfied and some are not.\n\nAbout 40% workers are satisfied with their job. About 30% workers think it is just so so. And about 20% workers are not satisfied. The rest 10% dont care.\n\nI think there are many reasons. First, the salary is very important for workers. If the salary is high, workers will be happy. Second, the working environment is also important. Nobody want to work in a bad place. Third, the chance to get promoted also affect workers satisfaction.\n\nSo I think the company should try to make workers happy. They can increase salary and improve working environment. This will be good for the company.",
+    "comments": {
+      "content": "基本描述了图表数据和给出了分析，但内容较浅",
+      "organization": "有段落结构但过渡生硬",
+      "language": "语法错误较多，词汇贫乏，句式单一",
+      "chart_description": "数据描述方式过于简单，且可能不够准确（just so so是中式表达）"
+    },
+    "highlights": [],
+    "errors": [
+      "show → shows（主谓不一致，chart 为单数）",
+      "40% workers → 40% of the workers / 40% of workers",
+      "just so so → neutral / neither satisfied nor dissatisfied（just so so是中式英语）",
+      "dont → don't（缺少撇号）",
+      "Nobody want → Nobody wants（主谓不一致）",
+      "affect workers satisfaction → affects workers' satisfaction（主谓不一致+所有格）",
+      "make workers happy（口语化，改为 improve employee satisfaction）",
+      "This will be good for the company（过于简单，改为 This would be mutually beneficial for both employees and the company）"
+    ]
+  },
+  {
+    "id": "big_006",
+    "type": "大作文",
+    "sub_type": "柱状图",
+    "year": "2024",
+    "topic": "大学生毕业去向规划与动机（考研、就业、出国、创业）调查",
+    "score": 15,
+    "total_score": 15,
+    "band": "第一档（满分标杆）",
+    "word_count": 188,
+    "essay": "The column chart delineates a clear picture of college graduates' post-graduation choices in a Chinese university. As is revealed by the statistics, preparing for postgraduate entrance examinations constitutes the largest proportion, occupying a staggering 48.5%. Seeking immediate employment follows as the second most favored option at 32.2%, whereas pursuing overseas studies and launching startups account for a relatively modest 12.1% and 7.2% respectively.\n\nSeveral intertwined factors prominently contribute to this phenomenon. To begin with, under the mounting pressure of today's competitive job market, an advanced academic degree is widely perceived as an indispensable stepping stone to securing high-paying positions and career advancement. Furthermore, higher education institutes have continually expanded postgraduate enrollment, which further fuels students' aspiration for deeper academic exploration. In addition, economic uncertainties and shifting entrepreneurial climates have prompted graduates to adopt a more conservative attitude, prioritizing skill enhancement over immediate entrepreneurial ventures.\n\nFrom my perspective, this trend reflects young individuals' prudent pursuit of long-term personal competitiveness. Nevertheless, university authorities and policymakers ought to provide tailored career guidance, encouraging students to align their postgraduate aspirations with genuine professional interests rather than blindly following the herd.",
+    "comments": {
+      "content": "数据提炼极度精炼且抓住了主次（48.5%为极值重点分析，32.2%次之，其余合并简述），原因分析从就业市场压力、高校扩招政策、宏观经济心理三个宏观与微观维度深入剖析，结尾点评极具辩证深度",
+      "organization": "标准三段式典范，句际逻辑紧密无缝衔接，承上启下自然流畅",
+      "language": "学术化词汇极其丰富（delineates, constitutes, staggering, intertwined, indispensable stepping stone, blindly following the herd），句式极富节奏韵律，包含从句、分词短语及并列对比结构，全篇无任何语法与语用瑕疵",
+      "chart_description": "数据分类汇总精准，避开了机械流水账报数据的弊病"
+    },
+    "highlights": [
+      "delineates a clear picture of（高级图表引入词）",
+      "occupying a staggering 48.5%（精准修饰语）",
+      "intertwined factors prominently contribute to",
+      "an indispensable stepping stone to",
+      "fuels students' aspiration for",
+      "prudent pursuit of long-term personal competitiveness",
+      "rather than blindly following the herd（熟语地道运用）"
+    ],
+    "errors": []
+  },
+  {
+    "id": "big_007",
+    "type": "大作文",
+    "sub_type": "折线图",
+    "year": "2020真题模拟",
+    "topic": "2015至2019年间城市居民手机阅读与纸质书阅读时长变化",
+    "score": 13.5,
+    "total_score": 15,
+    "band": "第一档",
+    "word_count": 175,
+    "essay": "The line graph demonstrates the dynamic changes in daily reading time spent on digital devices versus traditional paper books among urban residents from 2015 to 2019. It is manifest that mobile reading time underwent an explosive growth, soaring from 25 minutes per day in 2015 to nearly 70 minutes in 2019. In sharp contrast, time devoted to reading printed books followed a steady downward trajectory, declining moderately from 45 minutes to 30 minutes over the five-year span.\n\nSuch a noticeable contrast can be principally ascribed to technological advancement and changing lifestyle rhythms. In this fast-paced information era, portable smartphones and electronic reading applications allow citizens to utilize fragmented time efficiently during daily commutes. Moreover, digital reading platforms provide instantaneous access to an enormous diversity of publications at minimal financial expense, which substantially eclipses the physical limitations of conventional print media.\n\nTo summarize, the predominance of digital reading has undoubtedly become an irreversible historical trend. Nonetheless, given that in-depth reading remains vital for critical thinking, we should cultivate balanced reading habits rather than succumbing completely to fragmented information.",
+    "comments": {
+      "content": "折线图对比精准，抓住了上升、下降两条曲线的交错点与演变趋势；原因剖析切中快节奏生活与数字化载体优势；结论辩证客观",
+      "organization": "全文行云流水，对比手法的运用极其娴熟（versus, In sharp contrast, eclipses）",
+      "language": "语言质量极高，用词精辟入里（manifest, explosive growth, soaring, downward trajectory, fragmented time, instantaneous access, eclipses, irreversible）",
+      "chart_description": "折线动态描述词汇丰富（soaring, downward trajectory, declining moderately）"
+    },
+    "highlights": [
+      "underwent an explosive growth, soaring from... to...",
+      "In sharp contrast... followed a steady downward trajectory",
+      "principally ascribed to",
+      "utilize fragmented time efficiently",
+      "substantially eclipses the physical limitations of",
+      "an irreversible historical trend",
+      "succumbing completely to fragmented information"
+    ],
+    "errors": []
+  },
+  {
+    "id": "big_008",
+    "type": "大作文",
+    "sub_type": "饼图",
+    "year": "2023真题变式",
+    "topic": "居民健康生活方式主要行为分布（均衡饮食、规律运动、充足睡眠、心理调节）",
+    "score": 9.5,
+    "total_score": 15,
+    "band": "第二档",
+    "word_count": 160,
+    "essay": "The pie chart provides an overview of the lifestyle habits adopted by urban residents to maintain personal health. As the chart depicts, maintaining a balanced diet holds the largest share at 42.0%, followed by taking regular exercise, which accounts for 31.5%. Meanwhile, ensuring sufficient sleep and seeking mental relaxation represent 16.5% and 10.0% respectively.\n\nThis pattern reflects the prevailing health awareness among modern citizens. On one hand, people are increasingly conscious of nutritional science, realizing that a wholesome diet forms the foundation of immune defense against chronic illnesses. On the other hand, the popularization of fitness facilities encourages people to integrate regular physical exercise into their weekly routines. However, the relatively lower percentages of sleep and mental wellbeing suggest that workplace stress still impedes holistic health.\n\nIn brief, the survey reveals that healthy eating and exercise are widely embraced. Moving forward, individuals should pay equal attention to psychological wellness and rest to attain a truly healthy lifestyle.",
+    "comments": {
+      "content": "饼图四大板块分配描述清楚，原因分析兼顾了高占比项（饮食、运动）与低占比项（睡眠、心理），思考较为深入",
+      "organization": "层次清楚，On one hand... On the other hand 衔接自然，三段结构工整",
+      "language": "语言较丰富，无重大语法错误，少数句子句式略显常规",
+      "chart_description": "数据比例完整列出，逻辑顺序清晰"
+    },
+    "highlights": [
+      "holds the largest share at",
+      "increasingly conscious of nutritional science",
+      "forms the foundation of immune defense",
+      "workplace stress still impedes holistic health",
+      "attain a truly healthy lifestyle"
+    ],
+    "errors": [
+      "On one hand / On the other hand 的转折对比力度略显牵强，可改用 Moreover / Furthermore",
+      "结尾句式较为中规中矩，可增加虚拟语气或倒装句提升语言档次"
+    ]
+  },
+  {
+    "id": "big_009",
+    "type": "大作文",
+    "sub_type": "柱状图（极低分跑题对照样本）",
+    "year": "2024真题对照",
+    "topic": "大学生毕业去向规划与动机（考研、就业、出国、创业）调查（低分典型卷）",
+    "score": 2.5,
+    "total_score": 15,
+    "band": "第四档",
+    "word_count": 72,
+    "essay": "This picture have four bars. The first bar is very tall, it is 48.5%. The second bar is 32.2%. Third is 12.1% and fourth is 7.2%. The chart tell us study post-graduate is most important thing.\nWhy this happen? Because China economy change, student cannot find good work. If student go to work, salary is very low. So student want study more in school.\nI think study is good. Everyone should work hard.",
+    "comments": {
+      "content": "严重误解图表类型（称之为 picture 不是 chart），数据描述极度低级且机械，没有任何分析论据，草草两句收尾",
+      "organization": "段落极其单薄碎裂，全篇充斥断句病句，完全没有文章结构感",
+      "language": "语言支离破碎，语法错误极多（主谓不一致、逗号拼接句、直译严重、冠词介词缺失），词汇量严重不足",
+      "chart_description": "极其敷衍地用 very tall / first bar 代替专业数据分析"
+    },
+    "highlights": [],
+    "errors": [
+      "This picture have → The chart shows / illustrates（picture不规范，have主谓不一致）",
+      "four bars / very tall（图表用语极不专业）",
+      "The first bar is very tall, it is 48.5%（典型逗号拼接跑马句 run-on sentence）",
+      "The chart tell us → The chart indicates（tell us口语化且缺单三s）",
+      "study post-graduate is most important thing → pursuing postgraduate education has become the primary choice",
+      "Why this happen?（作文中不宜直接出现口语式简短设问）",
+      "China economy change → China's economy has transformed",
+      "cannot find good work → cannot find decent employment（work不可数，用词口语）",
+      "If student go to work → If graduates enter the workforce",
+      "salary is very low → salaries remain unsatisfactory",
+      "字数仅72词，远低于150词底线要求，将按大纲受到严重扣分"
+    ]
+  }
+]

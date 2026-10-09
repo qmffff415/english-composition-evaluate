@@ -1,0 +1,97 @@
+{
+  "module": "writing_knowledge",
+  "category": "sentence_patterns",
+  "exam_category": "英语一",
+  "title": "考研英语一应用文小作文全题型实用句式库 (Practical Writing Patterns)",
+  "description": "系统梳理考研英语一小作文（满分10分，约100词）全部核心文体：Notice告示、Memo备忘录、Proposal倡议书、推荐信、建议信、邀请信、感谢/道歉信高分框架与实战句型",
+  "genres": {
+    "notice": {
+      "name": "告示与通知 (Notice / Announcement)",
+      "format_features": "标题 NOTICE 居中；正文首段发布事由；次段交代时间、地点、资格、流程；尾段注明咨询途径；署名单位在右下方，绝不写 Dear 也不写 Li Ming 个人名义（通常署名 The Students' Union 或 Postgraduates' Association）",
+      "opening_patterns": [
+        "Notice is hereby given that [活动名称] is scheduled to be held from [时间] to [时间] at [地点].",
+        "We are immensely pleased to announce that a grand [活动名称] will be launched by [主办单位] next month.",
+        "In an effort to [活动目的，如: enrich campus cultural life], an exciting [活动名称] is about to take place."
+      ],
+      "body_patterns": [
+        "All postgraduate and undergraduate students who possess a fervent passion for [领域] are warmly encouraged to sign up.",
+        "The selection process comprises two consecutive rounds: a preliminary written screening and an oral demonstration.",
+        "Detailed submission guidelines, including paper formats and performance criteria, are accessible on our official university portal."
+      ],
+      "closing_patterns": [
+        "Anyone interested in participating is requested to submit their application to [邮箱/地点] prior to [截止日期].",
+        "Should you have any inquiries or require further information, please feel free to reach out to us at [联系方式].",
+        "Come and join us to showcase your distinctive talent and win lucrative rewards!"
+      ]
+    },
+    "memo": {
+      "name": "备忘录 (Memorandum / Memo)",
+      "format_features": "顶格四项抬头：TO (收件人), FROM (发件人), DATE (日期), SUBJECT (事由)；正文开门见山陈述现状问题；条目化列出改进举措；末尾规定反馈期限",
+      "header_template": "TO: All Project Team Members\nFROM: Li Ming, Project Coordinator\nDATE: October 10th, 2026\nSUBJECT: Measures to Enhance Research Efficiency",
+      "opening_patterns": [
+        "This memorandum serves to summarize our recent evaluation regarding [问题/现状] and propose urgent action plans.",
+        "The purpose of this memo is to address several operational inefficiencies identified during the preliminary stage of [项目名称]."
+      ],
+      "body_patterns": [
+        "In accordance with our latest assessment, the following corrective measures are to be implemented immediately:",
+        "First and foremost, a weekly milestone review will be instituted to ensure transparent communication across departments.",
+        "Furthermore, all documentation must be standardized and archived in the shared digital repository by Friday afternoon."
+      ],
+      "closing_patterns": [
+        "Your strict compliance with the aforementioned procedures will be greatly appreciated.",
+        "Please review the attached schedule and communicate any operational concerns to my office by 5:00 PM tomorrow."
+      ]
+    },
+    "proposal": {
+      "name": "倡议书与公开信 (Proposal / Open Letter)",
+      "format_features": "面向全体师生或公众的号召性文体；称呼多为 Dear Fellow Students / Dear Friends；首段点明倡议背景；中段列出2-3条具体践行规范；尾段发出强有力的共同行动号召",
+      "opening_patterns": [
+        "In a concerted bid to [倡议目标，如: build a greener campus / foster academic integrity], we hereby launch this proposal to all fellow students.",
+        "With a view to promoting [文明倡议主题], I am writing this open letter on behalf of [协会/学生会] to advocate collective action."
+      ],
+      "body_patterns": [
+        "To translate this noble initiative into everyday reality, it is strongly recommended that we adhere to the following principles:",
+        "To begin with, let us consciously cultivate the habit of [举措一，如: turning off idle lights and sorting daily garbage].",
+        "In addition, we ought to exercise mutual supervision and politely remind peers whenever wasteful practices occur."
+      ],
+      "closing_patterns": [
+        "Small deeds, when multiplied by thousands of individuals, can trigger monumental transformations.",
+        "Let us join hands without hesitation to make our beloved campus a cleaner, warmer, and more inspiring home!"
+      ]
+    },
+    "recommendation_letter": {
+      "name": "推荐信 (Letter of Recommendation)",
+      "format_features": "称呼 Dear Professor... / Dear Mr. Smith；首段开宗明义推荐某人/某书/某地；中段从人品、学识、能力或特色等多角度展开详实论据；尾段极力推荐并表达愿意提供补充信息",
+      "opening_patterns": [
+        "I am writing this letter with unreserved pleasure to recommend [人名/事物] for your esteemed [项目/职位/阅读计划].",
+        "Having worked closely with [人名] over the past three academic years, I have no doubt that he is an outstanding candidate for [机会]."
+      ],
+      "body_patterns": [
+        "What impresses me most about [人名] is his exceptional academic curiosity coupled with relentless diligence.",
+        "Not only does he exhibit profound mastery in theoretical foundations, but he also possesses stellar teamwork and problem-solving abilities.",
+        "As for this classic masterpiece, it weaves philosophical insight with exquisite literary eloquence, offering readers an unforgettable intellectual feast."
+      ],
+      "closing_patterns": [
+        "Therefore, I recommend him to you with the utmost confidence, believing that he will surpass all expectations in your program.",
+        "Please feel free to contact me should you require any additional references or background materials."
+      ]
+    },
+    "suggestion_letter": {
+      "name": "建议信 (Letter of Suggestion / Advice)",
+      "format_features": "语气谦逊诚恳、措辞委婉得体；首段说明写信目的并肯定既有成果；中段使用 It would be advisable to... 等虚拟或委婉句提出2-3条建设性意见；尾段期盼考虑并致谢",
+      "opening_patterns": [
+        "I am writing this letter to share a few humble suggestions regarding [主题，如: library management / freshman orientation].",
+        "While sincerely applauding the tremendous efforts made by your department, I would like to venture several constructive recommendations to further optimize [项目]."
+      ],
+      "body_patterns": [
+        "In the first place, it would be highly advisable to extend the weekend opening hours so as to accommodate working students' study needs.",
+        "In the second place, consideration could perhaps be given to establishing an online reservation system to streamline the queuing process.",
+        "Last but not least, organizing periodic feedback forums would prove immensely beneficial in bridging the gap between staff and students."
+      ],
+      "closing_patterns": [
+        "I would be more than delighted if my modest suggestions could be taken into thoughtful consideration.",
+        "Thank you for your valuable time and enduring dedication to improving our student community."
+      ]
+    }
+  }
+}

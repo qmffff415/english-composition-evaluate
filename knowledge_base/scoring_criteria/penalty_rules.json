@@ -1,0 +1,233 @@
+{
+  "module": "scoring_criteria",
+  "type": "penalty_rules",
+  "description": "考研英语二作文扣分规则细则",
+  "penalty_categories": [
+    {
+      "category": "word_count_penalty",
+      "name_cn": "字数不足扣分",
+      "rules": {
+        "small_essay": {
+          "total_score": 10,
+          "requirement": "100词左右",
+          "penalties": [
+            {
+              "condition": "80-99词",
+              "penalty": "酌情扣1分",
+              "note": "内容完整可从宽"
+            },
+            {
+              "condition": "60-79词",
+              "penalty": "扣1-2分",
+              "note": "在内容评分基础上额外扣分"
+            },
+            {
+              "condition": "40-59词",
+              "penalty": "最高得5分",
+              "note": "即使内容质量尚可"
+            },
+            {
+              "condition": "40词以下",
+              "penalty": "最高得3分",
+              "note": "视为未能完成任务"
+            }
+          ]
+        },
+        "big_essay": {
+          "total_score": 15,
+          "requirement": "150词以上",
+          "penalties": [
+            {
+              "condition": "120-149词",
+              "penalty": "酌情扣1-2分",
+              "note": "内容完整可从宽"
+            },
+            {
+              "condition": "100-119词",
+              "penalty": "扣2-3分",
+              "note": "在内容评分基础上额外扣分"
+            },
+            {
+              "condition": "80-99词",
+              "penalty": "最高得8分",
+              "note": "即使内容质量尚可"
+            },
+            {
+              "condition": "50-79词",
+              "penalty": "最高得4分",
+              "note": "视为基本未完成任务"
+            },
+            {
+              "condition": "50词以下",
+              "penalty": "最高得2分",
+              "note": "视为未完成任务"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "category": "off_topic_penalty",
+      "name_cn": "跑题/偏题扣分",
+      "rules": [
+        {
+          "severity": "完全跑题",
+          "description": "所写内容与题目要求完全无关",
+          "penalty": "0分或最高1-2分",
+          "examples": [
+            "题目要求写建议信，但写成了自我介绍",
+            "题目要求描述柱状图，但写成了议论文且未提及图表"
+          ]
+        },
+        {
+          "severity": "严重偏题",
+          "description": "仅部分内容与题目相关，大部分内容偏离主题",
+          "penalty": "在正常评分基础上降1-2个档次",
+          "examples": [
+            "建议信中只有开头提到了建议，主体都在讲其他事情",
+            "图表作文只简单提了一句图表，其余内容与图表无关"
+          ]
+        },
+        {
+          "severity": "轻度偏题",
+          "description": "基本切题但有部分内容偏离",
+          "penalty": "酌情扣1-2分",
+          "examples": [
+            "要点基本覆盖但有一个要点展开时偏离了方向",
+            "图表描述正确但分析段与图表主题关联较弱"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "format_penalty",
+      "name_cn": "格式错误扣分",
+      "rules": {
+        "small_essay": [
+          {
+            "error": "缺少称呼（书信类）",
+            "penalty": "扣1分",
+            "note": "如缺少 Dear... 开头"
+          },
+          {
+            "error": "缺少落款",
+            "penalty": "扣1分",
+            "note": "如缺少 Yours sincerely, Li Ming"
+          },
+          {
+            "error": "称呼或落款格式错误",
+            "penalty": "扣0.5-1分",
+            "note": "如 Dear sir（应为 Dear Sir），Li ming（应为 Li Ming）"
+          },
+          {
+            "error": "通知缺少标题",
+            "penalty": "扣0.5-1分",
+            "note": "通知应有 Notice / Announcement 标题"
+          },
+          {
+            "error": "通知缺少日期或落款单位",
+            "penalty": "扣0.5分",
+            "note": "格式要求的必要要素"
+          },
+          {
+            "error": "使用了真实姓名",
+            "penalty": "视为违规，可能导致试卷作废",
+            "note": "必须使用 Li Ming，不能用真实姓名"
+          }
+        ],
+        "big_essay": [
+          {
+            "error": "未分段",
+            "penalty": "扣1-2分",
+            "note": "大作文应有清晰的段落划分"
+          },
+          {
+            "error": "段落结构不合理",
+            "penalty": "酌情扣1分",
+            "note": "如只写了一段或段落划分不当"
+          }
+        ]
+      }
+    },
+    {
+      "category": "plagiarism_penalty",
+      "name_cn": "抄袭扣分",
+      "rules": [
+        {
+          "type": "抄袭阅读理解原文",
+          "description": "大段复制试卷上阅读理解或完形填空的原文",
+          "penalty": "抄袭部分不得分，整体降档处理",
+          "note": "合理引用和借用个别表达不算抄袭"
+        },
+        {
+          "type": "抄袭题目原文",
+          "description": "直接复制题目中给出的提示信息而不做改写",
+          "penalty": "重复部分不计入有效字数",
+          "note": "应该用自己的语言改写题目提示"
+        }
+      ]
+    },
+    {
+      "category": "language_penalty",
+      "name_cn": "语言问题扣分",
+      "rules": [
+        {
+          "type": "使用中文",
+          "description": "在英文作文中夹杂中文词汇或句子",
+          "penalty": "每处扣0.5-1分，大量使用则降档",
+          "note": "偶尔一两个中文词影响较小，大段中文则严重"
+        },
+        {
+          "type": "严重语法错误",
+          "description": "影响理解的重大语法错误",
+          "penalty": "每个严重错误可能导致降0.5-1分",
+          "examples": [
+            "主谓不一致导致意思不清",
+            "时态混乱导致无法理解叙事时间线",
+            "句子结构残缺或严重混乱"
+          ]
+        },
+        {
+          "type": "轻微语法错误",
+          "description": "不影响理解的小错误",
+          "penalty": "累积达到一定数量才影响评分",
+          "examples": [
+            "冠词遗漏或误用",
+            "介词搭配小错误",
+            "名词单复数小错误"
+          ]
+        },
+        {
+          "type": "拼写错误",
+          "description": "单词拼写错误",
+          "penalty": "每3-4个拼写错误约扣0.5分",
+          "note": "如果拼写错误导致理解困难则按严重错误处理"
+        }
+      ]
+    },
+    {
+      "category": "special_cases",
+      "name_cn": "特殊情况处理",
+      "rules": [
+        {
+          "case": "写错题型",
+          "description": "如题目要求写建议信，考生写成了感谢信",
+          "penalty": "最高得该档次下限分数，通常降1-2个档次",
+          "note": "如果语言质量很高但题型错误，不超过第三档"
+        },
+        {
+          "case": "字迹难以辨认",
+          "description": "书写潦草导致阅卷老师难以辨认",
+          "penalty": "酌情扣1-3分",
+          "note": "Agent评分时不适用此条（输入为文字）"
+        },
+        {
+          "case": "大小作文写反",
+          "description": "在小作文区域写了大作文或反之",
+          "penalty": "按实际所写内容评分，但可能因格式问题扣分",
+          "note": "Agent评分时需要明确区分输入的是小作文还是大作文"
+        }
+      ]
+    }
+  ]
+}

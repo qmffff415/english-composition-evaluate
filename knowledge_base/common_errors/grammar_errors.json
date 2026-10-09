@@ -1,0 +1,195 @@
+{
+  "module": "common_errors",
+  "type": "grammar_errors",
+  "description": "考研英语二作文中常见语法错误类型及纠正方案",
+  "error_categories": [
+    {
+      "category": "subject_verb_agreement",
+      "name_cn": "主谓一致",
+      "severity": "严重",
+      "errors": [
+        {
+          "error_pattern": "The number of + 复数名词 + are/were",
+          "correct_pattern": "The number of + 复数名词 + is/was",
+          "example_wrong": "The number of students who choose to study abroad are increasing.",
+          "example_correct": "The number of students who choose to study abroad is increasing.",
+          "explanation": "the number of 表示'……的数量'，是单数概念，谓语用单数"
+        },
+        {
+          "error_pattern": "A number of + 复数名词 + is/was",
+          "correct_pattern": "A number of + 复数名词 + are/were",
+          "example_wrong": "A number of factors is responsible for this trend.",
+          "example_correct": "A number of factors are responsible for this trend.",
+          "explanation": "a number of 表示'许多'，谓语用复数"
+        },
+        {
+          "error_pattern": "主语后跟 with/together with/as well as 时谓语与后面的名词一致",
+          "correct_pattern": "谓语应与主语一致，不受 with 等影响",
+          "example_wrong": "The teacher, together with his students, were present at the meeting.",
+          "example_correct": "The teacher, together with his students, was present at the meeting.",
+          "explanation": "with/together with/as well as 引导的部分不影响主语的单复数"
+        },
+        {
+          "error_pattern": "不可数名词用复数谓语",
+          "correct_pattern": "不可数名词用单数谓语",
+          "example_wrong": "The information are very useful.",
+          "example_correct": "The information is very useful.",
+          "explanation": "information, advice, knowledge, equipment 等为不可数名词"
+        },
+        {
+          "error_pattern": "each/every/either/neither + 复数谓语",
+          "correct_pattern": "each/every/either/neither + 单数谓语",
+          "example_wrong": "Each of the students have their own opinions.",
+          "example_correct": "Each of the students has his or her own opinion.",
+          "explanation": "each/every/either/neither 强调个体，用单数"
+        }
+      ]
+    },
+    {
+      "category": "tense_errors",
+      "name_cn": "时态错误",
+      "severity": "中等-严重",
+      "errors": [
+        {
+          "error_pattern": "描述图表趋势时时态不一致",
+          "correct_pattern": "图表描述通常用一般过去时（已发生的数据）或一般现在时（普遍趋势）",
+          "example_wrong": "The chart shows that the number increased in 2015, and it is still growing in 2020.",
+          "example_correct": "The chart shows that the number increased from 2015 to 2020 and has continued to grow.",
+          "explanation": "同一段落内时态应保持一致，或根据时间线合理切换"
+        },
+        {
+          "error_pattern": "since + 一般过去时",
+          "correct_pattern": "since + 过去时间点，主句用现在完成时",
+          "example_wrong": "Since 2010, the number increased dramatically.",
+          "example_correct": "Since 2010, the number has increased dramatically.",
+          "explanation": "since 引导的时间从句暗示'从过去到现在'，主句应用现在完成时"
+        },
+        {
+          "error_pattern": "in recent years + 一般过去时",
+          "correct_pattern": "in recent years + 现在完成时",
+          "example_wrong": "In recent years, more and more people chose to exercise regularly.",
+          "example_correct": "In recent years, more and more people have chosen to exercise regularly.",
+          "explanation": "in recent years 暗示'到目前为止的近几年'，用现在完成时"
+        }
+      ]
+    },
+    {
+      "category": "article_errors",
+      "name_cn": "冠词错误",
+      "severity": "轻微-中等",
+      "errors": [
+        {
+          "error_pattern": "可数名词单数前缺冠词",
+          "correct_pattern": "可数名词单数前需加 a/an/the",
+          "example_wrong": "Chart shows that number of visitors increased.",
+          "example_correct": "The chart shows that the number of visitors increased.",
+          "explanation": "特指的名词用 the，泛指的可数名词单数用 a/an"
+        },
+        {
+          "error_pattern": "不可数名词/抽象名词前误加 a/an",
+          "correct_pattern": "不可数名词前不加 a/an",
+          "example_wrong": "This is a good advice.",
+          "example_correct": "This is good advice. / This is a piece of good advice.",
+          "explanation": "advice, information, equipment, furniture 等不可数名词不能直接加 a/an"
+        },
+        {
+          "error_pattern": "固定搭配中冠词缺失",
+          "correct_pattern": "某些固定搭配必须带冠词",
+          "example_wrong": "On other hand, ...",
+          "example_correct": "On the other hand, ...",
+          "explanation": "on the other hand, in the long run, at the same time 等为固定搭配"
+        }
+      ]
+    },
+    {
+      "category": "preposition_errors",
+      "name_cn": "介词搭配错误",
+      "severity": "中等",
+      "errors": [
+        {
+          "error_pattern": "常见搭配错误",
+          "examples": [
+            {"wrong": "be interested at", "correct": "be interested in"},
+            {"wrong": "be good in", "correct": "be good at"},
+            {"wrong": "be different with", "correct": "be different from"},
+            {"wrong": "contribute for", "correct": "contribute to"},
+            {"wrong": "result from ... (表'导致')", "correct": "result in ... (导致) / result from ... (由...导致)"},
+            {"wrong": "be responsible to something", "correct": "be responsible for something"},
+            {"wrong": "depend of", "correct": "depend on"},
+            {"wrong": "consist in (表'由...组成')", "correct": "consist of (由...组成) / consist in (在于)"},
+            {"wrong": "compare to (表'对比')", "correct": "compared with/to (与...相比)"},
+            {"wrong": "according with", "correct": "according to"}
+          ]
+        }
+      ]
+    },
+    {
+      "category": "countable_uncountable",
+      "name_cn": "可数/不可数名词混淆",
+      "severity": "中等",
+      "errors": [
+        {
+          "common_uncountable_nouns": [
+            {"word": "information", "wrong": "informations", "note": "用 a piece of information"},
+            {"word": "advice", "wrong": "advices", "note": "用 a piece of advice"},
+            {"word": "knowledge", "wrong": "knowledges", "note": "不可数"},
+            {"word": "equipment", "wrong": "equipments", "note": "用 a piece of equipment"},
+            {"word": "furniture", "wrong": "furnitures", "note": "用 a piece of furniture"},
+            {"word": "progress", "wrong": "progresses", "note": "不可数（作'进步'时）"},
+            {"word": "research", "wrong": "researches", "note": "通常不可数（作为学术论文时可数）"},
+            {"word": "evidence", "wrong": "evidences", "note": "不可数"}
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sentence_structure",
+      "name_cn": "句子结构错误",
+      "severity": "严重",
+      "errors": [
+        {
+          "error_type": "run_on_sentence",
+          "name_cn": "流水句/逗号拼接",
+          "example_wrong": "The number increased dramatically, this trend is expected to continue.",
+          "example_correct": "The number increased dramatically, and this trend is expected to continue. / The number increased dramatically. This trend is expected to continue.",
+          "explanation": "两个独立句子不能仅用逗号连接，需要连词、分号或分成两句"
+        },
+        {
+          "error_type": "sentence_fragment",
+          "name_cn": "句子残缺",
+          "example_wrong": "Because the economy is developing rapidly.",
+          "example_correct": "Because the economy is developing rapidly, people's living standards have improved.",
+          "explanation": "because 引导的从句不能独立成句，需要主句"
+        },
+        {
+          "error_type": "dangling_modifier",
+          "name_cn": "悬垂修饰语",
+          "example_wrong": "Walking in the park, the flowers were beautiful.",
+          "example_correct": "Walking in the park, I found the flowers beautiful.",
+          "explanation": "分词短语的逻辑主语必须与句子主语一致"
+        }
+      ]
+    },
+    {
+      "category": "pronoun_errors",
+      "name_cn": "代词错误",
+      "severity": "中等",
+      "errors": [
+        {
+          "error_type": "unclear_reference",
+          "name_cn": "指代不清",
+          "example_wrong": "Students spend too much time on their phones. It is a serious problem.",
+          "example_correct": "Students spend too much time on their phones. This phenomenon / This excessive use is a serious problem.",
+          "explanation": "it/this/that 的指代对象应明确，避免歧义"
+        },
+        {
+          "error_type": "pronoun_agreement",
+          "name_cn": "代词一致性",
+          "example_wrong": "Everyone should express their opinions.",
+          "example_correct": "Everyone should express his or her opinion. / All people should express their opinions.",
+          "explanation": "everyone/someone 等不定代词传统上搭配单数代词（现代英语中 their 也逐渐被接受）"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "module": "question_templates",
+  "type": "small_essay_templates",
+  "description": "小作文各题型写作框架模板",
+  "templates": [
+    {
+      "type": "suggestion_letter",
+      "name_cn": "建议信",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "自我介绍 + 写信目的",
+          "sentences": "1-2句",
+          "template": "Dear ...,\n\n    I am [身份]. I am writing to offer some suggestions regarding [话题]."
+        },
+        "paragraph_2": {
+          "purpose": "具体建议（2-3条）",
+          "sentences": "4-6句",
+          "template": "First and foremost, I would suggest that ... In addition, it might be beneficial to ... Last but not least, you may also consider ..."
+        },
+        "paragraph_3": {
+          "purpose": "表达期望 + 礼貌结尾",
+          "sentences": "1-2句",
+          "template": "I hope these suggestions will be of help to you. I look forward to hearing from you.\n\nYours sincerely,\nLi Ming"
+        }
+      },
+      "key_expressions": ["I would like to suggest that ...", "It is advisable to ...", "My recommendation would be ..."],
+      "common_topics": ["学习方法建议", "旅行建议", "生活建议", "活动方案建议"]
+    },
+    {
+      "type": "invitation_letter",
+      "name_cn": "邀请信",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "写信目的——邀请参加某活动",
+          "template": "Dear ...,\n\n    I am writing to invite you to [活动]. The event will be held [时间地点]."
+        },
+        "paragraph_2": {
+          "purpose": "活动详情（时间、地点、内容）",
+          "template": "The [活动] will take place at [地点] on [日期]. During the event, there will be [活动内容]. I believe you will find it [有趣/有意义]."
+        },
+        "paragraph_3": {
+          "purpose": "再次表达邀请 + 期待回复",
+          "template": "I sincerely hope that you can make it. Please let me know your decision at your earliest convenience.\n\nYours sincerely,\nLi Ming"
+        }
+      },
+      "key_expressions": ["It would be a great honor if you could ...", "You are cordially invited to ...", "We would be delighted to have you ..."]
+    },
+    {
+      "type": "thanks_letter",
+      "name_cn": "感谢信",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "表达感谢之情",
+          "template": "Dear ...,\n\n    I am writing to express my sincere/heartfelt gratitude for [感谢的事情]."
+        },
+        "paragraph_2": {
+          "purpose": "具体说明感谢的原因或回忆细节",
+          "template": "Thanks to your [帮助/建议], I was able to [收获/成就]. Your kindness and generosity have left a deep impression on me."
+        },
+        "paragraph_3": {
+          "purpose": "再次感谢 + 期待未来交往",
+          "template": "Once again, I would like to express my sincere appreciation. I hope we can keep in touch.\n\nYours sincerely,\nLi Ming"
+        }
+      },
+      "key_expressions": ["I am extremely grateful to you for ...", "I truly appreciate your ...", "Words cannot express how thankful I am."]
+    },
+    {
+      "type": "apology_letter",
+      "name_cn": "道歉信",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "表达歉意",
+          "template": "Dear ...,\n\n    I am terribly sorry to inform you that I am unable to [原定计划]. I owe you an apology."
+        },
+        "paragraph_2": {
+          "purpose": "解释原因 + 提出补救措施",
+          "template": "The reason is that [原因]. To make up for it, I would like to [补救方案]."
+        },
+        "paragraph_3": {
+          "purpose": "再次道歉 + 请求理解",
+          "template": "I sincerely hope you can accept my apology. I promise this will not happen again.\n\nYours sincerely,\nLi Ming"
+        }
+      },
+      "key_expressions": ["I sincerely apologize for ...", "Please accept my heartfelt apology.", "I assure you this will not happen again."]
+    },
+    {
+      "type": "complaint_letter",
+      "name_cn": "投诉信",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "说明投诉事由",
+          "template": "Dear Sir or Madam,\n\n    I am writing to express my dissatisfaction with [投诉对象] which I purchased/experienced on [日期]."
+        },
+        "paragraph_2": {
+          "purpose": "详细描述问题",
+          "template": "The problem is that [具体问题1]. Moreover, [具体问题2]. This has caused me great inconvenience."
+        },
+        "paragraph_3": {
+          "purpose": "提出解决方案 + 期待回复",
+          "template": "I would appreciate it if you could [期望的解决方式]. I look forward to your prompt reply.\n\nYours faithfully,\nLi Ming"
+        }
+      },
+      "key_expressions": ["I demand a full refund/replacement.", "I trust you will take this matter seriously.", "Unless the issue is resolved, I will ..."]
+    },
+    {
+      "type": "congratulation_letter",
+      "name_cn": "祝贺信",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "表达祝贺",
+          "template": "Dear ...,\n\n    I was delighted/thrilled to hear that you [被祝贺的事情]. Congratulations!"
+        },
+        "paragraph_2": {
+          "purpose": "具体祝贺内容 + 给出建议或鼓励",
+          "template": "You truly deserve this achievement. I believe it is the result of your hard work and dedication. Here are a few suggestions for [下一步]..."
+        },
+        "paragraph_3": {
+          "purpose": "再次祝贺 + 祝福",
+          "template": "Once again, congratulations! I wish you all the best in your future endeavors.\n\nYours sincerely,\nLi Ming"
+        }
+      },
+      "key_expressions": ["Please accept my warmest congratulations on ...", "You truly deserve this honor.", "I am so proud of you."]
+    },
+    {
+      "type": "recommendation_letter",
+      "name_cn": "推荐信",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "说明推荐目的",
+          "template": "Dear ...,\n\n    I am writing to recommend [推荐对象] to you."
+        },
+        "paragraph_2": {
+          "purpose": "详细介绍推荐对象的优点/特色",
+          "template": "First, [优点1]. Moreover, [优点2]. What's more, [优点3]."
+        },
+        "paragraph_3": {
+          "purpose": "总结推荐 + 期待",
+          "template": "I am confident that [推荐对象] will be an excellent choice. I hope my recommendation is helpful.\n\nYours sincerely,\nLi Ming"
+        }
+      },
+      "key_expressions": ["I have no hesitation in recommending ...", "I am confident that ... will not disappoint you.", "... is highly qualified for ..."]
+    },
+    {
+      "type": "inquiry_letter",
+      "name_cn": "询问信",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "自我介绍 + 说明询问目的",
+          "template": "Dear ...,\n\n    I am [身份]. I am writing to inquire about [询问主题]."
+        },
+        "paragraph_2": {
+          "purpose": "具体问题（2-3个）",
+          "template": "I would like to know [问题1]. In addition, could you please inform me about [问题2]? I am also wondering [问题3]."
+        },
+        "paragraph_3": {
+          "purpose": "感谢 + 期待回复",
+          "template": "I would appreciate it if you could reply at your earliest convenience. Thank you for your time.\n\nYours sincerely,\nLi Ming"
+        }
+      },
+      "key_expressions": ["I would be grateful if you could provide ...", "Could you please inform me of ...?", "I am particularly interested in ..."]
+    },
+    {
+      "type": "notice",
+      "name_cn": "通知/告示",
+      "framework": {
+        "title": "NOTICE / Announcement / Volunteers Wanted（居中）",
+        "paragraph_1": {
+          "purpose": "活动目的/背景",
+          "template": "In order to [目的], [组织] is going to hold/organize [活动]. The details are as follows."
+        },
+        "paragraph_2": {
+          "purpose": "具体安排（时间、地点、活动内容）",
+          "template": "The event will take place at [地点] on [日期] from [时间] to [时间]. The main activities include [内容1] and [内容2]."
+        },
+        "paragraph_3": {
+          "purpose": "参与方式 + 联系方式",
+          "template": "Those who are interested are requested to sign up at [方式] before [截止日期]. For more information, please contact [联系方式].\n\nThe Student Union\n[日期]"
+        }
+      },
+      "key_expressions": ["All students are welcome to participate.", "Your participation is highly expected.", "Please be informed that ..."],
+      "format_notes": ["标题居中", "不需要 Dear ... 称呼", "末尾署名单位 + 日期"]
+    }
+  ]
+}

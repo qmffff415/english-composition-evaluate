@@ -1,0 +1,125 @@
+{
+  "module": "writing_knowledge",
+  "type": "transition_words",
+  "description": "衔接过渡词分类汇总，用于评估文章连贯性",
+  "categories": [
+    {
+      "function": "addition",
+      "name_cn": "递进/补充",
+      "words_phrases": [
+        "furthermore", "moreover", "in addition", "additionally", "besides",
+        "what is more", "apart from that", "on top of that", "also", "as well",
+        "not only ... but also ...", "likewise", "similarly"
+      ],
+      "usage_level": {
+        "basic": ["also", "and", "besides", "too"],
+        "intermediate": ["furthermore", "moreover", "in addition", "what is more"],
+        "advanced": ["apart from that", "on top of that", "not to mention"]
+      }
+    },
+    {
+      "function": "contrast",
+      "name_cn": "转折/对比",
+      "words_phrases": [
+        "however", "nevertheless", "nonetheless", "on the other hand",
+        "in contrast", "on the contrary", "conversely", "whereas", "while",
+        "although", "though", "even though", "despite", "in spite of",
+        "yet", "still", "rather", "instead"
+      ],
+      "usage_level": {
+        "basic": ["but", "however", "although"],
+        "intermediate": ["nevertheless", "on the other hand", "whereas", "despite"],
+        "advanced": ["nonetheless", "conversely", "notwithstanding", "be that as it may"]
+      }
+    },
+    {
+      "function": "cause_effect",
+      "name_cn": "因果关系",
+      "words_phrases": [
+        "therefore", "thus", "hence", "consequently", "as a result",
+        "as a consequence", "accordingly", "for this reason",
+        "because of", "due to", "owing to", "thanks to",
+        "since", "because", "as", "so", "lead to", "result in",
+        "give rise to", "contribute to", "bring about"
+      ],
+      "usage_level": {
+        "basic": ["because", "so", "because of"],
+        "intermediate": ["therefore", "as a result", "due to", "consequently"],
+        "advanced": ["hence", "accordingly", "give rise to", "contribute to"]
+      }
+    },
+    {
+      "function": "exemplification",
+      "name_cn": "举例说明",
+      "words_phrases": [
+        "for example", "for instance", "such as", "like",
+        "to illustrate", "a case in point is", "take ... as an example",
+        "as an illustration", "namely", "specifically", "in particular"
+      ],
+      "usage_level": {
+        "basic": ["for example", "such as", "like"],
+        "intermediate": ["for instance", "to illustrate", "in particular"],
+        "advanced": ["a case in point is", "as an illustration", "to be specific"]
+      }
+    },
+    {
+      "function": "summary",
+      "name_cn": "总结归纳",
+      "words_phrases": [
+        "in conclusion", "to conclude", "in summary", "to sum up",
+        "to summarize", "all in all", "in a nutshell", "overall",
+        "on the whole", "in brief", "in short", "to put it briefly",
+        "taking everything into consideration", "based on the above analysis"
+      ],
+      "usage_level": {
+        "basic": ["in conclusion", "in short"],
+        "intermediate": ["to sum up", "all in all", "overall", "on the whole"],
+        "advanced": ["taking everything into consideration", "in a nutshell", "to put it in a nutshell"]
+      }
+    },
+    {
+      "function": "sequence",
+      "name_cn": "顺序/时间",
+      "words_phrases": [
+        "firstly", "secondly", "thirdly", "finally", "lastly",
+        "first of all", "to begin with", "in the first place",
+        "next", "then", "subsequently", "afterwards", "eventually",
+        "meanwhile", "at the same time", "simultaneously"
+      ],
+      "usage_level": {
+        "basic": ["first", "second", "finally"],
+        "intermediate": ["to begin with", "subsequently", "eventually"],
+        "advanced": ["in the first place", "simultaneously", "thereafter"]
+      }
+    },
+    {
+      "function": "emphasis",
+      "name_cn": "强调",
+      "words_phrases": [
+        "indeed", "in fact", "as a matter of fact", "actually",
+        "certainly", "undoubtedly", "without doubt", "obviously",
+        "clearly", "especially", "particularly", "above all",
+        "most importantly", "it is worth noting that"
+      ],
+      "usage_level": {
+        "basic": ["in fact", "actually", "especially"],
+        "intermediate": ["indeed", "certainly", "obviously", "particularly"],
+        "advanced": ["undoubtedly", "it is worth noting that", "above all"]
+      }
+    },
+    {
+      "function": "concession",
+      "name_cn": "让步",
+      "words_phrases": [
+        "admittedly", "granted that", "it is true that",
+        "of course", "naturally", "to be sure",
+        "while it may be true that", "despite the fact that"
+      ],
+      "usage_level": {
+        "basic": ["of course", "although"],
+        "intermediate": ["admittedly", "it is true that"],
+        "advanced": ["granted that", "while it may be true that", "notwithstanding"]
+      }
+    }
+  ]
+}

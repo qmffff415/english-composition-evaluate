@@ -1,0 +1,55 @@
+{
+  "module": "writing_knowledge",
+  "exam_category": "英语一",
+  "type": "vocabulary",
+  "subtype": "picture_description",
+  "description": "考研英语一图画作文专用高分词汇与描摹句式表达库",
+  "categories": [
+    {
+      "category": "drawing_verbs",
+      "name_cn": "描摹图画核心动词与短语",
+      "description": "用于替换普通的 show / see，精准描摹图画场景",
+      "expressions": [
+        {"basic": "show", "advanced": "vividly delineate / portray / illustrate / depict", "example": "The cartoon vividly delineates a touching moment between an elderly mother and her son."},
+        {"basic": "look at", "advanced": "feast one's eyes on / gaze at intently", "example": "The young student is gazing intently at a poster on the bulletin board."},
+        {"basic": "sit together", "advanced": "cluster around / congregate at", "example": "Four friends cluster around a lavish dinner table in complete silence."},
+        {"basic": "hold a phone", "advanced": "be glued to a smartphone screen / bury one's head in a glowing handset", "example": "Instead of talking, each diner is glued to a smartphone screen."},
+        {"basic": "stop", "advanced": "halt one's steps / grind to a halt", "example": "Exhausted from the climb, the mountaineer halts his steps halfway up the slope."},
+        {"basic": "encourage", "advanced": "galvanize / inspire / urge sb. onward", "example": "His companion urges him onward with a bottle of water."}
+      ]
+    },
+    {
+      "category": "symbolic_captions",
+      "name_cn": "文字说明与象征引申句型",
+      "description": "精准表述图画中的中文文字与深层象征含义",
+      "expressions": [
+        {"basic": "the words say", "advanced": "the caption beneath the drawing reads / explicitly denotes", "example": "The caption beneath the drawing explicitly denotes: 'Cultural Hotpot: Delicious and Nutritious'."},
+        {"basic": "this picture means", "advanced": "the metaphorical implication of the drawing is that...", "example": "The metaphorical implication of the drawing is that perseverance is indispensable for any monumental achievement."},
+        {"basic": "it shows a problem", "advanced": "the cartoon sounds a resonant alarm against a prevalent social malady", "example": "The cartoon sounds a resonant alarm against the chronic interpersonal alienation caused by gadget over-reliance."},
+        {"basic": "a big difference", "advanced": "a stark contrast / a striking irony", "example": "There exists a striking irony between their physical proximity and emotional distance."}
+      ]
+    },
+    {
+      "category": "postures_and_emotions",
+      "name_cn": "人物姿态神情与心理描写",
+      "description": "使图画描述鲜活生动的高分修饰词",
+      "expressions": [
+        {"basic": "tired", "advanced": "utterly exhausted / physically drained / weary", "example": "Slumping on the rugged ground, he appears utterly drained."},
+        {"basic": "happy / smiling", "advanced": "beaming with confidence / radiating optimism", "example": "The resilient climber is beaming with confidence, gazing upward toward the summit."},
+        {"basic": "sad / hopeless", "advanced": "plunged into despair / crestfallen / despondent", "example": "Staring at the spilled milk on the floor, the pessimist looked utterly crestfallen."},
+        {"basic": "focused", "advanced": "absorbed in / immersed in / deeply captivated by", "example": "The reader is immersed in a profound book, undisturbed by external noises."}
+      ]
+    },
+    {
+      "category": "transitions_to_analysis",
+      "name_cn": "首段引申至第二段论证的高级过渡句",
+      "description": "消除生硬痕迹，让篇章浑然一体",
+      "expressions": [
+        "- Far from being a mere caricature, the picture serves as a profound epitome of our contemporary lifestyle.",
+        "- What the illustrator aims to convey transcends the literal imagery, shedding light on a critical mindset.",
+        "- Simple as the drawing might appear at first glance, its symbolic message provokes deep introspection among viewers.",
+        "- This thought-provoking scenario naturally prompts us to ponder the underlying factors behind such a dilemma."
+      ]
+    }
+  ]
+}

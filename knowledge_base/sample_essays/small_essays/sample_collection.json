@@ -1,0 +1,282 @@
+[
+  {
+    "id": "small_001",
+    "type": "小作文",
+    "sub_type": "建议信",
+    "year": "2024",
+    "topic": "外国友人想了解中国传统节日，写信推荐一个节日并说明理由",
+    "score": 9,
+    "total_score": 10,
+    "band": "第一档",
+    "word_count": 125,
+    "essay": "Dear Tom,\n\n    I am delighted to hear that you are interested in Chinese traditional festivals. I would like to recommend the Spring Festival, which is the most important celebration in China.\n\n    The Spring Festival, also known as Chinese New Year, usually falls in January or February. During this festival, families reunite for a grand dinner on New Year's Eve, enjoying traditional dishes such as dumplings and spring rolls. People also set off fireworks, hang red lanterns, and exchange red envelopes as symbols of good luck. Additionally, various folk activities, including dragon dances and temple fairs, make the festival even more vibrant.\n\n    I believe experiencing the Spring Festival would give you a profound understanding of Chinese culture. I look forward to your visit.\n\nYours sincerely,\nLi Ming",
+    "comments": {
+      "content": "完整覆盖了推荐节日和说明理由两个要点，内容丰富充实",
+      "organization": "三段结构清晰：开头说明目的→具体介绍节日→期待结尾。衔接自然流畅",
+      "language": "词汇丰富（delighted, celebration, vibrant, profound），句式多样（定语从句、分词短语、including引导的补充说明），语法准确",
+      "format": "格式规范，称呼、落款完整正确"
+    },
+    "highlights": ["also known as（同位语补充说明）", "symbols of good luck（文化表达）", "make the festival even more vibrant（生动表达）", "give you a profound understanding（高级替换）"],
+    "errors": []
+  },
+  {
+    "id": "small_002",
+    "type": "小作文",
+    "sub_type": "建议信",
+    "year": "2024",
+    "topic": "外国友人想了解中国传统节日，写信推荐一个节日并说明理由",
+    "score": 7,
+    "total_score": 10,
+    "band": "第二档",
+    "word_count": 112,
+    "essay": "Dear Tom,\n\n    I'm writing to recommend a Chinese traditional festival to you. I think the Mid-Autumn Festival is a good choice.\n\n    The Mid-Autumn Festival is celebrated on August 15th of the lunar calendar. On this day, families get together and eat mooncakes. People also enjoy watching the full moon at night. The festival has a history of more than 2,000 years and it represents family reunion.\n\n    I hope you can come to China and experience this festival. You will love it. Please feel free to contact me if you have any questions.\n\nYours sincerely,\nLi Ming",
+    "comments": {
+      "content": "覆盖了推荐节日和理由两个要点，但展开稍显不足",
+      "organization": "三段结构清晰，逻辑合理，但衔接词使用较少",
+      "language": "语言准确但词汇较为基础（good choice, get together），句式变化不够（多为简单句），无语法错误",
+      "format": "格式正确"
+    },
+    "highlights": ["has a history of more than 2,000 years（具体数据增加可信度）", "represents family reunion（文化内涵）"],
+    "errors": ["I'm（正式信件建议用 I am）", "You will love it.（稍显口语化）"]
+  },
+  {
+    "id": "small_003",
+    "type": "小作文",
+    "sub_type": "建议信",
+    "year": "2024",
+    "topic": "外国友人想了解中国传统节日，写信推荐一个节日并说明理由",
+    "score": 5,
+    "total_score": 10,
+    "band": "第三档",
+    "word_count": 95,
+    "essay": "Dear Tom,\n\n    I know you want to learn Chinese festival. I want to tell you about Spring Festival.\n\n    Spring Festival is very important in China. We eat dumplings and watch TV show. Many people go home to see their parents. We also get red money from old people. It is very happy.\n\n    I hope you can come China to see Spring Festival. It is very interesting.\n\nYours sincerely,\nLi Ming",
+    "comments": {
+      "content": "基本涵盖了主要内容但展开不充分，描述较为简略",
+      "organization": "有三段结构，但衔接较为薄弱，句子之间缺少逻辑连接",
+      "language": "词汇贫乏（反复使用very），句式单一（几乎全是主谓宾简单句），有一些语法错误但不影响理解",
+      "format": "格式基本正确"
+    },
+    "highlights": [],
+    "errors": ["Chinese festival → Chinese festivals / a Chinese festival", "TV show → the Spring Festival Gala / TV programs", "red money → red envelopes (红包的正确表达)", "It is very happy → It is a very joyful occasion", "come China → come to China", "字数不足100词"]
+  },
+  {
+    "id": "small_004",
+    "type": "小作文",
+    "sub_type": "邀请信",
+    "year": "2023",
+    "topic": "邀请外国朋友参加学校举办的中国文化节活动",
+    "score": 9,
+    "total_score": 10,
+    "band": "第一档",
+    "word_count": 118,
+    "essay": "Dear Jack,\n\n    I am writing to invite you to attend the Chinese Culture Festival, which will be held in our university next Saturday.\n\n    The festival is designed to showcase the richness and diversity of Chinese culture. A wide range of activities will be available, including calligraphy workshops, traditional music performances, and a tea ceremony demonstration. Furthermore, you will have the opportunity to taste authentic Chinese cuisine from different regions. The event will run from 9 a.m. to 5 p.m. at the Student Activity Center.\n\n    I believe this would be an excellent opportunity for you to deepen your understanding of Chinese culture. I sincerely hope you can join us.\n\nYours sincerely,\nLi Ming",
+    "comments": {
+      "content": "完整覆盖邀请目的、活动详情、期待参加三个要点，内容丰富",
+      "organization": "结构清晰，衔接词使用恰当（furthermore, including），逻辑流畅",
+      "language": "词汇丰富（showcase, diversity, authentic, demonstrate），句式多样（定语从句、被动语态、分词短语），准确无误",
+      "format": "格式规范"
+    },
+    "highlights": ["showcase the richness and diversity", "A wide range of activities", "authentic Chinese cuisine", "deepen your understanding"],
+    "errors": []
+  },
+  {
+    "id": "small_005",
+    "type": "小作文",
+    "sub_type": "通知",
+    "year": "2022",
+    "topic": "介绍校园美食节并邀请国际学生参加",
+    "score": 8,
+    "total_score": 10,
+    "band": "第二档",
+    "word_count": 110,
+    "essay": "NOTICE\n\nTo enrich the campus life of international students, the Student Union is going to organize a Campus Food Festival. The details are as follows.\n\nThe food festival will be held at the Student Cafeteria from 10:00 a.m. to 4:00 p.m. on December 15th. During the festival, students from various countries are invited to prepare and share their traditional dishes. There will also be a cooking competition, and prizes will be awarded to the top three contestants.\n\nAll international students are welcome to participate. Please sign up at the Student Union office by December 10th.\n\nThe Student Union\nNovember 30, 2022",
+    "comments": {
+      "content": "涵盖了活动目的、时间地点、活动内容、参与方式等所有要点",
+      "organization": "通知结构完整，信息层次分明",
+      "language": "语言准确得体，使用了被动语态（will be held, are invited, will be awarded），表达规范",
+      "format": "通知格式规范：标题、正文、署名、日期齐全"
+    },
+    "highlights": ["enrich the campus life", "prizes will be awarded to", "All international students are welcome to participate"],
+    "errors": ["个别表达可以更丰富"]
+  },
+  {
+    "id": "small_006",
+    "type": "小作文",
+    "sub_type": "道歉信",
+    "year": "2018",
+    "topic": "因故取消旅行计划，向史密斯教授致歉并建议后续见面",
+    "score": 6,
+    "total_score": 10,
+    "band": "第三档",
+    "word_count": 102,
+    "essay": "Dear Professor Smith,\n\n    I am sorry to tell you that I can not go to travel with you next week. I feel very sorry about this.\n\n    The reason is that my mother is sick and I need go home to take care of her. So I have to cancel our plan. I hope you can understand me.\n\n    I think we can go to travel together in next month. I will contact you later. Sorry again.\n\nYours sincerely,\nLi Ming",
+    "comments": {
+      "content": "覆盖了道歉、原因、补救方案三个要点，但展开不够充分",
+      "organization": "三段结构存在，但语言组织较为松散",
+      "language": "有多处语法错误，词汇较为基础，句式单一",
+      "format": "格式正确"
+    },
+    "highlights": [],
+    "errors": ["can not → cannot（拼写）", "go to travel → go on the trip / take the trip", "I need go → I need to go", "go to travel together in next month → go on a trip together next month（去掉in）", "Sorry again → Once again, I sincerely apologize（更正式）", "feel very sorry → feel terribly sorry / deeply regret"]
+  },
+  {
+    "id": "small_007",
+    "type": "小作文",
+    "sub_type": "投诉信",
+    "year": "2012真题模拟",
+    "topic": "在某电子商城购买了一台电子词典，收到后发现存在质量问题，写信投诉并要求退换及赔偿",
+    "score": 9.5,
+    "total_score": 10,
+    "band": "第一档",
+    "word_count": 128,
+    "essay": "Dear Customer Service Manager,\n\n    I am writing to express my profound dissatisfaction with an electronic dictionary (Order No. ED-98231) that I purchased from your online store on October 3rd.\n\n    To my extreme disappointment, upon unboxing the device, I discovered that the touchscreen was noticeably unresponsive. Furthermore, the battery drains completely within less than two hours of regular usage, which contradicts the ten-hour battery life advertised on your website. Considering that I rely on this tool extensively for my upcoming postgraduate examination preparation, this defective product has caused immense inconvenience.\n\n    Under these circumstances, I strongly request either a prompt replacement with a fully functional unit or a complete refund, including the shipping fee. Your swift attention to this matter would be greatly appreciated.\n\nYours sincerely,\nLi Ming",
+    "comments": {
+      "content": "投诉事由明确、问题描述具体、诉求合理明确，全面涵盖题目要求",
+      "organization": "层次极为分明：表明不满与订单信息→详述两个产品缺陷及影响→提出明确解决方案与期待回复",
+      "language": "语言严谨地道、语气不卑不亢、选词高级（profound dissatisfaction, unresponsive, drains, defective, immense inconvenience）",
+      "format": "完全符合商务/客诉书信格式规范"
+    },
+    "highlights": [
+      "express my profound dissatisfaction with",
+      "To my extreme disappointment, upon unboxing...",
+      "contradicts the ten-hour battery life advertised",
+      "caused immense inconvenience",
+      "a prompt replacement with a fully functional unit"
+    ],
+    "errors": []
+  },
+  {
+    "id": "small_008",
+    "type": "小作文",
+    "sub_type": "感谢信",
+    "year": "2010真题变式",
+    "topic": "写信感谢房东格林先生在访学期间给予的热情照料与帮助",
+    "score": 8.5,
+    "total_score": 10,
+    "band": "第二档",
+    "word_count": 116,
+    "essay": "Dear Mr. Green,\n\n    I am writing this letter to extend my heartfelt gratitude to you for your kind hospitality and generous assistance during my study in your country.\n\n    I truly appreciate everything you have done for me over the past six months. Not only did you provide me with a cozy and comfortable living environment, but you also guided me through local customs and helped me adapt to university life smoothly. Your patience and warmth made me feel right at home, even though I was thousands of miles away from my family.\n\n    Please convey my warmest regards to Mrs. Green. I sincerely hope to welcome you to visit China in the near future.\n\nYours sincerely,\nLi Ming",
+    "comments": {
+      "content": "表达真挚感谢，回顾具体帮助细节，并礼貌问候与邀请，内容充实完整",
+      "organization": "三段式承转自然，Not only did 倒装句增强了段落张力",
+      "language": "用词得体温润（heartfelt gratitude, kind hospitality, adapt to, feel right at home），倒装句熟练运用",
+      "format": "传统私人感谢信格式准确规范"
+    },
+    "highlights": [
+      "extend my heartfelt gratitude to",
+      "Not only did you provide... but you also...",
+      "made me feel right at home"
+    ],
+    "errors": []
+  },
+  {
+    "id": "small_009",
+    "type": "小作文",
+    "sub_type": "推荐信",
+    "year": "2021真题模拟",
+    "topic": "向即将前往中国留学的外国朋友推荐一座具有代表性的中国城市及理由",
+    "score": 9.0,
+    "total_score": 10,
+    "band": "第一档",
+    "word_count": 122,
+    "essay": "Dear David,\n\n    Learning that you are planning to pursue your postgraduate studies in China, I am more than enthusiastic to recommend Xi'an as your destination.\n\n    Xi'an is widely celebrated as an ancient capital with a magnificent cultural heritage spanning thousands of years. Living there, you will be surrounded by world-renowned historical wonders such as the Terracotta Warriors and the Ancient City Wall. Meanwhile, Xi'an is also an energetic educational hub with prestigious universities and cutting-edge research institutes, where you can acquire exceptional academic training. Additionally, the vibrant local food scene will surely enrich your everyday life.\n\n    I am confident that your stay in Xi'an will be both fruitful and unforgettable. Wish you every success!\n\nYours sincerely,\nLi Ming",
+    "comments": {
+      "content": "推荐理由从历史文化底蕴、教育学术资源、生活宜居三方面展开，极具说服力",
+      "organization": "开头点题并表明热情态度，主体按逻辑多维度推进，结尾送上诚挚祝愿",
+      "language": "词汇精炼丰富（magnificent cultural heritage, prestigious universities, vibrant, fruitful），从句运用自如",
+      "format": "称呼、首段背景、主体论证、结尾致意、落款一应俱全"
+    },
+    "highlights": [
+      "Learning that you are planning to...（分词短语作状语开头）",
+      "widely celebrated as an ancient capital with...",
+      "prestigious universities and cutting-edge research",
+      "both fruitful and unforgettable"
+    ],
+    "errors": []
+  },
+  {
+    "id": "small_010",
+    "type": "小作文",
+    "sub_type": "询问信",
+    "year": "2019真题变式",
+    "topic": "向主办方写信询问国际青年夏令营的报名条件、住宿安排及费用明细",
+    "score": 5.5,
+    "total_score": 10,
+    "band": "第三档",
+    "word_count": 96,
+    "essay": "Dear Sir or Madam,\n\n    I am writing to ask some informations about the International Youth Summer Camp held in this summer.\n\n    First, I want to know who can join this camp and if there has any English test requirement. Second, could you please tell me about the living place? Do students live in school hotel or outside? Finally, what is the cost of the camp? Does the price include food and books?\n\n    I will be very happy if you can answer my questions soon. Thank you very much.\n\nYours faithfully,\nLi Ming",
+    "comments": {
+      "content": "基本问清了三个要点（条件、住宿、费用），但句式和展开非常生硬浅显",
+      "organization": "机械使用了 First, Second, Finally 连词，句子之间缺少自然衔接",
+      "language": "基础语法错误较多（informations 不可数误用、there has 句型混淆、living place 表达不地道），词汇简单单调",
+      "format": "称呼使用 Dear Sir or Madam，落款使用 Yours faithfully，格式对应正确"
+    },
+    "highlights": [],
+    "errors": [
+      "some informations → some information（不可数名词）",
+      "held in this summer → to be held this summer（时间状语与非谓语错误）",
+      "if there has any English test requirement → if there is any English proficiency requirement（there be句型误用has）",
+      "living place → accommodation arrangements（用词过于口语化）",
+      "school hotel → campus dormitories / university residence",
+      "I will be very happy if → I would appreciate it if you could clarify these details"
+    ]
+  },
+  {
+    "id": "small_011",
+    "type": "小作文",
+    "sub_type": "倡议书/告示",
+    "year": "2020真题模拟",
+    "topic": "以学生会名义写一份倡议书，呼吁全校师生开展“光盘行动”，杜绝食堂餐饮浪费",
+    "score": 7.5,
+    "total_score": 10,
+    "band": "第二档",
+    "word_count": 115,
+    "essay": "A Proposal on Cherishing Food\n\nDear Teachers and Students,\n\n    Recently, the problem of food waste in our campus canteens has attracted wide concern. In order to promote a sustainable lifestyle, we are launching the \"Clean Plate Campaign\" and appeal to everyone to take action.\n\n    To achieve this goal, we suggest taking the following measures. First, please order food reasonably according to your appetite instead of ordering excessively. Second, cultivate the habit of finishing all the food on your plate. Third, if there is leftover food, take it away rather than throwing it into trash bins.\n\n    Every grain of rice comes from hard work. Let us start today and say no to food waste!\n\nPostgraduate Student Union\nOctober 7, 2026",
+    "comments": {
+      "content": "呼吁主题突出，提出了具体可行的三点倡议，结尾有号召力",
+      "organization": "标题、倡议背景、三点具体措施、结尾呼吁，结构完整合理",
+      "language": "语言流畅，使用了 sustainable lifestyle, Clean Plate Campaign, cultivate the habit 等较好短语，衔接词略显传统",
+      "format": "倡议书公开信格式标准，标题居中，有受众称呼，署名与日期准确"
+    },
+    "highlights": [
+      "attracted wide concern",
+      "promote a sustainable lifestyle",
+      "Every grain of rice comes from hard work（熟语英译恰当）"
+    ],
+    "errors": [
+      "First, Second, Third 可以换成更自然的衔接方式，如 To begin with, Furthermore, Lastly",
+      "trash bins 可以更学术化地替换为 garbage bins 或 waste containers"
+    ]
+  },
+  {
+    "id": "small_012",
+    "type": "小作文",
+    "sub_type": "建议信（低分对比样本）",
+    "year": "2024真题对照",
+    "topic": "外国友人想了解中国传统节日，写信推荐一个节日并说明理由（低分典型卷）",
+    "score": 3.0,
+    "total_score": 10,
+    "band": "第四档",
+    "word_count": 68,
+    "essay": "Dear friend\n    China have many festival. I recommend you the Mid-Autumn Day. It is very good. In that day, China people eat moon cake and see moon with family. Because moon is round, so mean family together. You will very happy if you come. Welcome to China.\nLi Ming",
+    "comments": {
+      "content": "内容极其单薄，虽然提及中秋节，但展开不足2句话，没有充实细节",
+      "organization": "未进行规范分段，缺乏句子连接词，逻辑跳跃碎裂",
+      "language": "错误极多（主谓不一致、形容词作谓语缺少be动词、because/so连用、单复数缺失），词汇极其匮乏",
+      "format": "格式不合格：称呼后漏掉逗号，落款未空行换行顶格，无致意语（Yours sincerely）"
+    },
+    "highlights": [],
+    "errors": [
+      "Dear friend → Dear Friend,（大写与逗号遗漏）",
+      "China have → China has（主谓不一致）",
+      "many festival → many festivals（名词单复数）",
+      "China people → Chinese people",
+      "see moon → admire the full moon / watch the moon",
+      "Because ... so ... 连用（典型中式语法病句）",
+      "mean family together → it symbolizes family reunion",
+      "You will very happy → You will be very happy（缺谓语动词）",
+      "字数严重不足（仅68词，远低于100词要求）",
+      "无礼貌结束敬语（Yours sincerely缺失）"
+    ]
+  }
+]

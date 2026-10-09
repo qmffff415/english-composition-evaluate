@@ -1,0 +1,57 @@
+{
+  "module": "writing_knowledge",
+  "exam_category": "英语一",
+  "type": "vocabulary",
+  "subtype": "philosophical_and_social",
+  "description": "考研英语一哲理思辨、社会热点、传统文化与科技伦理高分高频词汇与搭配",
+  "categories": [
+    {
+      "category": "perseverance_and_growth",
+      "name_cn": "坚毅品质与个人成长",
+      "description": "针对攀登、习惯、自律、乐观等哲理主题的高级词汇",
+      "words": [
+        {"basic": "keep going", "advanced": "persevere in the face of adversity / press ahead with unflagging zeal", "meaning": "在逆境中坚韧不拔/不懈前行"},
+        {"basic": "give up", "advanced": "surrender halfway / throw in the towel prematurely", "meaning": "半途而废/过早放弃"},
+        {"basic": "difficulty", "advanced": "formidable obstacles / temporary bottlenecks / stumbling blocks", "meaning": "艰难险阻/阶段性瓶颈/绊脚石"},
+        {"basic": "optimistic", "advanced": "harbor an indomitable optimism / maintain a constructive composure", "meaning": "心怀不可战胜的乐观/保持建设性的从容"},
+        {"basic": "procrastination", "advanced": "chronic procrastination / inertia / self-indulgence", "meaning": "顽固性拖延/惰性/放任自流"},
+        {"basic": "self-discipline", "advanced": "rigorous self-discipline / inner fortitude / willpower", "meaning": "严格自律/内心坚韧/意志力"}
+      ]
+    },
+    {
+      "category": "social_and_digital_era",
+      "name_cn": "数字时代与社会反思",
+      "description": "针对低头族、手机依赖、网络人际关系等社会主题",
+      "words": [
+        {"basic": "phone addiction", "advanced": "pathological screen dependence / digital addiction / nomophobia", "meaning": "病态的屏幕依赖/数字成瘾/无手机恐惧症"},
+        {"basic": "not talk to each other", "advanced": "interpersonal alienation / emotional estrangement / fragmented communication", "meaning": "人际疏离/情感隔阂/碎片化沟通"},
+        {"basic": "double-edged sword", "advanced": "a double-edged instrument / a mixed blessing", "meaning": "双刃剑/喜忧参半的事物"},
+        {"basic": "superficial", "advanced": "superficiality / transient sensory stimulation / ephemeral thrills", "meaning": "浮躁肤浅/短暂感官刺激/瞬时快感"},
+        {"basic": "digital detox", "advanced": "unplug from cyberspace / practice digital moderation", "meaning": "远离网络数字排毒/践行适度数字生活"}
+      ]
+    },
+    {
+      "category": "cultural_heritage_and_morals",
+      "name_cn": "传统文化与道德风尚",
+      "description": "针对文化火锅、孝敬父母、传统节日、榜样力量等主题",
+      "words": [
+        {"basic": "traditional culture", "advanced": "intangible cultural heritage / time-honored traditions / indigenous wisdom", "meaning": "非物质文化遗产/历史悠久的传统/本土智慧"},
+        {"basic": "cultural exchange", "advanced": "cross-cultural dialogue / mutual learning among civilizations / cultural blending", "meaning": "跨文化对话/文明互鉴/文化交融"},
+        {"basic": "cultural confidence", "advanced": "unwavering cultural confidence / a strong sense of cultural identity", "meaning": "坚定文化自信/强烈的文化认同感"},
+        {"basic": "respect parents", "advanced": "practice filial piety / care for senior citizens / repay parental devotion", "meaning": "恪守孝道/关爱老年人/报答父母养育之恩"},
+        {"basic": "role model", "advanced": "lead by personal example / serve as an inspiring exemplar / moral paragon", "meaning": "以身作则/树立鼓舞人心的榜样/道德楷模"}
+      ]
+    },
+    {
+      "category": "countermeasures_and_action",
+      "name_cn": "对策建议与行动升华",
+      "description": "第三段提出解决举措与辩证呼吁",
+      "words": [
+        {"basic": "solve problem", "advanced": "tackle the root cause / defuse this potential crisis / rectify the anomaly", "meaning": "拔除根源/化解潜在危机/纠正反常现象"},
+        {"basic": "make rules", "advanced": "establish a robust regulatory framework / enact stringent regulations", "meaning": "健全监管体系/颁布严格规章"},
+        {"basic": "improve awareness", "advanced": "enhance civic awareness / foster a pervasive public consciousness", "meaning": "提升公众意识/培育普遍社会共识"},
+        {"basic": "work together", "advanced": "pool collective wisdom / mount joint efforts / join hands seamlessly", "meaning": "汇聚集体智慧/采取联合行动/携手合作"}
+      ]
+    }
+  ]
+}

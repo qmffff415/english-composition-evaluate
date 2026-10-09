@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+:root {
+  /* ── Core Scholarly & Ink Palette ── */
+  --ink:               #0c1222;
+  --ink-light:         #162038;
+  --ink-muted:         #1e2d4a;
+  --slate:             #2a3a5c;
+  --slate-mid:         #3d5280;
+  
+  /* Paper & Parchment Backgrounds */
+  --paper:             #f7f4ed;
+  --paper-warm:        #faf7f0;
+  --paper-card:        #ffffff;
+  --paper-subtle:      #f2ede2;
+  --paper-border:      #e5dfd2;
+  --paper-border-soft: #ede8dc;
+
+  /* Accent: Warm Amber (Study Lamp Glow) */
+  --amber:             #d97706;
+  --amber-bright:      #f59e0b;
+  --amber-dim:         #b45309;
+  --amber-glow:        rgba(217, 119, 6, 0.16);
+  --amber-subtle:      #fef3c7;
+  --amber-border:      #fde68a;
+
+  /* Semantic Palettes (Academic rubric aligned) */
+  --success:           #15803d;
+  --success-light:     #f0fdf4;
+  --success-border:    #bbf7d0;
+  --success-text:      #166534;
+
+  --warning:           #b45309;
+  --warning-light:     #fffbeb;
+  --warning-border:    #fde68a;
+  --warning-text:      #92400e;
+
+  --danger:            #b91c1c;
+  --danger-light:      #fef2f2;
+  --danger-border:     #fecaca;
+  --danger-text:       #991b1b;
+
+  --info:              #1d4ed8;
+  --info-light:        #eff6ff;
+  --info-border:       #bfdbfe;
+  --info-text:         #1e40af;
+
+  --purple:            #6d28d9;
+  --purple-light:      #f5f3ff;
+  --purple-border:     #ddd6fe;
+
+  /* Text Colors */
+  --text-ink:          #0c1222;
+  --text-primary:      #0c1222;
+  --text-body:         #334155;
+  --text-secondary:    #64748b;
+  --text-muted:        #94a3b8;
+  --text-on-dark:      #f1f5f9;
+  --text-on-dark-muted:#94a3b8;
+
+  /* Legacy & Semantic Bridge Aliases */
+  --bg-card:           var(--paper-card);
+  --bg-card-subtle:    var(--paper-warm);
+  --border-card:       var(--paper-border);
+  --color-primary:     var(--ink);
+  --color-primary-light: #f1f5f9;
+  --color-primary-border: #cbd5e1;
+  --color-accent:      var(--amber);
+  --color-success:     var(--success);
+  --color-success-light: var(--success-light);
+  --color-success-border: var(--success-border);
+  --color-warning:     var(--warning);
+  --color-warning-light: var(--warning-light);
+  --color-warning-border: var(--warning-border);
+  --color-danger:      var(--danger);
+  --color-danger-light: var(--danger-light);
+  --color-danger-border: var(--danger-border);
+  --color-purple:      var(--purple);
+  --color-purple-light: var(--purple-light);
+
+  /* Typography */
+  --font-display: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-body:    'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-sans:    var(--font-body);
+  --font-mono:    'JetBrains Mono', Consolas, Monaco, monospace;
+
+  /* Elevation & Shadow */
+  --shadow-xs:     0 1px 2px rgba(12, 18, 34, 0.04);
+  --shadow-sm:     0 2px 4px rgba(12, 18, 34, 0.05);
+  --shadow-md:     0 6px 16px rgba(12, 18, 34, 0.07);
+  --shadow-lg:     0 12px 28px rgba(12, 18, 34, 0.09);
+  --shadow-xl:     0 20px 48px rgba(12, 18, 34, 0.13);
+  --shadow-card:   0 1px 3px rgba(12, 18, 34, 0.04), 0 8px 24px -4px rgba(12, 18, 34, 0.06);
+
+  /* Border Radii */
+  --radius-xs:   4px;
+  --radius-sm:   6px;
+  --radius-md:   10px;
+  --radius-lg:   14px;
+  --radius-xl:   20px;
+  --radius-full: 9999px;
+
+  /* Transitions */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--paper);
+  color: var(--text-body);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  color: var(--text-ink);
+  letter-spacing: -0.015em;
+}
+
+button, input, textarea, select {
+  font-family: inherit;
+}
+
+/* ── Scrollbars ── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* ── Text Selection ── */
+::selection {
+  background: #fde68a;
+  color: #0c1222;
+}
+
+/* ── Global Keyframes ── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeInScale {
+  from { opacity: 0; transform: scale(0.98) translateY(4px); }
+  to   { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s var(--ease-out) forwards;
+}
+
+.animate-fade-in-scale {
+  animation: fadeInScale 0.3s var(--ease-out) forwards;
+}

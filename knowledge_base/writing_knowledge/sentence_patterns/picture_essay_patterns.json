@@ -1,0 +1,111 @@
+{
+  "module": "writing_knowledge",
+  "category": "sentence_patterns",
+  "exam_category": "英语一",
+  "title": "考研英语一图画大作文三段式全流程高分句型库 (Picture Essay Patterns)",
+  "description": "专为考研英语一（满分20分）图画作文研发的三段式经典高分句式体系：第一段精准描摹细节、第二段纵深寓意阐释与多维归因、第三段标本兼治对策与展望升华",
+  "paragraphs": {
+    "paragraph_one_description": {
+      "name": "第一段：图画精准描摹与细节勾勒 (Picture Description)",
+      "standard_length": "30-45 词，3-4 句话（忌过长，重点服务于第二段立意）",
+      "patterns": [
+        {
+          "type": "单图生动引入 (Single-Picture Opening)",
+          "template": "As is vividly and subtly depicted in the drawing above, [主体] is [动作], with [细节伴随/神态].",
+          "example": "As is vividly and subtly depicted in the drawing above, an exhausted young man is resting halfway up a steep hill, murmuring that he cannot climb any further.",
+          "highlights": "vividly and subtly (生动而微妙地); halfway up a steep hill (地点生动具体)"
+        },
+        {
+          "type": "倒装句震撼引题 (Inverted Opening for Visual Impact)",
+          "template": "Unfolded in the elaborately painted cartoon is an eye-catching and thought-provoking scene: [描述画面核心内容].",
+          "example": "Unfolded in the elaborately painted cartoon is an eye-catching and thought-provoking scene: four youngsters are seated around a dinner table, yet each is thoroughly engrossed in his own smartphone.",
+          "highlights": "Unfolded in... is... 完全倒装，句式高级且极具学术阅卷辨识度"
+        },
+        {
+          "type": "双图鲜明对比 (Two-Picture Contrast Opening)",
+          "template": "The cartoon presents a stark contrast between two distinct scenarios: while [场景一内容], [场景二内容].",
+          "example": "The cartoon presents a stark contrast between two distinct scenarios: while one student lies lazily on the couch watching television, the other studies diligently alongside his supportive father.",
+          "highlights": "presents a stark contrast between... (呈现鲜明对比)"
+        },
+        {
+          "type": "文字标语巧妙植入 (Incorporating Captions & Dialogues)",
+          "template": "What commands our immediate attention is the conspicuous caption [inscribed beneath / floating above], which reads: \"[文字内容]\".",
+          "example": "What commands our immediate attention is the conspicuous caption inscribed beneath the illustration, which reads: \"Finish it today, or put it off until tomorrow?\"",
+          "highlights": "commands our immediate attention (吸引我们的注意); conspicuous caption (醒目的图题)"
+        },
+        {
+          "type": "神态动作微观特写 (Micro-detail & Facial Expression)",
+          "template": "With [神态/表情，如: a serene smile playing on his lips / brows furrowed in intense despair], [主体] demonstrates [某种心理状态].",
+          "example": "With brows furrowed in visible hesitation, the graduate stands transfixed at the crossroads, pondering his future career trajectory.",
+          "highlights": "brows furrowed in visible hesitation (眉头紧锁犹豫不决，生动刻画心理状态)"
+        }
+      ]
+    },
+    "paragraph_two_interpretation": {
+      "name": "第二段：寓意纵深阐释与因果论证 (Significance & In-depth Analysis)",
+      "standard_length": "90-120 词，5-7 句话（全文核心得分点，占分权重最高）",
+      "patterns": [
+        {
+          "type": "象征隐喻开门见山 (Unveiling Symbolic Meaning)",
+          "template": "The primary intention of the painter is far from rendering a casual caricature; instead, it metaphorically illuminates the profound truth that [核心主旨/品质/社会现象].",
+          "example": "The primary intention of the painter is far from rendering a casual caricature; instead, it metaphorically illuminates the profound truth that perseverance is the indispensable cornerstone of any monumental achievement.",
+          "highlights": "far from rendering... instead, it metaphorically illuminates... 双重否定转折提升思辨力度"
+        },
+        {
+          "type": "社会成因递进剖析 (Multidimensional Causation Chain)",
+          "template": "A multitude of interconnected factors can account for this prevailing phenomenon. Foremost among them is [原因一]. Furthermore, [原因二]. Last but not least, [原因三].",
+          "example": "A multitude of interconnected factors can account for this prevailing phenomenon. Foremost among them is the intense social pressure that compels individuals to seek immediate sensory gratification. Furthermore, the relentless influx of digital notifications has drastically fragmented people's attention spans.",
+          "highlights": "multitude of interconnected factors (多元互联因素); Foremost among them is... (倒装强调首因)"
+        },
+        {
+          "type": "正反严密对比论证 (Antithetical Argumentation)",
+          "template": "Those who embrace [积极品质] are bound to [获得成就]; on the contrary, those who succumb to [消极恶习] will inevitably [遭受恶果].",
+          "example": "Those who embrace proactive execution are bound to unlock endless possibilities and self-fulfillment; on the contrary, those who succumb to habitual procrastination will inevitably drown in endless remorse and missed opportunities.",
+          "highlights": "Those who embrace... are bound to... on the contrary, those who succumb to... 对仗工整，逻辑说服力极强"
+        },
+        {
+          "type": "哲理名言升华点题 (Proverbial Anchor)",
+          "template": "As the timeless adage eloquently puts it, \"[名言内容]\", which underscores the enduring value of [主题核心].",
+          "example": "As the timeless adage eloquently puts it, \"Constant dripping hollows out the stone, not by force, but through persistence\", which underscores the enduring value of tenacity in navigating life's turbulent journey.",
+          "highlights": "eloquently puts it (精辟指出); underscores the enduring value of... (彰显了……的长青价值)"
+        },
+        {
+          "type": "危害影响纵深透视 (Analyzing Negative Repercussions)",
+          "template": "Should this detrimental tendency be allowed to persist unchecked, it would not merely [个人危害], but also [社会危害].",
+          "example": "Should this detrimental tendency be allowed to persist unchecked, it would not merely paralyze individual ambitions, but also undermine the moral vitality of society as a whole.",
+          "highlights": "Should this... be allowed to... (虚拟语气倒装，展示高级句式储备)"
+        }
+      ]
+    },
+    "paragraph_three_conclusion": {
+      "name": "第三段：建设性对策与展望升华 (Constructive Measures & Outlook)",
+      "standard_length": "40-55 词，3-4 句话（标本兼治，首尾呼应）",
+      "patterns": [
+        {
+          "type": "段落过渡承上启下 (Transition to Solutions)",
+          "template": "In view of the compelling arguments expounded above, it is imperative for [主语，如: us / the entire society] to orchestrate concerted efforts to [采取行动].",
+          "example": "In view of the compelling arguments expounded above, it is imperative for the entire society to orchestrate concerted efforts to nurture genuine cultural confidence among the youth.",
+          "highlights": "orchestrate concerted efforts (通力协作/协同发力)"
+        },
+        {
+          "type": "个人自律觉醒层面 (Individual Awakening & Habit Cultivation)",
+          "template": "On the personal front, we college students ought to cultivate a steadfast consciousness of [主题词], translating noble aspirations into everyday self-discipline.",
+          "example": "On the personal front, we college students ought to cultivate a steadfast consciousness of time management, translating noble aspirations into everyday self-discipline.",
+          "highlights": "translate noble aspirations into everyday self-discipline (将崇高志向转化为日常自律)"
+        },
+        {
+          "type": "社会/政策协同支撑层面 (Institutional & Social Guidance)",
+          "template": "Simultaneously, relevant authorities, schools and media should shoulder their due responsibilities to create a favorable cultural atmosphere through sound guidance and effective oversight.",
+          "example": "Simultaneously, educational institutions and parents should shoulder their due responsibilities to lead by positive example, fostering an encouraging environment for mutual growth.",
+          "highlights": "shoulder their due responsibilities (勇担应尽之责); favorable cultural atmosphere (良好文化氛围)"
+        },
+        {
+          "type": "倒装句终极展望升华 (Inverted Concluding Climax)",
+          "template": "Only when [条件一] and [条件二] are combined in earnest can we [实现美好愿景].",
+          "example": "Only when personal fortitude and social guidance are seamlessly united can we surmount any obstacle and steer our nation toward an auspicious future.",
+          "highlights": "Only when... can we... 倒装句收尾，气势磅礴，第一档范文标配"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "module": "common_errors",
+  "type": "format_errors",
+  "description": "考研英语二作文中常见的格式错误",
+  "error_categories": [
+    {
+      "category": "letter_format_errors",
+      "name_cn": "书信格式错误",
+      "errors": [
+        {
+          "error": "缺少称呼",
+          "description": "书信开头直接写正文，没有 Dear ... 的称呼",
+          "penalty": "扣1分",
+          "correct_format": "首行顶格写 Dear + 称谓 + 逗号",
+          "examples": {
+            "wrong": "I am writing to invite you to ...",
+            "correct": "Dear Professor Smith,\n\n    I am writing to invite you to ..."
+          }
+        },
+        {
+          "error": "缺少落款",
+          "description": "正文结束后没有结束语和署名",
+          "penalty": "扣1分",
+          "correct_format": "正文后空一行，写 Yours sincerely, 下一行写 Li Ming",
+          "examples": {
+            "wrong": "I look forward to your reply.",
+            "correct": "I look forward to your reply.\n\nYours sincerely,\nLi Ming"
+          }
+        },
+        {
+          "error": "称呼格式错误",
+          "description": "称呼的大小写、标点或用词不规范",
+          "penalty": "扣0.5-1分",
+          "common_mistakes": [
+            "Dear sir（应为 Dear Sir）",
+            "Dear professor Smith（应为 Dear Professor Smith，头衔首字母大写）",
+            "Dear Smith（不能直接称呼姓氏，应加 Mr./Ms./Prof.）",
+            "Dear Smith Professor（应为 Dear Professor Smith，头衔在前）",
+            "Dear Sir or Madam:（正式场合可用冒号，但逗号更常见于考研作文）"
+          ]
+        },
+        {
+          "error": "落款格式错误",
+          "description": "结束语的大小写或搭配不规范",
+          "penalty": "扣0.5分",
+          "common_mistakes": [
+            "yours sincerely（Yours 首字母应大写）",
+            "Yours Sincerely（sincerely 不应大写）",
+            "Your sincerely（Your 应为 Yours）",
+            "Sincerely Yours 后面没加逗号"
+          ]
+        },
+        {
+          "error": "使用真实姓名",
+          "description": "署名使用了考生本人的真实姓名而非 Li Ming",
+          "penalty": "严重违规，可能导致试卷作废",
+          "correct_format": "统一署名 Li Ming（题目另有要求除外）"
+        },
+        {
+          "error": "正式/非正式混搭",
+          "description": "在正式书信中使用了非正式的称呼或结束语",
+          "penalty": "酌情扣0.5-1分",
+          "examples": {
+            "wrong": "Dear Dude, ... Cheers, Li Ming",
+            "note": "考研作文中，即使写给朋友也建议用半正式风格"
+          }
+        }
+      ]
+    },
+    {
+      "category": "notice_format_errors",
+      "name_cn": "通知格式错误",
+      "errors": [
+        {
+          "error": "缺少标题",
+          "description": "通知没有 Notice / Announcement 标题",
+          "penalty": "扣0.5-1分",
+          "correct_format": "标题居中，如 NOTICE 或 Notice"
+        },
+        {
+          "error": "写成书信格式",
+          "description": "通知类题目用了 Dear ... 开头的书信格式",
+          "penalty": "扣1-2分（文体不匹配）",
+          "correct_format": "通知不需要 Dear ... 称呼，直接在标题后写正文"
+        },
+        {
+          "error": "缺少署名单位",
+          "description": "通知末尾没有写发布单位",
+          "penalty": "扣0.5分",
+          "correct_format": "右下方写 The Student Union 等发布单位"
+        },
+        {
+          "error": "缺少日期",
+          "description": "通知末尾没有注明日期",
+          "penalty": "扣0.5分",
+          "correct_format": "署名下方写日期，如 October 7, 2026"
+        }
+      ]
+    },
+    {
+      "category": "big_essay_format_errors",
+      "name_cn": "大作文格式错误",
+      "errors": [
+        {
+          "error": "未分段",
+          "description": "整篇文章写成一大段，没有段落划分",
+          "penalty": "扣1-2分",
+          "correct_format": "大作文应分为3段（描述、分析、总结）"
+        },
+        {
+          "error": "段落过多或过少",
+          "description": "分了5-6段或只有1-2段",
+          "penalty": "酌情扣0.5-1分",
+          "correct_format": "3段为标准结构，2段或4段也可接受"
+        },
+        {
+          "error": "段落比例严重失调",
+          "description": "某段过长或过短，导致结构失衡",
+          "penalty": "影响组织性评分",
+          "example": "描述段写了100词，分析段只有20词"
+        }
+      ]
+    },
+    {
+      "category": "general_formatting",
+      "name_cn": "通用格式问题",
+      "errors": [
+        {
+          "error": "首行缩进不一致",
+          "description": "有些段落缩进有些不缩进",
+          "advice": "保持一致，要么全部缩进要么全部顶格（齐头式）"
+        },
+        {
+          "error": "标点符号问题",
+          "description": "中英文标点混用、缺少句末标点、逗号使用不当",
+          "common_issues": [
+            "使用中文逗号'，'而非英文逗号','",
+            "使用中文句号'。'而非英文句号'.'",
+            "句末缺少句号",
+            "逗号后面没有空格"
+          ]
+        }
+      ]
+    }
+  ]
+}

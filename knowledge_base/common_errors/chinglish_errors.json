@@ -1,0 +1,71 @@
+{
+  "module": "common_errors",
+  "type": "chinglish_errors",
+  "description": "中式英语（Chinglish）常见错误对照表，帮助识别和纠正不地道的英文表达",
+  "error_pairs": [
+    {
+      "category": "直译类",
+      "errors": [
+        {"chinglish": "improve one's ability", "native": "develop/enhance/hone one's skills/competence", "note": "ability 搭配 develop 更地道"},
+        {"chinglish": "more and more important", "native": "increasingly important / of growing importance", "note": "避免 more and more + adj. 的中式表达"},
+        {"chinglish": "more and more people", "native": "an increasing/growing number of people / people in growing numbers", "note": "更正式的替换"},
+        {"chinglish": "with the development of society/economy", "native": "as society/the economy evolves/advances/progresses", "note": "考研作文中最常见的中式英语之一"},
+        {"chinglish": "with the rapid development of science and technology", "native": "with the advent/advancement of technology / as technology advances", "note": "避免千篇一律的套话"},
+        {"chinglish": "play a more and more important role", "native": "play an increasingly important/vital/significant role", "note": ""},
+        {"chinglish": "open one's horizon/view", "native": "broaden one's horizons / widen one's perspective", "note": "horizon 通常用复数 horizons"},
+        {"chinglish": "have a good rest", "native": "get some rest / take a rest", "note": ""},
+        {"chinglish": "take exercise", "native": "exercise / work out / do physical exercise", "note": "exercise 本身可作动词"},
+        {"chinglish": "learn knowledge", "native": "acquire/gain knowledge", "note": "learn 不搭配 knowledge"},
+        {"chinglish": "give someone a suggestion", "native": "make a suggestion / offer advice", "note": "suggestion 搭配 make/offer"},
+        {"chinglish": "realize one's dream", "native": "fulfill/achieve one's dream / make one's dream come true", "note": "realize 更常表示'意识到'"},
+        {"chinglish": "the reason is because", "native": "the reason is that / this is because", "note": "reason 后面用 that 不用 because"},
+        {"chinglish": "although ... but ...", "native": "although ... (不加 but)", "note": "although 和 but 不能同时使用"},
+        {"chinglish": "because ... so ...", "native": "because ... (不加 so) / ..., so ...", "note": "because 和 so 不能同时使用"}
+      ]
+    },
+    {
+      "category": "搭配不当类",
+      "errors": [
+        {"chinglish": "solve the problem of unemployment", "native": "address/tackle the issue of unemployment", "note": "solve 多用于数学题或简单问题"},
+        {"chinglish": "meet one's need", "native": "meet/satisfy/fulfill one's needs", "note": "need 通常用复数 needs"},
+        {"chinglish": "make contribution to", "native": "make a contribution to / contribute to", "note": "注意冠词"},
+        {"chinglish": "protect the environment from being polluted", "native": "protect the environment (from pollution)", "note": "from being polluted 过于累赘"},
+        {"chinglish": "take measures to solve", "native": "take/adopt measures to address/tackle", "note": ""},
+        {"chinglish": "concern about", "native": "be concerned about / concern oneself with", "note": "concern 作动词时是及物动词"},
+        {"chinglish": "emphasize on", "native": "emphasize / place emphasis on / lay stress on", "note": "emphasize 是及物动词，不加 on"},
+        {"chinglish": "bindly accept", "native": "blindly accept / accept without question", "note": "拼写错误 + 搭配"}
+      ]
+    },
+    {
+      "category": "词性混淆类",
+      "errors": [
+        {"chinglish": "In nowadays / In today", "native": "Nowadays / Today / In today's society", "note": "nowadays/today 是副词，不加 in"},
+        {"chinglish": "very worth", "native": "well worth / worthwhile", "note": "worth 前不能用 very 修饰"},
+        {"chinglish": "very appreciate", "native": "greatly/truly/sincerely appreciate", "note": "appreciate 不搭配 very"},
+        {"chinglish": "economy develop", "native": "economic development / the economy develops", "note": "economy是名词，economic是形容词"},
+        {"chinglish": "technology develop", "native": "technological development / technology develops", "note": "technology是名词"},
+        {"chinglish": "healthy live", "native": "healthy life / live healthily", "note": "形容词和副词混淆"}
+      ]
+    },
+    {
+      "category": "逻辑表达类",
+      "errors": [
+        {"chinglish": "I think we should not ...", "native": "I don't think we should ... / I don't believe that ...", "note": "英语中否定习惯前移到主句"},
+        {"chinglish": "The chart tells us that ...", "native": "The chart shows/reveals/indicates that ...", "note": "图表不会'告诉'人，用 show 更准确"},
+        {"chinglish": "Every coin has two sides.", "native": "直接展开正反论述，避免使用此陈词滥调", "note": "此表达已被过度使用，阅卷老师反感"},
+        {"chinglish": "As we all know, ...", "native": "It is widely/generally acknowledged that ...", "note": "as we all know 过于口语化和笼统"},
+        {"chinglish": "In a word, ...", "native": "In conclusion, / To sum up, / All in all,", "note": "in a word 不够正式"}
+      ]
+    },
+    {
+      "category": "过度使用类（考研作文高频套话）",
+      "errors": [
+        {"overused": "With the development of ...", "better": "As ... advances/evolves / In the era of ...", "note": "最常见的中式开头"},
+        {"overused": "It is well known that ...", "better": "直接进入主题，或用 It is widely acknowledged that ...", "note": ""},
+        {"overused": "Last but not least, ...", "better": "Finally, / What is also noteworthy is that ...", "note": "已被过度使用"},
+        {"overused": "Every coin has two sides.", "better": "While ... has its advantages, it also brings challenges.", "note": "最被阅卷老师反感的表达之一"},
+        {"overused": "Nothing is more important than ...", "better": "... is of paramount/vital importance. / ... is essential.", "note": "适量使用可以，但不要每篇都用"}
+      ]
+    }
+  ]
+}

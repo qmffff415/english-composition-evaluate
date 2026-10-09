@@ -1,0 +1,111 @@
+{
+  "module": "question_templates",
+  "exam_category": "英语一",
+  "type": "small_essay_templates",
+  "description": "考研英语一小作文高频题型写作框架模板（告示Notice、备忘录Memo、倡议书Proposal、推荐信、邀请信）",
+  "templates": [
+    {
+      "type": "notice",
+      "name_cn": "告示与通告（Notice / Announcement）",
+      "features": "考研英语一高频特色体裁（如招募志愿者、读书会告示、歌唱比赛、辩论赛通知等）",
+      "framework": {
+        "title": "NOTICE（居中、全大写）",
+        "date": "October 9, 2026（右对齐）",
+        "salutation": "可写通用称呼（如 Dear Fellow Students, 或 To All International Students,）或直接起笔正文",
+        "paragraph_1": {
+          "purpose": "活动宗旨与背景说明",
+          "template": "Aiming to [活动目的，如enrich campus cultural life and enhance cross-cultural communication], the [组织者，如Students' Union] is pleased to announce that a [活动名称] is scheduled to be held on [具体日期] in [具体地点]."
+        },
+        "paragraph_2": {
+          "purpose": "详细要求、流程安排与参与资格",
+          "template": "Detailed arrangements and requirements are outlined as follows: First and foremost, participants are expected to [具体要求1，如possess fluent English proficiency and a keen passion for volunteering]. In addition, the registration deadline is set on [截止日期]. All interested candidates should submit their application forms to [官方邮箱/办公室]."
+        },
+        "paragraph_3": {
+          "purpose": "热情呼吁与联系方式",
+          "template": "Everyone is cordially encouraged to actively participate. For further inquiries or detailed schedules, please do not hesitate to contact us at [联系方式] or visit our official website.\n\nThe Students' Union"
+        }
+      },
+      "key_expressions": [
+        "is scheduled to take place on...",
+        "Detailed requirements are as follows:",
+        "All prospective participants are warmly welcomed.",
+        "For more information, please feel free to reach out to..."
+      ]
+    },
+    {
+      "type": "memo",
+      "name_cn": "备忘录（Memo / Memorandum）",
+      "features": "标准公文表头（TO / FROM / DATE / SUBJECT），直奔主题，信息密集高效",
+      "framework": {
+        "header": "TO: All Staff Members\nFROM: Project Coordinator (Li Ming)\nDATE: October 9, 2026\nSUBJECT: Adjustments to Upcoming Conference Arrangements",
+        "paragraph_1": {
+          "purpose": "直接说明备忘录核心意图",
+          "template": "The purpose of this memo is to formally inform you of several vital modifications regarding [核心事项，如the schedule and venue of the upcoming international symposium]."
+        },
+        "paragraph_2": {
+          "purpose": "罗列具体调整事项与行动指南",
+          "template": "Due to unexpected renovations in Building A, the keynote session has been relocated to Hall B on the second floor. Furthermore, the registration deadline has been extended to next Friday at 5:00 p.m. All department heads are kindly requested to recheck attendee lists and confirm their technical equipment requirements."
+        },
+        "paragraph_3": {
+          "purpose": "落实责任与截止响应",
+          "template": "Your prompt attention and smooth cooperation with these adjustments are highly appreciated. Please submit your finalized departmental reports by no later than Wednesday afternoon."
+        }
+      },
+      "key_expressions": [
+        "The purpose of this memo is to inform you that...",
+        "Please note that the following adjustments will take effect immediately:",
+        "Your prompt cooperation is greatly appreciated."
+      ]
+    },
+    {
+      "type": "recommendation_letter",
+      "name_cn": "推荐信（Letter of Recommendation）",
+      "features": "考研英语一常考文体（如向外国朋友推荐旅游胜地、推荐一本中国好书、推荐优秀人选等）",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "阐明写信目的与推荐对象",
+          "template": "Dear [Recipient],\n\n    Learning that you are interested in [某一领域/即将来华旅游/挑选书籍], I am writing this letter with great enthusiasm to recommend [推荐对象] to you."
+        },
+        "paragraph_2": {
+          "purpose": "详述2-3条核心推荐理由与特色亮点",
+          "template": "My primary reason is that [理由1，如it showcases the profound depth and enchanting charm of traditional culture]. Furthermore, [理由2，如its captivating narrative style and vivid illustrations will undoubtedly offer you an immersive experience]. Last but not least, [理由3，如it provides practical insights that can significantly broaden your horizons]."
+        },
+        "paragraph_3": {
+          "purpose": "期盼体验反馈与友好祝愿",
+          "template": "I firmly believe that you will find this recommendation both enjoyable and rewarding. Should you require any further information, please feel free to drop me a line.\n\nYours sincerely,\nLi Ming"
+        }
+      },
+      "key_expressions": [
+        "I am writing with great enthusiasm to recommend...",
+        "It stands out as an exemplary choice owing to its...",
+        "It will undoubtedly offer you an unforgettable experience.",
+        "I am confident that it will live up to your expectations."
+      ]
+    },
+    {
+      "type": "proposal",
+      "name_cn": "倡议书 / 倡议信（Proposal / Letter of Appeal）",
+      "features": "向广大学生或市民发出倡议（如勤俭节约、垃圾分类、保护传统建筑、读书倡议）",
+      "framework": {
+        "title": "A PROPOSAL FOR [倡议主题]",
+        "paragraph_1": {
+          "purpose": "指出紧迫现状与倡议必要性",
+          "template": "Dear Fellow Students,\n\n    In recent years, [指出不良现象或现实挑战，如environmental degradation / excessive food waste] has become a matter of growing concern on our campus. In order to tackle this issue and build a greener university community, we hereby put forward the following proposals."
+        },
+        "paragraph_2": {
+          "purpose": "提出具体可操作的倡议举措（条理清晰）",
+          "template": "To begin with, we advocate that every student should [倡议行动1，如practice clean plate campaigns and eliminate food waste]. Moreover, it is strongly advised to [倡议行动2，如utilize reusable containers rather than disposable plastics]. Finally, we should actively disseminate eco-friendly concepts to peers around us."
+        },
+        "paragraph_3": {
+          "purpose": "发出热烈呼吁与展望",
+          "template": "Little drops of water make the mighty ocean. Let us join hands from this very moment and contribute our share to a more sustainable campus!\n\nThe Students' Union"
+        }
+      },
+      "key_expressions": [
+        "We hereby put forward the following proposals:",
+        "It is of paramount necessity that we take concerted actions.",
+        "Let us join hands and make a difference together."
+      ]
+    }
+  ]
+}

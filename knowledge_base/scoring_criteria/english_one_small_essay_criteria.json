@@ -1,0 +1,163 @@
+{
+  "module": "scoring_criteria",
+  "exam_category": "英语一",
+  "type": "small_essay",
+  "part": "Part A",
+  "total_score": 10,
+  "word_count_requirement": {
+    "min": 100,
+    "recommended": "100-130",
+    "penalty_rules": {
+      "below_100": "低于100词视情况扣0.5-1分",
+      "below_80": "低于80词扣1-2分",
+      "below_50": "低于50词最高得分不超过5分",
+      "above_150": "字数过长（超过150词）不额外扣分，但建议精炼避免增加语言错误与时间浪费"
+    }
+  },
+  "essay_type": "应用文（书信 Letters、告示/通告 Notices、备忘录 Memos、倡议书 Proposals）",
+  "expected_structure": {
+    "letter": {
+      "name": "书信标准三段式",
+      "salutation": "Dear Sir/Madam, / Dear Professor ..., / Dear Jack,",
+      "paragraph_1": "说明写信目的或背景（1-2句，20-25词）",
+      "paragraph_2": "逐一展开题目要求的2-3个具体要点（4-6句，60-75词）",
+      "paragraph_3": "礼貌结语与期盼回复（1-2句，15-20词）",
+      "complimentary_close": "Yours sincerely, / Yours faithfully, / Warm regards,",
+      "signature": "Li Ming（切勿书写真实姓名，无句号）"
+    },
+    "notice": {
+      "name": "告示/通知标准格式",
+      "title": "居中全部大写 NOTICE 或 ANNOUNCEMENT",
+      "date": "右对齐日期（如 October 9, 2026）",
+      "salutation": "面向群体称呼（如 Dear International Students,）或直接正文",
+      "body": "分两至三段说明事由、时间、地点、参与要求与报名/联系方式",
+      "signature": "右下角落款机构或虚构署名（如 The Students' Union 或 Organizing Committee）"
+    },
+    "memo": {
+      "name": "备忘录标准表头格式",
+      "heading": "TO: ... \\nFROM: ... \\nDATE: ... \\nSUBJECT: ...",
+      "body": "直奔业务主题，清晰传达决策、工作要求或调整通知，用词简练客观"
+    }
+  },
+  "scoring_dimensions": [
+    {
+      "dimension": "content_completeness",
+      "name_cn": "内容要点完整性",
+      "description": "是否全面覆盖试题规定的全部要点（通常为2-3个要点），信息阐述是否充实",
+      "weight": "核心维度（满分3分）",
+      "evaluation_points": [
+        "题目给出的核心任务要点是否全覆盖",
+        "要点是否有适当展开，信息是否合理充分",
+        "是否存在脱离主题的无关啰嗦",
+        "针对书信/通知中要求的特定信息（时间地点联系人等）是否交代清晰"
+      ]
+    },
+    {
+      "dimension": "format_and_register",
+      "name_cn": "格式规范与语域得体性",
+      "description": "文体格式（称呼、落款、标题、排版）是否标准，语体风格（正式/半正式/亲切）是否得体",
+      "weight": "核心维度（满分2分，小作文扣分重灾区）",
+      "evaluation_points": [
+        "书信称呼（Dear...）与落款署名（Yours sincerely, Li Ming）是否规范",
+        "通知告示标题是否居中大写（NOTICE），落款发文单位是否得当",
+        "备忘录表头（TO/FROM/DATE/SUBJECT）是否齐备",
+        "语气与交际对象是否匹配（对教授/公文需正式礼貌，对朋友需亲切得体）",
+        "段落缩进与标点符号是否合规"
+      ]
+    },
+    {
+      "dimension": "language_accuracy",
+      "name_cn": "语言准确性与基础表达",
+      "description": "语法、拼写、标点、用词及句子结构的准确度",
+      "weight": "核心维度（满分3分）",
+      "evaluation_points": [
+        "动词时态与主谓单复数的一致性",
+        "介词与固定搭配使用是否准确",
+        "拼写与大小写规范",
+        "是否存在生硬的中式英语直译（Chinglish）",
+        "基础句式是否完整，有无碎片句或连写句"
+      ]
+    },
+    {
+      "dimension": "organization_and_coherence",
+      "name_cn": "篇章连贯与逻辑组织",
+      "description": "段落划分是否明晰，句子与段落之间衔接词使用是否得当",
+      "weight": "重要维度（满分2分）",
+      "evaluation_points": [
+        "是否清晰分段（建议三段式）",
+        "衔接手段（First and foremost, In addition, In consequence等）是否自然",
+        "逻辑顺序是否清晰递进"
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "band": 5,
+      "band_name": "第五档（高分档）",
+      "score_range": "9-10分",
+      "description": "很好地完成了试题规定的任务。包含所有内容要点；使用丰富的语法结构和词汇；语言自然流畅，仅有极个别笔误；格式与语域完全符合应用文规范。",
+      "criteria": [
+        "要点全齐，展开生动合情合理",
+        "格式完全正确（称呼、落款、标点无误）",
+        "语域得体，用词精准高雅，句式有一定丰富度",
+        "字数在100-130词之间"
+      ]
+    },
+    {
+      "band": 4,
+      "band_name": "第四档（良好档）",
+      "score_range": "7-8分",
+      "description": "较好地完成了试题规定的任务。包含大部分或全部内容要点；语言基本准确，偶有小错但不影响理解；格式与语域基本符合要求。",
+      "criteria": [
+        "覆盖主要任务要点，内容基本充实",
+        "格式基本规范，称呼署名完整",
+        "存在个别语法或拼写瑕疵，但不影响整体沟通",
+        "行文较连贯"
+      ]
+    },
+    {
+      "band": 3,
+      "band_name": "第三档（及格档）",
+      "score_range": "5-6分",
+      "description": "基本完成了试题规定的任务。虽漏掉部分内容，但包含主要要点；应用的语法和词汇能满足基本需求；有一些语言错误；格式有小瑕疵。",
+      "criteria": [
+        "遗漏部分要点或展开不充分",
+        "语言错误较多（主谓不一致、时态混乱、中式英语）",
+        "格式微瑕（如漏写称呼逗号、署名格式混淆）",
+        "词数勉强达标或略微不足（80-90词）"
+      ]
+    },
+    {
+      "band": 2,
+      "band_name": "第二档（不及格档）",
+      "score_range": "3-4分",
+      "description": "未能按要求完成任务。严重遗漏核心要点或偏题；语言错误较多且严重影响交际；格式严重错误。",
+      "criteria": [
+        "未理解题目任务，跑题或漏掉主要要点",
+        "通篇语法病句密集，影响理解",
+        "缺少格式要素（无称呼、无落款、正文未分段）",
+        "词数严重不足（低于70词）"
+      ]
+    },
+    {
+      "band": 1,
+      "band_name": "第一档（极低分档）",
+      "score_range": "1-2分",
+      "description": "未完成试题任务。仅写出少量零散词句，不成篇章，无法传达有效信息。",
+      "criteria": [
+        "通篇仅有几个零散单词拼凑",
+        "不成句子，词数不足40词"
+      ]
+    },
+    {
+      "band": 0,
+      "band_name": "零分档",
+      "score_range": "0分",
+      "description": "白卷、内容与题目完全无关、纯抄试卷阅读理解。",
+      "criteria": [
+        "空白卷",
+        "完全抄袭试卷阅读理解"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "module": "writing_knowledge",
+  "category": "thematic_materials",
+  "exam_category": "英语一",
+  "theme": "传统文化传承与社会道德公德 (Cultural Heritage & Social Morality)",
+  "description": "考研英语一经典核心母题——传统文化传承、文化交融、非遗保护、孝道美德与社会公德深度论据素材库",
+  "sub_themes": [
+    {
+      "name": "传统文化传承与文化自信 (Cultural Heritage & Cultural Confidence)",
+      "applicable_topics": ["2023年龙舟赛与端午传承", "2022年校园传统文化讲座", "2010年文化火锅与融合", "国潮与非遗传承"],
+      "core_vocabulary": [
+        {"word": "cultural heritage", "meaning": "文化遗产", "collocation": "intangible cultural heritage (非物质文化遗产)"},
+        {"word": "cultural confidence", "meaning": "文化自信", "collocation": "bolster cultural confidence (增强文化自信)"},
+        {"word": "carry forward", "meaning": "弘扬，继承发扬", "collocation": "carry forward traditional virtues (弘扬传统美德)"},
+        {"word": "reinvigorate", "meaning": "注入新活力，重振", "collocation": "reinvigorate ancient traditions with modern vibrancy (以现代活力重振古老传统)"},
+        {"word": "spiritual roots", "meaning": "精神根脉", "collocation": "cherish one's cultural and spiritual roots (珍视个人的文化与精神根脉)"},
+        {"word": "cross-cultural communication", "meaning": "跨文化传播/交流", "collocation": "facilitate cross-cultural communication (促进跨文化传播)"},
+        {"word": "melting pot", "meaning": "大熔炉/融合", "collocation": "a vibrant melting pot of diverse civilizations (多元文明的活力大熔炉)"}
+      ],
+      "proverbs_and_quotes": [
+        {
+          "quote": "A nation that forgets its past has no future; culture is the soul of a people.",
+          "author": "Winston Churchill (丘吉尔) & Cultural Axiom",
+          "translation": "遗忘过去的民族没有未来；文化是一个民族的灵魂。",
+          "usage": "用于论述传承民族文化遗产对国家和青年的根本意义"
+        },
+        {
+          "quote": "Civilizations become rich and vibrant through mutual exchanges and integration.",
+          "author": "Civilizational Dialogue Motto",
+          "translation": "文明因交流而多彩，文明因互鉴而丰富。",
+          "usage": "用于文化火锅、跨文化交流与传统文化创新性转化"
+        },
+        {
+          "quote": "Fine traditions resemble towering ancient trees: only with deep roots can they sprout lush leaves in the spring of modernization.",
+          "author": "Metaphorical Proverb",
+          "translation": "优良传统宛如参天古木：唯有根深蒂固，方能在现代化的春天枝繁叶茂。",
+          "usage": "用于阐述文化坚守与时代创新的辩证关系"
+        }
+      ],
+      "argument_points": [
+        {
+          "point_en": "Traditional heritage is by no means an obsolete relic gathering dust in museums, but a living spring that anchors national identity amidst the vortex of globalization.",
+          "point_cn": "传统遗产绝非在博物馆中积灰的过时陈迹，而是在全球化漩涡中维系民族身份认同的鲜活源泉。"
+        },
+        {
+          "point_en": "By infusing creative interpretations and digital media into age-old customs, the young generation transforms timeless heritage into a trendy cultural emblem.",
+          "point_cn": "青年一代通过将创意阐释与数字媒介注入古老习俗，使历久弥新的文化遗产焕发为时尚的文化符号。"
+        }
+      ],
+      "sample_sentence_patterns": [
+        "Far from being an archaic burden, traditional culture serves as the indispensable compass that guides our nation toward sustainable renewal.",
+        "Only when traditional values are actively revitalized and embraced by contemporary youth can the flame of civilization be passed down from generation to generation."
+      ]
+    },
+    {
+      "name": "孝道美德与反哺之情 (Filial Piety & Reverence for Parents)",
+      "applicable_topics": ["2014年相携三十年与孝敬父母", "老龄化社会与关爱老人", "家庭美德与感恩"],
+      "core_vocabulary": [
+        {"word": "filial piety", "meaning": "孝道，孝顺", "collocation": "uphold the cherished virtue of filial piety (恪守珍贵的孝道美德)"},
+        {"word": "reciprocal devotion", "meaning": "互爱互敬，反哺之情", "collocation": "repay parents with reciprocal devotion (以反哺深情回馈父母)"},
+        {"word": "twilight years", "meaning": "暮年，晚年", "collocation": "support parents through their tranquil twilight years (陪伴父母度过安详晚年)"},
+        {"word": "nurturing care", "meaning": "悉心照料与养育", "collocation": "unrequited nurturing care (无私的抚育之恩)"},
+        {"word": "companionship", "meaning": "陪伴", "collocation": "provide heartfelt emotional companionship (提供由衷的情感陪伴)"},
+        {"word": "silver-haired generation", "meaning": "白发一代/老年人", "collocation": "address the spiritual needs of the silver-haired generation (关照银发族精神需求)"}
+      ],
+      "proverbs_and_quotes": [
+        {
+          "quote": "Of all virtues, filial piety is the foremost.",
+          "author": "Ancient Chinese Wisdom (百善孝为先)",
+          "translation": "百善孝为先。",
+          "usage": "用于孝敬父母主题的论点引出或结论升华"
+        },
+        {
+          "quote": "Children should never forget the age of their parents: on the one hand as an occasion for joy, and on the other as an occasion for anxiety.",
+          "author": "Confucius (孔子《论语》)",
+          "translation": "父母之年，不可不知也。一则以喜，一则以惧。",
+          "usage": "用于论述时光飞逝与即刻尽孝的紧迫性"
+        }
+      ],
+      "argument_points": [
+        {
+          "point_en": "Parental devotion during childhood demands reciprocal gratitude when age bends the posture of those who once held our hands.",
+          "point_cn": "童年时父母倾注的关爱，在岁月弯曲了那双曾经牵扶我们前行的臂膀时，理应得到深情反哺。"
+        },
+        {
+          "point_en": "Filial respect encompasses not merely material provision, but warm and sustained emotional companionship in daily life.",
+          "point_cn": "孝道不仅包括物质层面的赡养，更体现在日常生活中温情而持久的情感陪伴。"
+        }
+      ],
+      "sample_sentence_patterns": [
+        "Just as parents gently supported our fledgling steps in infancy, so should grown children tenderly accompany them in their silver years.",
+        "True filial piety does not manifest in grandiloquent pledges, but in the attentive warmth of daily companionship and respectful listening."
+      ]
+    },
+    {
+      "name": "社会公德与文明素养 (Public Morality & Civic Decorum)",
+      "applicable_topics": ["2011年旅途乱扔垃圾", "旅游不文明现象", "公共秩序与公民道德", "诚信素养"],
+      "core_vocabulary": [
+        {"word": "civic decorum", "meaning": "文明礼貌，公民修养", "collocation": "observe civic decorum in public arenas (在公共场合恪守文明素养)"},
+        {"word": "public morality", "meaning": "社会公德", "collocation": "undermine public morality (破坏社会公德)"},
+        {"word": "littering", "meaning": "乱扔垃圾", "collocation": "curb the uncivilized behavior of littering (遏制乱扔垃圾的不文明行为)"},
+        {"word": "self-restraint", "meaning": "自我克制与自律", "collocation": "exercise conscious self-restraint (践行自觉的自我约束)"},
+        {"word": "harmonious society", "meaning": "和谐社会", "collocation": "foster a harmonious and orderly society (营造和谐有序的社会)"}
+      ],
+      "proverbs_and_quotes": [
+        {
+          "quote": "A nation's greatness is measured by how its citizens behave when no one is watching.",
+          "author": "Civic Ethics Principle",
+          "translation": "一个国家的伟大程度，取决于其公民在无人注视时的德行操守。",
+          "usage": "用于论述自觉遵守公德与个人慎独修养"
+        },
+        {
+          "quote": "Small acts of decency, multiplied by millions of people, can transform the whole world.",
+          "author": "Howard Zinn",
+          "translation": "微小的文明善举，经由千百万人身体力行，便能改变整个世界。",
+          "usage": "用于第三段呼吁人人从小事做起维护公德"
+        }
+      ],
+      "argument_points": [
+        {
+          "point_en": "A picturesque natural landscape is fundamentally fragile; a single piece of discarded waste is enough to tarnish the shared dignity of our ecological commons.",
+          "point_cn": "如画的自然景观本质上是脆弱的；一片随手丢弃的废弃物足以玷污公共生态环境的共同尊严。"
+        },
+        {
+          "point_en": "True civilization is manifested not merely in towering skyscrapers, but in the collective commitment of citizens to respect public rules and the natural realm.",
+          "point_cn": "真正的文明不仅体现在鳞次栉比的摩天大楼，更体现在广大公民尊重公共规则与自然生灵的集体坚守。"
+        }
+      ],
+      "sample_sentence_patterns": [
+        "It is disheartening to witness how sublime scenic landscapes are desecrated by thoughtless littering and moral indifference.",
+        "Only when rigorous institutional penalties combine with heightened civic awareness can we root out the scourge of uncivilized misconduct."
+      ]
+    }
+  ]
+}

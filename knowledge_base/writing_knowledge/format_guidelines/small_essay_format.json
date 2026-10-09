@@ -1,0 +1,93 @@
+{
+  "module": "writing_knowledge",
+  "type": "format_guidelines",
+  "subtype": "small_essay",
+  "description": "小作文格式规范，涵盖各类应用文的格式要求",
+  "formats": [
+    {
+      "type": "letter",
+      "name_cn": "书信（通用）",
+      "required_elements": [
+        {"element": "salutation", "name_cn": "称呼", "position": "首行顶格", "examples": ["Dear Professor Smith,", "Dear Sir or Madam,", "Dear Editor,", "Dear Friends,"], "rules": ["称呼后用逗号", "Dear后首字母大写", "不认识收信人用 Dear Sir or Madam"]},
+        {"element": "body", "name_cn": "正文", "position": "称呼下一行缩进或顶格", "rules": ["通常分2-3段", "每段首行缩进4个字母或采用齐头式", "要点明确，逻辑清晰"]},
+        {"element": "closing", "name_cn": "结束语", "position": "正文下一行右侧", "examples": ["Yours sincerely,", "Yours faithfully,", "Yours truly,", "Best regards,"], "rules": ["认识收信人用 Yours sincerely", "不认识收信人用 Yours faithfully", "结束语后用逗号"]},
+        {"element": "signature", "name_cn": "署名", "position": "结束语下一行", "rules": ["统一使用 Li Ming", "不能使用真实姓名", "不需要日期"]}
+      ],
+      "common_format_errors": [
+        "缺少称呼直接写正文",
+        "缺少结束语和署名",
+        "称呼后用句号而非逗号",
+        "署名使用真实姓名",
+        "Yours sincerely 中 sincerely 首字母大写（应小写）",
+        "结束语 Sincerely yours 也可接受但不如 Yours sincerely 规范"
+      ]
+    },
+    {
+      "type": "formal_letter",
+      "name_cn": "正式书信",
+      "applicable_subtypes": ["投诉信", "求职信", "写给不认识的人"],
+      "salutation_examples": ["Dear Sir or Madam,", "Dear Mr./Ms. [Name],", "To Whom It May Concern,"],
+      "closing_examples": ["Yours faithfully,", "Yours sincerely,"],
+      "tone": "正式，避免口语化表达和缩写（如 don't → do not）"
+    },
+    {
+      "type": "informal_letter",
+      "name_cn": "非正式书信（写给朋友/同学）",
+      "applicable_subtypes": ["感谢信（朋友间）", "祝贺信", "建议信（朋友间）"],
+      "salutation_examples": ["Dear [First Name],", "Dear Friends,"],
+      "closing_examples": ["Yours sincerely,", "Best wishes,", "Best regards,"],
+      "tone": "可以较为轻松，但考研作文仍建议偏正式"
+    },
+    {
+      "type": "notice",
+      "name_cn": "通知/告示",
+      "required_elements": [
+        {"element": "title", "name_cn": "标题", "position": "居中", "examples": ["NOTICE", "Notice", "Announcement", "Volunteers Wanted"], "rules": ["标题居中大写或首字母大写", "标题简洁明了"]},
+        {"element": "body", "name_cn": "正文", "position": "标题下方", "rules": ["说明活动目的/背景", "提供时间、地点、活动内容等具体信息", "说明参与方式或注意事项", "通常2-3段"]},
+        {"element": "contact_info", "name_cn": "联系方式", "position": "正文末尾", "rules": ["提供联系方式或报名方式", "可选"]},
+        {"element": "organization", "name_cn": "署名单位", "position": "右下角", "examples": ["The Student Union", "The Postgraduate Association", "The Library"], "rules": ["统一使用指定的组织名称"]},
+        {"element": "date", "name_cn": "日期", "position": "署名下方", "examples": ["October 7, 2026", "Oct. 7, 2026"], "rules": ["格式统一即可"]}
+      ],
+      "common_format_errors": [
+        "缺少标题",
+        "写成了书信格式（用了 Dear...）",
+        "缺少署名单位",
+        "缺少日期"
+      ]
+    },
+    {
+      "type": "memo",
+      "name_cn": "备忘录",
+      "required_elements": [
+        {"element": "header", "name_cn": "头部信息", "format": "To: [recipients]\nFrom: [sender]\nDate: [date]\nSubject: [subject]"},
+        {"element": "body", "name_cn": "正文", "rules": ["简洁明了", "直入主题", "分点阐述"]}
+      ],
+      "note": "备忘录在考研英语二中较少出现，但需了解基本格式"
+    },
+    {
+      "type": "report",
+      "name_cn": "报告",
+      "required_elements": [
+        {"element": "title", "name_cn": "标题", "rules": ["居中", "简洁概括报告主题"]},
+        {"element": "body", "name_cn": "正文", "rules": ["开头说明报告背景和目的", "主体部分分点或分段展开", "结尾给出结论或建议"]},
+        {"element": "signature", "name_cn": "署名", "rules": ["Li Ming"]}
+      ],
+      "note": "报告类题目偶尔出现，格式比书信更灵活"
+    }
+  ],
+  "word_count_guidelines": {
+    "requirement": "100词左右",
+    "recommended_range": "100-130词",
+    "paragraph_distribution": {
+      "paragraph_1": "1-2句，开门见山说明目的（约20-30词）",
+      "paragraph_2": "2-4句，展开主体内容/要点（约50-70词）",
+      "paragraph_3": "1-2句，表达期望/礼貌结尾（约20-30词）"
+    },
+    "tips": [
+      "称呼和落款不计入字数",
+      "不要为了凑字数写无关内容",
+      "略超100词（110-130词）是安全范围",
+      "低于80词会被扣分"
+    ]
+  }
+}

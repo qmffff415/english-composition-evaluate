@@ -1,0 +1,135 @@
+{
+  "module": "common_errors",
+  "type": "logic_errors",
+  "description": "考研英语二作文中常见的逻辑和内容错误",
+  "error_categories": [
+    {
+      "category": "chart_misinterpretation",
+      "name_cn": "图表数据解读错误",
+      "severity": "严重",
+      "errors": [
+        {
+          "error": "趋势描述方向错误",
+          "description": "将上升趋势描述为下降，或反之",
+          "example_wrong": "As can be seen from the chart, the number of students taking part-time jobs decreased from freshmen to seniors.",
+          "example_correct": "As can be seen from the chart, the number of students taking part-time jobs increased steadily from freshmen to seniors.",
+          "impact": "严重影响评分，可能导致降档"
+        },
+        {
+          "error": "数据引用不准确",
+          "description": "引用的具体数字与图表不符",
+          "example": "图表显示30%但文中写成50%",
+          "advice": "如果记不清具体数字，可以使用模糊表述（如 approximately, about, nearly）",
+          "impact": "中等影响，但不如趋势方向错误严重"
+        },
+        {
+          "error": "遗漏关键数据",
+          "description": "忽略了图表中最显著的特征或转折点",
+          "example": "图表中存在明显的转折点但完全未提及",
+          "advice": "至少描述最高点、最低点和最显著的变化",
+          "impact": "影响内容完整性评分"
+        },
+        {
+          "error": "过度解读",
+          "description": "基于图表数据做出没有依据的推断",
+          "example_wrong": "From the chart, we can conclude that all students in China prefer online learning.",
+          "example_correct": "The chart suggests that an increasing proportion of students tend to prefer online learning.",
+          "advice": "使用 suggest, tend to, may 等表示推测的词汇",
+          "impact": "轻微，但反映了分析能力不足"
+        }
+      ]
+    },
+    {
+      "category": "argument_logic",
+      "name_cn": "论证逻辑错误",
+      "severity": "中等",
+      "errors": [
+        {
+          "error": "论点与论据不匹配",
+          "description": "提出的原因/论据无法支撑图表所示的趋势",
+          "example": "图表显示博物馆参观人数增加，原因却分析为'经济衰退导致人们无法旅游'",
+          "advice": "确保每个原因都能逻辑上解释图表中的趋势"
+        },
+        {
+          "error": "因果关系倒置",
+          "description": "将结果当作原因，或将原因当作结果",
+          "example_wrong": "Because people exercise more, they become aware of health.",
+          "example_correct": "Because people have become more health-conscious, they tend to exercise more.",
+          "advice": "仔细思考因果链条的方向"
+        },
+        {
+          "error": "以偏概全",
+          "description": "用个别案例推断普遍结论",
+          "example_wrong": "My friend loves reading, so all young people prefer reading to gaming.",
+          "advice": "使用 generally, most, a majority of 等限定词，避免绝对化表述"
+        },
+        {
+          "error": "结论与前文矛盾",
+          "description": "总结段的观点与描述段或分析段的内容自相矛盾",
+          "example": "前文描述线上购物增长趋势并分析了积极原因，结论却说应该减少网购",
+          "advice": "结论应与前文分析保持逻辑一致"
+        }
+      ]
+    },
+    {
+      "category": "content_errors",
+      "name_cn": "内容要点错误",
+      "severity": "中等-严重",
+      "errors": [
+        {
+          "error": "要点遗漏（小作文）",
+          "description": "题目要求的某个要点完全没有涉及",
+          "example": "题目要求'介绍活动详情并说明参与方式'，但只介绍了活动没有说明参与方式",
+          "impact": "遗漏一个主要要点通常降一个档次",
+          "advice": "审题时标出所有要点，写完后逐一检查是否覆盖"
+        },
+        {
+          "error": "结构缺失（大作文）",
+          "description": "缺少三段式中的某一段（描述/分析/总结）",
+          "example": "只有图表描述和总结，没有原因分析段",
+          "impact": "结构不完整会影响组织性评分",
+          "advice": "确保三段结构完整，即使某段较短也要有"
+        },
+        {
+          "error": "写作文体错误",
+          "description": "题目要求的文体与实际写的文体不一致",
+          "example": "题目要求写通知（Notice），但写成了书信格式（Dear...）",
+          "impact": "可能导致降1-2个档次",
+          "advice": "审题时首先明确文体要求"
+        },
+        {
+          "error": "跑题",
+          "description": "文章内容与题目要求不相关或大部分偏离主题",
+          "example": "题目要求写邀请信邀请参加美食节，但写了一篇关于中国美食文化的议论文",
+          "impact": "严重跑题可能导致得分低于4分",
+          "advice": "紧扣题目要求，每段都要回到主题"
+        }
+      ]
+    },
+    {
+      "category": "coherence_errors",
+      "name_cn": "连贯性错误",
+      "severity": "中等",
+      "errors": [
+        {
+          "error": "缺乏衔接",
+          "description": "句子之间没有逻辑衔接，内容跳跃",
+          "example_wrong": "The number increased. People like exercise. The government should do something.",
+          "example_correct": "The number of exercisers increased significantly. This trend can be attributed to people's growing health awareness. Therefore, the government should continue to promote fitness programs.",
+          "advice": "使用适当的衔接词和代词来建立句间联系"
+        },
+        {
+          "error": "衔接词堆砌",
+          "description": "过度使用衔接词，反而显得不自然",
+          "example_wrong": "Firstly, moreover, in addition, furthermore, what is more, exercise is good.",
+          "advice": "每段使用1-2个衔接词即可，不要堆砌"
+        },
+        {
+          "error": "段落主题不集中",
+          "description": "一段话中包含多个不相关的主题",
+          "advice": "每段围绕一个中心主题展开，不要在分析段突然开始描述数据"
+        }
+      ]
+    }
+  ]
+}

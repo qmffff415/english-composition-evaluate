@@ -1,0 +1,49 @@
+{
+  "module": "writing_knowledge",
+  "category": "thematic_materials",
+  "exam_category": "英语一",
+  "theme": "人与自然、生态文明与宜居城市 (Ecology, Environment & Urban Habitat)",
+  "description": "考研英语一常考母题——人与自然和谐共生、绿色低碳生活、城市口袋公园宜居建设、遏制环境恶化深度论据素材库",
+  "sub_themes": [
+    {
+      "name": "人与自然和谐共生与宜居城市 (Coexistence with Nature & Livable Cities)",
+      "applicable_topics": ["2024年城市公园与宜居生活", "2011年湖泊旅游乱扔垃圾", "生态文明建设", "绿色低碳"],
+      "core_vocabulary": [
+        {"word": "ecological civilization", "meaning": "生态文明", "collocation": "advance the construction of ecological civilization (推进生态文明建设)"},
+        {"word": "harmonious coexistence", "meaning": "和谐共生", "collocation": "strive for harmonious coexistence between humans and nature (追求人与自然和谐共生)"},
+        {"word": "pocket park", "meaning": "口袋公园/微型公园", "collocation": "the proliferation of accessible pocket parks (便民口袋公园的普及)"},
+        {"word": "livability", "meaning": "适居性，宜居度", "collocation": "enhance urban livability and citizen contentment (提高城市宜居度和市民满意度)"},
+        {"word": "green footprint", "meaning": "绿色足迹/低碳 footprint", "collocation": "expand green ecological footprints (扩大绿色生态足迹)"},
+        {"word": "sustainable development", "meaning": "可持续发展", "collocation": "chart a course of sustainable green development (开辟可持续绿色发展道路)"}
+      ],
+      "proverbs_and_quotes": [
+        {
+          "quote": "Lucid waters and lush mountains are invaluable assets.",
+          "author": "Xi Jinping (绿色发展理念：绿水青山就是金山银山)",
+          "translation": "绿水青山就是金山银山。",
+          "usage": "用于中国生态文明建设、人与自然关系论证"
+        },
+        {
+          "quote": "Nature does not need people; people need nature.",
+          "author": "Conservation International Motto",
+          "translation": "大自然不需要人类；人类却离不开大自然。",
+          "usage": "用于论述保护生态环境归根到底是在守护人类自身的生存家园"
+        }
+      ],
+      "argument_points": [
+        {
+          "point_en": "Urban modernization is measured not merely by towering concrete skyscrapers, but by the accessible greenery that allows citizens to breathe fresh air and unwind within walking distance.",
+          "point_cn": "城市现代化的衡量标尺不仅在于林立的钢筋水泥摩天楼，更在于步行可达的葱郁绿意让市民得以呼吸新鲜空气、纾解身心。"
+        },
+        {
+          "point_en": "Sacrificing environmental sustainability for ephemeral economic gain is an act of draining the pond to catch all the fish, leaving irreparable debts for posterity.",
+          "point_cn": "以牺牲环境可持续性为代价换取短暂经济利益无异于竭泽而渔，将给子孙后代留下难以弥补的生态亏欠。"
+        }
+      ],
+      "sample_sentence_patterns": [
+        "The increasing presence of pocket parks and urban green belts vividly mirrors our societal shift from purely pursuing GDP growth to prioritizing human-centric well-being.",
+        "Only when environmental preservation is deeply woven into the fabric of urban planning can modern metropolises flourish as hospitable habitats for both body and soul."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "module": "writing_knowledge",
+  "type": "advanced_replacements",
+  "description": "高级替换词/表达对照表，用于评估词汇丰富度和给出改进建议",
+  "categories": [
+    {
+      "category": "common_verbs",
+      "name_cn": "常见动词的高级替换",
+      "replacements": [
+        {"basic": "think", "advanced": ["maintain", "contend", "hold the view that", "argue", "believe", "reckon", "be convinced that", "deem"]},
+        {"basic": "show", "advanced": ["demonstrate", "reveal", "indicate", "illustrate", "manifest", "display", "reflect"]},
+        {"basic": "use", "advanced": ["utilize", "employ", "make use of", "take advantage of", "adopt", "apply"]},
+        {"basic": "get", "advanced": ["obtain", "acquire", "gain", "attain", "achieve", "secure"]},
+        {"basic": "make", "advanced": ["produce", "generate", "create", "construct", "manufacture", "establish"]},
+        {"basic": "give", "advanced": ["provide", "offer", "present", "deliver", "contribute", "donate"]},
+        {"basic": "help", "advanced": ["assist", "facilitate", "aid", "support", "contribute to", "be conducive to"]},
+        {"basic": "like", "advanced": ["prefer", "be fond of", "be keen on", "have a preference for", "favor"]},
+        {"basic": "want", "advanced": ["desire", "aspire to", "long for", "crave", "seek", "aim to"]},
+        {"basic": "need", "advanced": ["require", "demand", "call for", "necessitate"]},
+        {"basic": "say", "advanced": ["state", "claim", "assert", "declare", "remark", "point out", "note"]},
+        {"basic": "know", "advanced": ["be aware of", "realize", "recognize", "be conscious of", "acknowledge"]},
+        {"basic": "cause", "advanced": ["lead to", "result in", "give rise to", "contribute to", "bring about", "trigger"]},
+        {"basic": "solve", "advanced": ["address", "tackle", "resolve", "cope with", "deal with", "overcome"]}
+      ]
+    },
+    {
+      "category": "common_adjectives",
+      "name_cn": "常见形容词的高级替换",
+      "replacements": [
+        {"basic": "important", "advanced": ["crucial", "vital", "essential", "significant", "critical", "indispensable", "paramount", "of great importance"]},
+        {"basic": "good", "advanced": ["excellent", "outstanding", "remarkable", "beneficial", "favorable", "desirable", "superior", "splendid"]},
+        {"basic": "bad", "advanced": ["adverse", "detrimental", "harmful", "unfavorable", "negative", "undesirable", "inferior"]},
+        {"basic": "big", "advanced": ["enormous", "vast", "massive", "tremendous", "substantial", "considerable", "immense"]},
+        {"basic": "small", "advanced": ["minor", "negligible", "minimal", "trivial", "insignificant", "modest"]},
+        {"basic": "many", "advanced": ["numerous", "a great number of", "a multitude of", "abundant", "plentiful", "countless"]},
+        {"basic": "more and more", "advanced": ["an increasing number of", "a growing number of", "increasingly", "ever-growing"]},
+        {"basic": "obvious", "advanced": ["apparent", "evident", "self-evident", "conspicuous", "noticeable", "manifest"]},
+        {"basic": "different", "advanced": ["diverse", "varied", "distinct", "distinctive", "heterogeneous", "multifaceted"]},
+        {"basic": "popular", "advanced": ["prevalent", "widespread", "fashionable", "in vogue", "well-received", "sought-after"]},
+        {"basic": "enough", "advanced": ["adequate", "sufficient", "ample"]},
+        {"basic": "rich", "advanced": ["affluent", "prosperous", "wealthy", "well-off"]},
+        {"basic": "poor", "advanced": ["impoverished", "destitute", "underprivileged", "disadvantaged"]}
+      ]
+    },
+    {
+      "category": "common_phrases",
+      "name_cn": "常见短语的高级替换",
+      "replacements": [
+        {"basic": "in my opinion", "advanced": ["from my perspective", "as far as I am concerned", "in my view", "personally speaking", "it seems to me that"]},
+        {"basic": "as we all know", "advanced": ["it is universally acknowledged that", "it is well known that", "as is widely recognized"]},
+        {"basic": "there are many reasons", "advanced": ["a variety of factors contribute to", "several factors account for", "multiple reasons lie behind"]},
+        {"basic": "pay attention to", "advanced": ["attach importance to", "place emphasis on", "give priority to", "focus on"]},
+        {"basic": "be good at", "advanced": ["excel in", "be proficient in", "have a talent for", "be adept at"]},
+        {"basic": "have a great influence on", "advanced": ["exert a profound influence on", "have a significant impact on", "play a vital role in"]},
+        {"basic": "take part in", "advanced": ["participate in", "engage in", "be involved in", "take an active part in"]},
+        {"basic": "in fact", "advanced": ["as a matter of fact", "in reality", "in effect", "actually", "indeed"]},
+        {"basic": "for example", "advanced": ["to illustrate", "a case in point is", "take ... as an example", "as exemplified by"]},
+        {"basic": "at last", "advanced": ["eventually", "ultimately", "in the end", "in the long run"]}
+      ]
+    },
+    {
+      "category": "sentence_starters",
+      "name_cn": "句式升级—替代简单句开头",
+      "replacements": [
+        {"basic": "I think that ...", "advanced": ["It is my conviction that ...", "I am firmly convinced that ...", "I hold the view that ..."]},
+        {"basic": "We should ...", "advanced": ["It is imperative that we (should) ...", "It is advisable for us to ...", "We are obliged to ..."]},
+        {"basic": "It is important to ...", "advanced": ["It is of great significance to ...", "It is essential / vital / crucial to ...", "... plays a pivotal role in ..."]},
+        {"basic": "There are many people who ...", "advanced": ["A growing / increasing number of people ...", "A considerable proportion of individuals ...", "People in growing numbers ..."]}
+      ]
+    }
+  ]
+}

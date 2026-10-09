@@ -1,0 +1,96 @@
+{
+  "module": "writing_knowledge",
+  "category": "thematic_materials",
+  "exam_category": "英语一",
+  "theme": "科技与现代社会现象反思 (Science, Technology & Social Reflection)",
+  "description": "考研英语一高频热点母题——智能手机依赖、低头族现象、数字生活双刃剑、信息茧房与人际疏离深度论据素材库",
+  "sub_themes": [
+    {
+      "name": "手机依赖与低头族现象 (Smartphone Addiction & Phubbing)",
+      "applicable_topics": ["2015年手机时代的聚会", "低头族现象", "虚拟世界与现实生活", "社交媒体依赖"],
+      "core_vocabulary": [
+        {"word": "phubbing", "meaning": "低头族现象（因看手机而冷落他人）", "collocation": "the widespread prevalence of phubbing (低头族现象的蔓延)"},
+        {"word": "heads-down generation", "meaning": "低头族一代", "collocation": "be trapped in the heads-down generation (受困于低头族一代)"},
+        {"word": "digital bondage", "meaning": "数字奴役/束缚", "collocation": "liberate oneself from digital bondage (从数字束缚中解脱)"},
+        {"word": "interpersonal alienation", "meaning": "人际疏离与淡漠", "collocation": "trigger profound interpersonal alienation (引发深刻的人际疏离)"},
+        {"word": "virtual illusion", "meaning": "虚拟幻象", "collocation": "be captivated by virtual illusions (被虚拟幻象所吸引)"},
+        {"word": "face-to-face communication", "meaning": "面对面沟通", "collocation": "supplant genuine face-to-face communication (取代真诚的面对面沟通)"},
+        {"word": "digital detox", "meaning": "数字排毒（减少使用电子产品）", "collocation": "embark on a periodic digital detox (进行定期的数字排毒)"}
+      ],
+      "proverbs_and_quotes": [
+        {
+          "quote": "Technology is a useful servant but a dangerous master.",
+          "author": "Christian Lous Lange (克里斯蒂安·朗格，诺贝尔奖得主)",
+          "translation": "科技是有用的仆人，却也是危险的主子。",
+          "usage": "最经典的科技双刃剑金句，用于论述人被科技控制的风险"
+        },
+        {
+          "quote": "We are increasingly connected in the virtual sphere, yet emotionally isolated in the real world.",
+          "author": "Sherry Turkle (雪莉·特克尔《群体性孤独》)",
+          "translation": "我们在虚拟领域联结日益紧密，却在现实世界中陷入情感孤独。",
+          "usage": "用于分析手机普及导致的情感疏离与聚会冷场"
+        },
+        {
+          "quote": "The ultimate promise of technology is to bring people closer, but ironically it often builds invisible walls between hearts.",
+          "author": "Contemporary Commentary",
+          "translation": "科技的终极承诺是拉近彼此距离，讽刺的是，它却常在心灵之间筑起无形的隔阂高墙。",
+          "usage": "用于第二段阐述科技与人际关系的讽刺反差"
+        }
+      ],
+      "argument_points": [
+        {
+          "point_en": "Although digital gadgets bridge geographical gulfs with unprecedented efficiency, excessive immersion in glowing screens severely erodes empathy and authentic emotional intimacy.",
+          "point_cn": "尽管数字设备以前所未有的效率弥合了地理鸿沟，但过度沉溺于发光的屏幕却严重侵蚀了同理心与真实的情感亲密度。"
+        },
+        {
+          "point_en": "When dining tables turn into digital battlegrounds where everyone gazes at luminous rectangles, physical presence degenerates into spiritual absence.",
+          "point_cn": "当聚餐长桌演变为人人都低头凝视发光矩形的数字孤岛，物理上的在场便蜕变为了精神上的缺席。"
+        }
+      ],
+      "sample_sentence_patterns": [
+        "So addicted are some individuals to their glowing screens that they turn a blind eye to the genuine warmth of companions seated right across the table.",
+        "It is high time that we broke away from the invisible shackles of digital addiction and reclaimed the invaluable warmth of authentic human fellowship."
+      ]
+    },
+    {
+      "name": "信息过载与碎片化阅读 (Information Overload & Fragmented Reading)",
+      "applicable_topics": ["2017年图书阅读与专注力", "快餐文化与浅层阅读", "信息茧房", "深度思考危机"],
+      "core_vocabulary": [
+        {"word": "information overload", "meaning": "信息过载", "collocation": "suffer from severe information overload (承受严重的信息过载)"},
+        {"word": "fragmented reading", "meaning": "碎片化阅读", "collocation": "the proliferation of fragmented reading (碎片化阅读的泛滥)"},
+        {"word": "echo chamber", "meaning": "回音室效应/信息茧房", "collocation": "be confined within an algorithmic echo chamber (受困于算法信息茧房)"},
+        {"word": "in-depth contemplation", "meaning": "深度沉思", "collocation": "substitute fleeting impulses for in-depth contemplation (以短暂冲动替代深度沉思)"},
+        {"word": "attention span", "meaning": "注意力持续时间", "collocation": "diminish our sustained attention span (缩短我们的专注时间)"},
+        {"word": "superficial consumption", "meaning": "浅层消费/浅尝辄止", "collocation": "degenerate into superficial consumption (沦为浅层消费)"}
+      ],
+      "proverbs_and_quotes": [
+        {
+          "quote": "A wealth of information creates a poverty of attention.",
+          "author": "Herbert A. Simon (赫伯特·西蒙，诺贝尔经济学奖得主)",
+          "translation": "信息的繁复丰富导致了注意力的极度匮乏。",
+          "usage": "用于分析信息爆炸对深度阅读和思考能力的破坏"
+        },
+        {
+          "quote": "Reading furnishes the mind only with materials of knowledge; it is thinking that makes what we read ours.",
+          "author": "John Locke (约翰·洛克)",
+          "translation": "阅读仅为心智提供知识的原料；唯有沉思方能将所读化为己有。",
+          "usage": "用于批判走马观花式的浅层浏览，倡导深度精读"
+        }
+      ],
+      "argument_points": [
+        {
+          "point_en": "Skimming superficial snippets across digital platforms delivers immediate sensory dopamine, but it fatally undermines the cognitive capacity for structured and critical reasoning.",
+          "point_cn": "在数字平台上浏览碎片化信息固然带来即时的感官多巴胺，却致命地损害了进行结构化与批判性思考的认知能力。"
+        },
+        {
+          "point_en": "Quantity of accumulated information does not automatically translate into wisdom; true enlightenment demands focused reading and reflective digestion.",
+          "point_cn": "信息囤积的数量并不会自然转化为智慧；真正的通达离不开专注的研读与反思沉淀。"
+        }
+      ],
+      "sample_sentence_patterns": [
+        "Rather than being dazzled by the torrential deluge of online trivia, modern readers ought to anchor themselves in classic literature and quiet contemplation.",
+        "What truly enriches the human intellect is not the breadth of superficial skimming, but the depth of rigorous reflection."
+      ]
+    }
+  ]
+}

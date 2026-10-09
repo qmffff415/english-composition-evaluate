@@ -1,0 +1,181 @@
+{
+  "module": "writing_knowledge",
+  "type": "advanced_sentence_structures",
+  "description": "高级句型结构汇总，用于评估句式复杂度和给出改进建议",
+  "structures": [
+    {
+      "name": "倒装句",
+      "name_en": "Inversion",
+      "patterns": [
+        {
+          "pattern": "Not only ... but also ... (部分倒装)",
+          "template": "Not only does/did + 主语 + 动词, but (主语) also + 动词",
+          "example": "Not only does this trend reflect social progress, but it also indicates people's changing attitudes.",
+          "common_errors": ["忘记倒装——Not only this trend reflects...", "but also 后面也倒装（错误）"]
+        },
+        {
+          "pattern": "Only + 状语 + 部分倒装",
+          "template": "Only by/when/through ... can/will/do + 主语 + 动词",
+          "example": "Only by taking effective measures can we solve this problem.",
+          "common_errors": ["Only后面的从句倒装了（应该主句倒装）"]
+        },
+        {
+          "pattern": "Neither/Nor + 部分倒装",
+          "template": "Neither/Nor + 助动词 + 主语",
+          "example": "The urban population increased, and nor did the trend show any sign of slowing down.",
+          "common_errors": []
+        },
+        {
+          "pattern": "So/Such ... that ...",
+          "template": "So + adj./adv. + 助动词 + 主语 + that ...",
+          "example": "So rapid was the growth that the number doubled in just five years.",
+          "common_errors": ["so后面接名词（应用such）"]
+        }
+      ]
+    },
+    {
+      "name": "强调句",
+      "name_en": "Cleft Sentence / Emphatic Structure",
+      "patterns": [
+        {
+          "pattern": "It is/was ... that/who ...",
+          "template": "It is/was + 被强调部分 + that/who + 其余部分",
+          "example": "It is the convenience of online shopping that accounts for its popularity.",
+          "common_errors": ["强调人时用that而非who（两者皆可但who更好）", "忘记that"]
+        },
+        {
+          "pattern": "What ... is/was ...",
+          "template": "What + 主语 + 动词 + is/was + 名词/从句",
+          "example": "What the chart reveals is a significant shift in people's lifestyle choices.",
+          "common_errors": ["What从句做主语时谓语单复数错误"]
+        },
+        {
+          "pattern": "do/does/did + 动词原形（强调谓语）",
+          "template": "主语 + do/does/did + 动词原形",
+          "example": "The data does indicate a growing awareness of health among young people.",
+          "common_errors": ["does后面接了动词三单形式"]
+        }
+      ]
+    },
+    {
+      "name": "虚拟语气",
+      "name_en": "Subjunctive Mood",
+      "patterns": [
+        {
+          "pattern": "If + 过去式, 主语 + would/could + 动词原形",
+          "template": "与现在事实相反的假设",
+          "example": "If more attention were paid to environmental protection, the situation would be much better.",
+          "common_errors": ["be动词在虚拟语气中统一用were", "would后面接了过去式"]
+        },
+        {
+          "pattern": "建议类动词 + that + (should) + 动词原形",
+          "template": "suggest/recommend/advise/propose + that + sb. + (should) + do",
+          "example": "I suggest that the government (should) invest more in education.",
+          "common_errors": ["that从句中用了动词三单形式"]
+        },
+        {
+          "pattern": "It is essential/vital/necessary that + (should) + 动词原形",
+          "template": "It is + adj. + that + sb. + (should) + do",
+          "example": "It is essential that immediate measures (should) be taken to address this issue.",
+          "common_errors": ["从句中用了普通谓语形式"]
+        }
+      ]
+    },
+    {
+      "name": "非限制性定语从句",
+      "name_en": "Non-restrictive Relative Clause",
+      "patterns": [
+        {
+          "pattern": "..., which + 动词",
+          "template": "主句, which + 对前面整个句子或先行词的补充说明",
+          "example": "The number of visitors reached 1 million in 2020, which represented a 50% increase.",
+          "common_errors": ["非限制性定语从句中用了that（应用which）", "缺少逗号"]
+        },
+        {
+          "pattern": "..., where/when/whereby ...",
+          "template": "先行词（地点/时间）, where/when + 从句",
+          "example": "The year 2015 saw a major turning point, when the percentage exceeded 50% for the first time.",
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "name": "分词作状语",
+      "name_en": "Participle as Adverbial",
+      "patterns": [
+        {
+          "pattern": "现在分词作状语（表伴随/原因/结果）",
+          "template": "Doing ..., 主语 + 谓语 / 主语 + 谓语, doing ...",
+          "example": "Considering the rapid development of technology, it is not surprising that online education has become popular.",
+          "common_errors": ["悬垂分词——分词的逻辑主语与句子主语不一致"]
+        },
+        {
+          "pattern": "过去分词作状语",
+          "template": "Done/Given/Compared ..., 主语 + 谓语",
+          "example": "Compared with the data in 2010, the figure in 2020 showed a remarkable increase.",
+          "common_errors": ["过去分词和现在分词用混"]
+        }
+      ]
+    },
+    {
+      "name": "同位语从句",
+      "name_en": "Appositive Clause",
+      "patterns": [
+        {
+          "pattern": "名词 + that + 从句",
+          "template": "The fact/idea/notion/belief + that + 陈述句",
+          "example": "The fact that more people are choosing to exercise regularly is encouraging.",
+          "common_errors": ["同位语从句和定语从句混淆", "that不能省略"]
+        }
+      ]
+    },
+    {
+      "name": "with复合结构",
+      "name_en": "With + Noun + Complement",
+      "patterns": [
+        {
+          "pattern": "with + 名词 + doing/done/adj./介词短语",
+          "template": "With + n. + 补足语, 主句",
+          "example": "With the economy developing rapidly, people's living standards have improved significantly.",
+          "common_errors": ["with后面接了完整句子", "补足语形式选择错误"]
+        }
+      ]
+    },
+    {
+      "name": "It做形式主语/宾语",
+      "name_en": "Anticipatory 'it'",
+      "patterns": [
+        {
+          "pattern": "It is + adj. + to do / that ...",
+          "template": "It is evident/obvious/clear/apparent that ...",
+          "example": "It is evident from the chart that there has been a steady increase in online shopping.",
+          "common_errors": []
+        },
+        {
+          "pattern": "It is widely/generally believed/acknowledged that ...",
+          "template": "It is + adv. + p.p. + that ...",
+          "example": "It is widely acknowledged that education plays a crucial role in social development.",
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "name": "There be 句型变体",
+      "name_en": "There be Variations",
+      "patterns": [
+        {
+          "pattern": "There is no denying that ...",
+          "template": "毫无疑问/不可否认...",
+          "example": "There is no denying that technology has profoundly changed the way we live.",
+          "common_errors": ["denying后面没接that从句"]
+        },
+        {
+          "pattern": "There exists / remains ...",
+          "template": "存在...",
+          "example": "There remain several issues that need to be addressed.",
+          "common_errors": ["remain后面主谓不一致"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "module": "writing_knowledge",
+  "exam_category": "英语一",
+  "type": "format_guidelines",
+  "subtype": "notice_and_memo",
+  "description": "考研英语一应用文高分特色格式规范指南（告示Notice、备忘录Memo、倡议书Proposal）",
+  "notice_guideline": {
+    "name": "告示/通告（Notice / Announcement）",
+    "visual_layout": [
+      "1. 标题（Title）：置中书写，建议全部大写 NOTICE 或 ANNOUNCEMENT，不加引号，无句号。",
+      "2. 日期（Date）：标题下方右对齐，格式如 October 9, 2026 或 9th October, 2026。",
+      "3. 称呼（Salutation，可选）：如有明确对象写 Dear International Students, / Dear Fellow Students,；无明确对象可直接起笔正文。",
+      "4. 正文（Body）：通常分为2-3段，首行缩进4个英文字符，无空行。交代宗旨、时间、地点、要求与联系方式。",
+      "5. 署名（Signature）：正文右下角落款发布组织名称（如 The Students' Union, The Volunteer Association），无句号。"
+    ],
+    "frequent_errors": [
+      "标题遗漏或写成小写",
+      "署名写了考生个人真实姓名（严重违规）",
+      "遗漏核心活动时间或联系方式"
+    ]
+  },
+  "memo_guideline": {
+    "name": "备忘录（Memo / Memorandum）",
+    "visual_layout": [
+      "1. 表头区（Heading Block）：左侧顶格或加粗居中，包含四要素：",
+      "   TO: [收件人职务或群体，如 All Department Managers]",
+      "   FROM: [发件人，如 Project Coordinator / Li Ming]",
+      "   DATE: [日期，如 October 9, 2026]",
+      "   SUBJECT: [核心事由主题，如 Schedule Adjustments for Campus Forum]",
+      "2. 分割线或空行后进入正文：直接陈述原因、决策通知与具体要求，语言言简意赅，客观正式。",
+      "3. 结尾：通常无需落款 Yours sincerely，可在正文最后一句话提出明确响应期望。"
+    ],
+    "frequent_errors": [
+      "套用常规书信称呼 Dear ...",
+      "遗漏 SUBJECT 导致格式扣分"
+    ]
+  },
+  "proposal_guideline": {
+    "name": "倡议书（Proposal）",
+    "visual_layout": [
+      "1. 标题：可写 A PROPOSAL ON [倡议主题] 或直接居中 PROPOSAL",
+      "2. 称呼：面向师生公众，如 Dear Fellow Students, / Dear Campus Residents,",
+      "3. 正文：第一段指出紧迫背景；第二段罗列2-3项倡议举措；第三段热切号召行动。",
+      "4. 署名：右下角落款发起机构或群体（The Students' Union / Youth League Committee）。"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "module": "writing_knowledge",
+  "type": "letter_expressions",
+  "description": "书信类小作文常用表达汇总，按信函类型和功能分类",
+  "categories": [
+    {
+      "category": "opening_purpose",
+      "name_cn": "开头—说明写信目的",
+      "expressions": [
+        {"expression": "I am writing to express my sincere gratitude for ...", "use_case": "感谢信"},
+        {"expression": "I am writing to invite you to ...", "use_case": "邀请信"},
+        {"expression": "I am writing to make some suggestions about ...", "use_case": "建议信"},
+        {"expression": "I am writing to recommend ... to you.", "use_case": "推荐信"},
+        {"expression": "I am writing to complain about ...", "use_case": "投诉信"},
+        {"expression": "I am writing to apologize for ...", "use_case": "道歉信"},
+        {"expression": "I am writing to congratulate you on ...", "use_case": "祝贺信"},
+        {"expression": "I am writing to apply for the position of ...", "use_case": "求职信"},
+        {"expression": "I am writing to inquire about ...", "use_case": "询问信"},
+        {"expression": "I am writing in response to your advertisement/letter ...", "use_case": "回复信"},
+        {"expression": "I am writing to inform you that ...", "use_case": "通知/告知"},
+        {"expression": "The purpose of this letter is to ...", "use_case": "通用"},
+        {"expression": "I would like to draw your attention to ...", "use_case": "投诉信/建议信"}
+      ]
+    },
+    {
+      "category": "suggestion_expressions",
+      "name_cn": "建议类表达",
+      "expressions": [
+        "I would like to suggest / recommend that ...",
+        "My suggestion is that ...",
+        "It would be advisable / beneficial to ...",
+        "I strongly recommend that you (should) ...",
+        "You might consider / want to consider ...",
+        "If I were you, I would ...",
+        "It is highly recommended that ...",
+        "Why not try ...? / How about ...?",
+        "I think it would be a good idea to ...",
+        "One possible solution might be to ..."
+      ]
+    },
+    {
+      "category": "gratitude_expressions",
+      "name_cn": "感谢类表达",
+      "expressions": [
+        "I am extremely grateful to you for ...",
+        "I would like to express my heartfelt gratitude for ...",
+        "Thank you so much for your kindness / help / hospitality.",
+        "I truly appreciate your ...",
+        "Words cannot express how thankful I am for ...",
+        "I am deeply indebted to you for ...",
+        "It was very kind / thoughtful of you to ...",
+        "Your generous help means a great deal to me."
+      ]
+    },
+    {
+      "category": "apology_expressions",
+      "name_cn": "道歉类表达",
+      "expressions": [
+        "I am terribly sorry for / about ...",
+        "I sincerely apologize for the inconvenience caused.",
+        "I owe you an apology for ...",
+        "Please accept my sincere / heartfelt apology.",
+        "I hope you can forgive me for ...",
+        "I regret to inform you that I am unable to ...",
+        "I assure you that this will not happen again.",
+        "To make up for it, I would like to ..."
+      ]
+    },
+    {
+      "category": "invitation_expressions",
+      "name_cn": "邀请类表达",
+      "expressions": [
+        "I am writing to invite you to ...",
+        "It would be a great honor if you could ...",
+        "We would be delighted if you could join us for ...",
+        "I wonder if you would like to ...",
+        "You are cordially invited to ...",
+        "The event will be held at [location] on [date].",
+        "It would mean a lot to us if you could attend.",
+        "We sincerely hope that you can make it."
+      ]
+    },
+    {
+      "category": "congratulation_expressions",
+      "name_cn": "祝贺类表达",
+      "expressions": [
+        "Congratulations on your ...",
+        "I am delighted / thrilled to hear that ...",
+        "Please accept my warmest congratulations on ...",
+        "I am so proud of your achievement.",
+        "You truly deserve this honor / success.",
+        "I knew you could do it!",
+        "Your hard work and dedication have paid off."
+      ]
+    },
+    {
+      "category": "complaint_expressions",
+      "name_cn": "投诉类表达",
+      "expressions": [
+        "I am writing to express my dissatisfaction with ...",
+        "I regret to say that the product / service was far from satisfactory.",
+        "To my great disappointment, ...",
+        "The problem is that ...",
+        "I demand a full refund / replacement / explanation.",
+        "I trust that you will take this matter seriously.",
+        "I hope you will look into this matter and give me a satisfactory reply.",
+        "Unless the issue is resolved promptly, I will have to take further action."
+      ]
+    },
+    {
+      "category": "closing_expressions",
+      "name_cn": "结尾常用表达",
+      "expressions": [
+        {"expression": "I look forward to your reply / hearing from you.", "use_case": "通用"},
+        {"expression": "I would appreciate it if you could reply at your earliest convenience.", "use_case": "通用正式"},
+        {"expression": "Thank you for your time and consideration.", "use_case": "通用"},
+        {"expression": "Please do not hesitate to contact me if you need any further information.", "use_case": "通用"},
+        {"expression": "I hope my suggestions will be of help to you.", "use_case": "建议信"},
+        {"expression": "I sincerely hope that you will accept my invitation.", "use_case": "邀请信"},
+        {"expression": "Once again, I would like to express my sincere gratitude.", "use_case": "感谢信"},
+        {"expression": "Again, I am truly sorry for any inconvenience caused.", "use_case": "道歉信"},
+        {"expression": "I wish you all the best in your future endeavors.", "use_case": "祝贺信/通用"},
+        {"expression": "I am looking forward to your favorable reply.", "use_case": "通用正式"}
+      ]
+    },
+    {
+      "category": "notice_format",
+      "name_cn": "通知格式表达",
+      "expressions": [
+        "Notice / Announcement（标题居中）",
+        "In order to / To ... , [organization] is going to ...",
+        "All students / faculty members are welcome to ...",
+        "The activity / event will take place at [location] on [date].",
+        "Those who are interested are requested to sign up at / before ...",
+        "For more details, please contact ... at ...",
+        "Please be informed that ...",
+        "Your participation is highly expected / appreciated.",
+        "落款格式：The Student Union / [Organization Name] + 日期"
+      ]
+    }
+  ]
+}

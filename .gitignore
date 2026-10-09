@@ -1,0 +1,106 @@
+# ==========================================
+# 1. 敏感机密与环境配置（绝不能上传）
+# ==========================================
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.pfx
+
+# ==========================================
+# 2. 数据库与用户业务数据（避免泄漏与冲突）
+# ==========================================
+*.db
+*.sqlite
+*.sqlite3
+data/*.db
+# SQLite WAL 模式产生的副作用文件（.db 被忽略但这些后缀会漏网）
+*.db-journal
+*.db-wal
+*.db-shm
+evaluation_reports/
+!evaluation_reports/.gitkeep
+
+# ==========================================
+# 3. Python 编译缓存与虚拟环境
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+*.zip
+*.tar.gz
+
+# ==========================================
+# 4. 前端依赖与打包产物
+# ==========================================
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+# 前端自身的环境变量（Vite 约定，可能含 Key）
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# ==========================================
+# 5. 日志与调试文件
+# ==========================================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==========================================
+# 6. IDE与系统临时文件
+# ==========================================
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# 7. AI 辅助开发工具本地状态 (按需排除)
+# ==========================================
+.agents/
+skills-lock.json
+# Claude Code 本地状态（保留可共享的 settings.json）
+.claude/settings.local.json
+.claude/projects/
+.claude/todos/

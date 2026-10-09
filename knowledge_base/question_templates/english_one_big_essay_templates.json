@@ -1,0 +1,96 @@
+{
+  "module": "question_templates",
+  "exam_category": "英语一",
+  "type": "big_essay_templates",
+  "description": "考研英语一大作文（图画/漫画作文）高分写作框架模板（四大经典命题主题）",
+  "templates": [
+    {
+      "theme_type": "life_philosophy",
+      "name_cn": "人生哲理与个人品质类（坚持、乐观、自律、习惯、独立）",
+      "applicable_topics": ["爬山坚持（2019）", "倒掉的牛奶与乐观（2012）", "做作业拖延与习惯（2020）", "终身学习与阅读（2017/2022）"],
+      "framework": {
+        "paragraph_1": {
+          "purpose": "图画描述段（抓住人物动作神态与文字说明）",
+          "template": "As is vividly and subtly portrayed in the cartoon, [图画主体场景及人物行为]. Specifically, [描述关键反差或细节人物1的状态], whereas [对比人物2的状态或行为]. Below the picture is a thought-provoking caption that reads: \"[图画下方文字说明]\". The cartoon conveys far more than what is on the surface.",
+          "example": "As is vividly and subtly portrayed in the cartoon, two mountaineers are resting on their journey up a rugged slope. Specifically, one exhausted climber sits down on the ground, lamenting that he cannot go any further, whereas his companion takes a sip of water with determination, encouraging them to keep pressing forward. Below the picture is a thought-provoking caption that reads: \"Halfway Up the Mountain\". The cartoon conveys far more than what is on the surface."
+        },
+        "paragraph_2": {
+          "purpose": "寓意阐释段（揭示哲理本质 + 多维深入归因论证）",
+          "template": "The metaphorical implication of the drawing is both profound and inspiring: it is [核心品质词，如perseverance / an optimistic mindset] that constitutes the cornerstone of success and self-fulfillment. To begin with, when confronting bottlenecks and adversity in our daily journey, those armed with [核心品质] tend to view hardships not as insurmountable barriers, but as indispensable stepping stones. Furthermore, historical evidence and contemporary reality abundantly testify that great accomplishments rarely materialize overnight; rather, they are the fruits of persistent endeavor and unwavering conviction.",
+          "example": "The metaphorical implication of the drawing is both profound and inspiring: it is perseverance and an indomitable will that constitute the cornerstone of personal growth and self-fulfillment. To begin with, when confronting inevitable bottlenecks in life or academics, those armed with persistence tend to view setbacks not as dead ends, but as indispensable stepping stones toward higher horizons. Furthermore, historical evidence and contemporary reality abundantly testify that monumental breakthroughs rarely materialize overnight; rather, they stem from unflagging dedication despite transient disillusionment."
+        },
+        "paragraph_3": {
+          "purpose": "评论与建议段（结合青年修养提出行动指南 + 倒装升华）",
+          "template": "From what has been deliberated above, it is imperative for us, especially contemporary college students, to cultivate [核心品质]. On the individual level, we ought to foster psychological resilience and overcome the tendency of premature surrender. Simultaneously, universities and educators should create supportive environments that nurture perseverance and tenacity. Only by arming ourselves with such a spirit can we surmount looming hurdles and scale the pinnacle of life.",
+          "example": "From what has been deliberated above, it is imperative for us, especially contemporary college students, to cultivate unwavering determination in everyday undertakings. On the individual level, we ought to foster inner fortitude and discard the detrimental habit of giving up halfway. Simultaneously, society and universities should encourage a growth-oriented climate that values grit over momentary gains. Only by doing so can we triumph over turbulent waters and scale the pinnacle of our aspirations."
+        }
+      }
+    },
+    {
+      "theme_type": "social_phenomena",
+      "name_cn": "社会热点与科技生活类（低头族、手机依赖、网络社交疏离、科技双刃剑）",
+      "applicable_topics": ["手机时代的聚会（2015）", "旅途之余与手机（2011/2013）", "信息时代阅读变迁（2018）", "人工智能与生活（2025）"],
+      "framework": {
+        "paragraph_1": {
+          "purpose": "图画生动描写（讽刺性画面、反差细节与时代写照）",
+          "template": "The cartoon above illustrates a thought-provoking scenario that is exceedingly prevalent in contemporary life. As can be observed, [描述聚会/场景核心细节], each of them [核心动作，如burying their heads into glowing smartphone screens], entirely oblivious to [被忽视的温情或人际互动]. The striking irony in the drawing serves as a mirror reflecting modern social reality.",
+          "example": "The cartoon above illustrates a thought-provoking scenario that is exceedingly prevalent in contemporary life. As can be observed, four friends are sitting around a lavish dinner table, but instead of engaging in lively face-to-face conversation, each of them is burying their head in a glowing smartphone screen, entirely oblivious to the warm companionship around them. The striking contrast between physical proximity and emotional alienation serves as a sobering mirror reflecting modern social reality."
+        },
+        "paragraph_2": {
+          "purpose": "深层社会归因（便利性依赖 + 精神浮躁 + 人际退化）",
+          "template": "The primary objective of the drawer is not merely to satirize this bizarre scene, but to sound an alarm regarding [核心现象，如digital addiction / interpersonal alienation]. A multitude of underlying factors account for this dilemma. First and foremost, the exponential advancement of digital applications and social algorithms has created a dopamine trap, making individuals increasingly susceptible to virtual distractions. In addition, the frantic pace of modern living exerts immense psychological strain, prompting many to treat smartphones as a safe sanctuary for escapism, which ironically erodes genuine emotional bonds.",
+          "example": "The primary objective of the artist is not merely to satirize this scene, but to sound an alarm regarding the growing interpersonal alienation triggered by digital addiction. A multitude of underlying drivers account for this phenomenon. First and foremost, the rapid evolution of mobile technology and algorithmic feeds has created an immersive virtual ecosystem, tempting users into compulsive screen consumption. Furthermore, the high-pressure lifestyle in modern society often leaves individuals emotionally depleted, prompting them to seek instant gratification in virtual cyberspace at the expense of authentic human intimacy."
+        },
+        "paragraph_3": {
+          "purpose": "综合对策与理性呼吁（数字节制、科技向善、重拾温度）",
+          "template": "To reverse this worrisome tendency, concerted efforts must be exerted from all sectors of society. For one thing, individuals should exercise digital detox, deliberately unplugging from electronic screens during family gatherings and face-to-face interactions. For another, the media and educational institutions should advocate a healthy technological ethos, reminding the public that technology should serve as a bridge rather than a barrier. It is high time that we embraced real-world connections with sincerity and warmth.",
+          "example": "To reverse this worrisome trend, concerted endeavors must be mobilized across society. For one thing, individuals should practice digital discipline and consciously put aside their handsets during interpersonal gatherings. For another, media platforms and communities ought to promote digital well-being campaigns, awakening public awareness to the priceless value of real-life fellowship. It is high time that we mastered technology rather than being enslaved by it."
+        }
+      }
+    },
+    {
+      "theme_type": "cultural_heritage",
+      "name_cn": "传统文化传承与道德风尚类（文化交流融合、孝道关爱、非遗传承、榜样力量）",
+      "applicable_topics": ["文化火锅（2010）", "相携/孝道（2014）", "家庭教育榜样（2016）", "传统节日龙舟赛（2023）"],
+      "framework": {
+        "paragraph_1": {
+          "purpose": "描述象征性意象与文化意境",
+          "template": "A close examination of the drawing reveals a captivating and symbolic picture. Centered in the illustration is [核心文化意象，如a boiling hotpot labeled 'Culture' / an aged parent supported by filial children], where [描述融合的元素或温情动作]. The caption succinctly crystallizes the essence with the words: \"[文字说明]\". This imagery immediately commands the viewers' contemplation.",
+          "example": "A close examination of the drawing reveals a captivating and symbolic illustration. Centered in the picture is a steamy traditional hotpot labeled 'Culture', in which a myriad of cultural ingredients—ranging from Shakespeare and Einstein to Confucianism and Chinese Kung Fu—are blended harmoniously. The caption succinctly crystallizes the essence with the phrase: 'Cultural Hotpot: Delicious and Nutritious'. This imagery immediately sparks profound contemplation on global cultural dynamics."
+        },
+        "paragraph_2": {
+          "purpose": "阐释文化/道德价值与时代意义",
+          "template": "What the painter intends to highlight is the supreme significance of [核心主题，如cultural integration and mutual learning / filial piety and moral integrity]. In the era of globalization, [展开点1：包容借鉴/优秀传统对民族灵魂的重要性]. Furthermore, [展开点2：优良美德对构建和谐社会、连接人心的不可或缺性]. An inclusive and morally grounded mindset not only revitalizes national heritage but also enriches human civilization as a whole.",
+          "example": "What the painter intends to underscore is the paramount significance of cross-cultural integration and mutual learning. In an era marked by accelerated globalization, no civilization can flourish in self-imposed isolation; cultural diversity serves as the very lifeblood that propels human progress forward. By assimilating the cream of foreign cultures while cherishing indigenous wisdom, a nation can invigorate its cultural vitality and foster holistic intellectual enrichment."
+        },
+        "paragraph_3": {
+          "purpose": "宏观倡议与青年使命（文化自信、继承创新、知行合一）",
+          "template": "In contemplation of the profound message conveyed, we ought to shoulder our responsibility with pride and prudence. We must maintain an open-minded posture toward foreign cultures while holding firm confidence in our own traditional roots. As college students, it is our historical duty to champion cultural dialogues and pass down virtuous moral codes to future generations. Only in this manner can our civilization preserve its timeless brilliance in the global arena.",
+          "example": "In contemplation of this inspiring message, we ought to approach cultural diversity with an open mind and steadfast cultural confidence. As young intellectuals in the new era, we are entrusted with the historic mission of bridging distinct civilizations and creatively transforming traditional wisdom. Only by doing so can we build a shared community of shared future and ensure that the beacon of human culture burns brighter than ever."
+        }
+      }
+    },
+    {
+      "theme_type": "ecological_urban",
+      "name_cn": "生态文明与城市宜居发展类（人与自然、城市公园、绿色生活）",
+      "applicable_topics": ["旅途之余抛弃垃圾（2011）", "城市公园与生活品质提升（2024）"],
+      "framework": {
+        "paragraph_1": {
+          "purpose": "图画与生态反差/城市新貌描摹",
+          "template": "As is vividly delineated in the picture, [描述人与环境的互动场景或对比画面]. What catches our immediate attention is [焦点要素，如the blossoming greenery / the environmental deterioration]. The picture vividly illustrates how environmental circumstances intimately intersect with everyday well-being.",
+          "example": "As is vividly delineated in the picture, a smiling resident is strolling leisurely in a newly built urban pocket park, delighting in the lush greenery and convenient public amenities right outside his doorstep. Beside the drawing, data demonstrates a substantial surge in civic parks over recent years. The picture vividly mirrors how ecological urban planning is revitalizing residents' quality of life."
+        },
+        "paragraph_2": {
+          "purpose": "揭示绿色发展理念与民生幸福逻辑",
+          "template": "The core intention of this illustration is to emphasize the inestimable value of [生态建设/绿色宜居]. On the one hand, a sound ecological environment is the most inclusive public welfare that elevates citizens' physical and mental wellness. On the other hand, prioritizing sustainable governance signifies an advanced stage of societal development, where people transition from merely seeking material abundance to pursuing ecological harmony.",
+          "example": "The core message conveyed is that green urban spaces constitute an essential pillar of modern civic well-being. On the one hand, accessible public parks provide vital urban breathing spaces, lowering mental stress and encouraging outdoor fitness among citizens. On the other hand, the continuous expansion of green infrastructure mirrors a fundamental upgrade in urban governance philosophies, shifting from GDP-centered expansion toward human-centered, sustainable prosperity."
+        },
+        "paragraph_3": {
+          "purpose": "号召持续推进与全民共建",
+          "template": "To solidify these remarkable accomplishments, both administrative commitment and civic participation are essential. Urban authorities should continue expanding green recreational infrastructure, ensuring equitable access for all citizens. Simultaneously, every individual should foster eco-friendly habits and actively protect our shared environment. We are convinced that a greener city will inevitably usher in a brighter tomorrow.",
+          "example": "To sustain this encouraging momentum, concerted efforts from municipal authorities and the general public remain indispensable. Municipalities should persist in refining ecological urban design and maintaining public facilities. Meanwhile, ordinary citizens should actively cherish green assets and practice low-carbon living. Together, we can construct an eco-friendly homeland where humanity and nature co-exist in sublime harmony."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "module": "question_templates",
+  "type": "big_essay_templates",
+  "description": "大作文（图表作文）各类型写作框架模板",
+  "templates": [
+    {
+      "chart_type": "bar_chart",
+      "name_cn": "柱状图作文模板",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "描述柱状图数据",
+          "template": "As is clearly depicted in the bar chart, [图表主题]. Specifically, [数据描述1]. Meanwhile, [数据描述2]. The most striking feature is that [最显著特征].",
+          "example": "As is clearly depicted in the bar chart, the percentage of college students taking part-time jobs varies significantly across different grades. Specifically, only 10% of freshmen engage in part-time work, while the figure rises to 30% for sophomores, 50% for juniors, and reaches a peak of 65% for seniors. The most striking feature is the steady upward trend from freshmen to seniors."
+        },
+        "paragraph_2": {
+          "purpose": "分析原因",
+          "template": "Several factors may account for this phenomenon/trend. First and foremost, [原因1及展开]. In addition, [原因2及展开]. Last but not least, [原因3及展开].",
+          "example": "Several factors may account for this upward trend. First and foremost, as students progress in their studies, they develop a stronger sense of financial independence and wish to ease their family's financial burden. In addition, senior students have more flexible schedules and fewer courses, which allows them to allocate time to part-time jobs. Last but not least, many students seek practical experience to enhance their competitiveness in the job market."
+        },
+        "paragraph_3": {
+          "purpose": "总结/建议",
+          "template": "In conclusion, [总结观点]. It is advisable that [建议]. [展望/号召].",
+          "example": "In conclusion, the increasing participation in part-time jobs reflects students' growing awareness of career preparation. It is advisable that students strike a balance between work and study to ensure their academic performance is not compromised. Only in this way can they benefit from both their education and practical experience."
+        }
+      }
+    },
+    {
+      "chart_type": "pie_chart",
+      "name_cn": "饼图作文模板",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "描述饼图各部分比例",
+          "template": "The pie chart above illustrates [图表主题]. As can be seen, [最大比例项] accounts for the largest proportion at [百分比], followed by [第二项] at [百分比]. [其他项] make up [百分比] and [百分比] respectively. [最小项] constitutes the smallest share at only [百分比].",
+          "example": "The pie chart above illustrates how consumers choose restaurants. As can be seen, taste accounts for the largest proportion at 36.3%, followed by service quality at 26.8%. Price and environment make up 20.5% and 12.6% respectively, while other factors constitute the smallest share at only 3.8%."
+        },
+        "paragraph_2": {
+          "purpose": "分析各部分比例背后的原因",
+          "template": "The data reveal some interesting insights. The dominance of [最大项] can be attributed to [原因]. Meanwhile, the relatively high proportion of [第二项] suggests that [分析]. It is also noteworthy that [对其他项的分析].",
+          "example": "The data reveal some interesting insights. The dominance of taste can be attributed to the fact that food quality is the fundamental factor driving dining choices. Meanwhile, the relatively high proportion of service quality suggests that consumers are increasingly valuing their overall dining experience beyond just the food itself. It is also noteworthy that price is no longer the top concern, indicating a shift in consumer values as living standards improve."
+        },
+        "paragraph_3": {
+          "purpose": "总结/建议",
+          "template": "To sum up, [总结]. Based on the above analysis, [建议或展望].",
+          "example": "To sum up, the pie chart reflects the diversified factors that influence consumers' restaurant choices, with taste and service being the most valued. Based on the above analysis, restaurant operators should prioritize food quality and service to attract and retain customers."
+        }
+      }
+    },
+    {
+      "chart_type": "line_graph",
+      "name_cn": "折线图作文模板",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "描述趋势变化",
+          "template": "The line graph demonstrates the changes/trend in [主题] from [起始年] to [终止年]. As is shown, [整体趋势描述]. More specifically, [起始值], then [变化过程], and eventually [最终值/趋势]. A turning point can be observed in [年份], when [转折描述].",
+          "example": "The line graph demonstrates the changes in the number of museum visitors from 2013 to 2017. As is shown, there was a consistent upward trend over the five-year period. More specifically, the number started at approximately 6 million in 2013, then climbed steadily, and eventually reached around 9 million in 2017, representing a 50% increase."
+        },
+        "paragraph_2": {
+          "purpose": "分析趋势的原因",
+          "template": "There are several reasons behind this trend. To begin with, [原因1]. Furthermore, [原因2]. What is more, [原因3]."
+        },
+        "paragraph_3": {
+          "purpose": "预测/总结",
+          "template": "Taking the above factors into consideration, [总结]. It is reasonable to predict/expect that [预测趋势]. [进一步建议]."
+        }
+      }
+    },
+    {
+      "chart_type": "table",
+      "name_cn": "表格作文模板",
+      "framework": {
+        "paragraph_1": {
+          "purpose": "描述表格关键数据",
+          "template": "The table above provides data on [主题]. According to the figures, [关键数据1]. By comparison/In contrast, [关键数据2]. It is worth noting that [最显著特点].",
+          "example": "The table above provides data on the changes in China's urban and rural populations from 1990 to 2010. According to the figures, the urban population rose from 300 million in 1990 to 670 million in 2010. By comparison, the rural population decreased from 840 million to 680 million over the same period. It is worth noting that the urban population surpassed the rural population for the first time around 2010."
+        },
+        "paragraph_2": {
+          "purpose": "分析数据变化的原因",
+          "template": "This phenomenon can be explained by the following reasons. Firstly, [原因1]. Secondly, [原因2]. Additionally, [原因3]."
+        },
+        "paragraph_3": {
+          "purpose": "总结/预测",
+          "template": "In summary, [总结数据反映的趋势/现象]. Looking ahead, [预测]. Therefore, [建议]."
+        }
+      }
+    }
+  ],
+  "universal_analysis_reasons": {
+    "description": "通用的原因分析角度，适用于各类图表作文",
+    "angles": [
+      {
+        "angle": "经济发展",
+        "expressions": [
+          "With the rapid economic growth, people's living standards have improved significantly.",
+          "The booming economy has provided people with more disposable income.",
+          "Economic development has fundamentally changed people's consumption patterns."
+        ]
+      },
+      {
+        "angle": "科技进步",
+        "expressions": [
+          "The advancement of technology, especially the Internet, has greatly influenced ...",
+          "The widespread use of smartphones and social media has ...",
+          "Technological innovation has made ... more accessible and convenient."
+        ]
+      },
+      {
+        "angle": "观念转变",
+        "expressions": [
+          "People's attitudes toward ... have undergone a significant change.",
+          "There has been a growing awareness of the importance of ...",
+          "The shift in people's values and priorities has contributed to ..."
+        ]
+      },
+      {
+        "angle": "政策引导",
+        "expressions": [
+          "The government has introduced a series of policies to promote ...",
+          "Favorable government policies have played a crucial role in ...",
+          "With the support of national policies, ..."
+        ]
+      },
+      {
+        "angle": "社会环境",
+        "expressions": [
+          "The intense competition in today's society has driven people to ...",
+          "Urbanization has led to significant changes in ...",
+          "Peer influence and social norms have also played a role in ..."
+        ]
+      },
+      {
+        "angle": "教育因素",
+        "expressions": [
+          "The expansion of higher education has ...",
+          "Educational institutions have placed greater emphasis on ...",
+          "Better access to education has raised public awareness of ..."
+        ]
+      }
+    ]
+  }
+}

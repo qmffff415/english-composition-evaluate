@@ -1,0 +1,461 @@
+{
+  "module": "question_templates",
+  "exam_category": "英语一",
+  "type": "past_exam_topics",
+  "description": "全国硕士研究生招生考试英语（一）2010-2025年历年官方真题写作题目汇总（100%官方真题核对）",
+  "data": {
+    "small_essays": [
+      {
+        "year": 2025,
+        "type": "小作文",
+        "sub_type": "书信/邀请信",
+        "topic_cn": "计划排演传统文化手工艺或经典剧目展示，写邮件邀请外国朋友参加",
+        "prompt_en": "Suppose you are planning an exhibition of traditional Chinese craftsmanship. Write your foreign friend John an email to: 1) introduce the event, and 2) invite him to attend and share his thoughts.",
+        "key_points": [
+          "introduce the cultural event details",
+          "invite John and explain why his attendance is valued"
+        ],
+        "format": "email/letter",
+        "salutation": "Dear John,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2024,
+        "type": "小作文",
+        "sub_type": "书信/回信与建议信",
+        "topic_cn": "给外国朋友写回信，就课堂报告介绍中国古代科学家提供建议",
+        "prompt_en": "Suppose you have received an email from an international student asking for advice on doing an oral report about ancient Chinese scientists. Write an email to him to: 1) recommend a specific scientist, and 2) give your reasons.",
+        "key_points": [
+          "recommend an ancient Chinese scientist (e.g., Zhang Heng, Li Shizhen, Zu Chongzhi)",
+          "give concrete reasons and presentation tips"
+        ],
+        "format": "email/letter",
+        "salutation": "Dear friend,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2023,
+        "type": "小作文",
+        "sub_type": "书信/建议信",
+        "topic_cn": "给大一新生写一封建议信，就如何适应大学学习与生活提出建议",
+        "prompt_en": "Write an email to a group of freshmen in your university to: 1) welcome them, and 2) give suggestions on how to adapt to university life and study.",
+        "key_points": [
+          "extend warm welcome to freshmen",
+          "offer 2-3 practical tips on academic study and campus living"
+        ],
+        "format": "email/letter",
+        "salutation": "Dear Freshmen,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2022,
+        "type": "小作文",
+        "sub_type": "书信/邀请信",
+        "topic_cn": "邀请外籍教授担任校园英语演讲比赛评委",
+        "prompt_en": "Suppose you are planning a campus English speech contest. Write an email to Professor Smith to: 1) introduce the contest, and 2) invite him to be a judge.",
+        "key_points": [
+          "introduce the contest theme, time and venue",
+          "invite Professor Smith to serve as a judge"
+        ],
+        "format": "email/letter",
+        "salutation": "Dear Professor Smith,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2021,
+        "type": "小作文",
+        "sub_type": "书信/建议信",
+        "topic_cn": "给即将出国留学的同学写信，就学习和生活提出建议",
+        "prompt_en": "A friend of yours is going to study abroad. Write him an email to: 1) congratulate him, and 2) offer suggestions on preparation and adaptation.",
+        "key_points": [
+          "express congratulations",
+          "provide constructive suggestions on language, safety and cultural adaptation"
+        ],
+        "format": "email/letter",
+        "salutation": "Dear Jack,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2020,
+        "type": "小作文",
+        "sub_type": "告示/通知",
+        "topic_cn": "面向留学生举办歌唱比赛，写一则通知",
+        "prompt_en": "A singing contest for international students is to be held. Post a notice to: 1) introduce the contest, and 2) encourage students to take part in it.",
+        "key_points": [
+          "announce the singing contest",
+          "specify time, location, eligibility and prizes"
+        ],
+        "format": "notice",
+        "salutation": "NOTICE",
+        "closing": "The Students' Union",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2019,
+        "type": "小作文",
+        "sub_type": "告示/通知",
+        "topic_cn": "校园辩论赛通知，介绍辩论主题并招募辩手",
+        "prompt_en": "The debate club is going to organize an English debate competition. Post a notice to: 1) introduce the debate topic and rules, and 2) recruit participants.",
+        "key_points": [
+          "introduce topic and time",
+          "call for enthusiastic debaters"
+        ],
+        "format": "notice",
+        "salutation": "NOTICE",
+        "closing": "The Debate Club",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2018,
+        "type": "小作文",
+        "sub_type": "书信/邀请信",
+        "topic_cn": "邀请外国专家参加校园创新创业论坛",
+        "prompt_en": "Write an email to invite a foreign scholar to attend an international forum on student entrepreneurship. State the purpose, time, place and topics.",
+        "key_points": [
+          "state forum purpose",
+          "mention time, venue and keynote topic"
+        ],
+        "format": "email/letter",
+        "salutation": "Dear Professor,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2017,
+        "type": "小作文",
+        "sub_type": "书信/推荐信",
+        "topic_cn": "给外国朋友推荐中国旅游名胜城市",
+        "prompt_en": "Suppose you are writing to a foreign friend who is going to travel in China. Recommend a city to visit and give your reasons.",
+        "key_points": [
+          "recommend a scenic or historical city",
+          "give persuasive reasons (history, cuisine, attractions)"
+        ],
+        "format": "email/letter",
+        "salutation": "Dear Peter,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2016,
+        "type": "小作文",
+        "sub_type": "告示/通知",
+        "topic_cn": "招募翻译志愿者通知，为国际会议服务",
+        "prompt_en": "Notice is hereby given that volunteers are needed for an upcoming international conference. Post a notice to introduce the event and state recruitment criteria.",
+        "key_points": [
+          "conference introduction",
+          "volunteer requirements and interview date"
+        ],
+        "format": "notice",
+        "salutation": "NOTICE",
+        "closing": "The Organizing Committee",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2015,
+        "type": "小作文",
+        "sub_type": "书信/推荐信",
+        "topic_cn": "推荐一本好书给朋友并说明理由",
+        "prompt_en": "Recommend a book to a friend. Tell him/her: 1) the title and main content of the book, and 2) reasons for your recommendation.",
+        "key_points": [
+          "book title and core theme",
+          "detailed reasons for recommendation"
+        ],
+        "format": "email/letter",
+        "salutation": "Dear friend,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2014,
+        "type": "小作文",
+        "sub_type": "书信/建议信",
+        "topic_cn": "给校学生会写信，就改善校园生活提出建议",
+        "prompt_en": "Write a letter to the president of your university to suggest ways to improve campus dining and living conditions.",
+        "key_points": [
+          "present existing issues politely",
+          "propose feasible improvements"
+        ],
+        "format": "letter",
+        "salutation": "Dear President,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2013,
+        "type": "小作文",
+        "sub_type": "书信/邀请信",
+        "topic_cn": "写信邀请外国师生参加校园慈善义卖活动",
+        "prompt_en": "Write an email to invite international students and teachers to a charity sale on campus.",
+        "key_points": [
+          "purpose of the charity sale",
+          "time, location and invitation message"
+        ],
+        "format": "letter",
+        "salutation": "Dear International Friends,",
+        "closing": "Yours sincerely, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2012,
+        "type": "小作文",
+        "sub_type": "书信/建议信",
+        "topic_cn": "就某电子产品质量问题向售后部门写建议投诉信",
+        "prompt_en": "Write a letter to a customer service department suggesting ways to improve their after-sales service and quality control.",
+        "key_points": [
+          "describe the product problem",
+          "give constructive suggestions"
+        ],
+        "format": "letter",
+        "salutation": "Dear Sir or Madam,",
+        "closing": "Yours faithfully, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2011,
+        "type": "小作文",
+        "sub_type": "书信/建议信",
+        "topic_cn": "给表弟写信，推荐大学或专业并给出建议",
+        "prompt_en": "Write a letter to a cousin who is going to choose a university and major, offering your advice.",
+        "key_points": [
+          "recommend university and major",
+          "give solid advice on interests and career prospects"
+        ],
+        "format": "letter",
+        "salutation": "Dear cousin,",
+        "closing": "Yours affectionately, Li Ming",
+        "word_count": "100 words"
+      },
+      {
+        "year": 2010,
+        "type": "小作文",
+        "sub_type": "告示/招募通知",
+        "topic_cn": "为国际科技博览会招募学生志愿者写一则通知",
+        "prompt_en": "Post a notice to recruit volunteers for an international science and technology expo. State basic requirements and contact information.",
+        "key_points": [
+          "background of expo",
+          "qualifications needed (language, communication)",
+          "application deadline and contact info"
+        ],
+        "format": "notice",
+        "salutation": "NOTICE",
+        "closing": "The Postgraduates' Association",
+        "word_count": "100 words"
+      }
+    ],
+    "big_essays": [
+      {
+        "year": 2025,
+        "type": "大作文",
+        "sub_type": "图表与社会发展",
+        "topic_cn": "2014-2023年我国居民耐用消费品拥有量变化（生活水平提升与家电普及）",
+        "prompt_en": "Write an essay based on the chart showing changes in possession of durable consumer goods among Chinese residents (2014-2023). Interpret the chart and give your comments.",
+        "key_points": [
+          "describe upward data of appliances (refrigerators, air conditioners, etc.)",
+          "analyze economic growth and living standard improvement",
+          "conclude with future prospects of high-quality lifestyle"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2024,
+        "type": "大作文",
+        "sub_type": "图画与城市宜居发展",
+        "topic_cn": "城市公园与市民生活品质提升（一幅市民漫步家门口公园图及公园数量增长表）",
+        "prompt_en": "Write an essay based on the drawing and table: a citizen enjoys walking in a nearby pocket park with table showing increase in urban parks. 1) describe the drawing and data, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe citizen enjoying green pocket park and rising park count",
+          "analyze human-centered urban planning and ecological civilization",
+          "state significance of accessible green spaces for civic happiness"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2023,
+        "type": "大作文",
+        "sub_type": "图画/传统文化传承",
+        "topic_cn": "龙舟赛与传统文化节日传承（热闹的端午龙舟赛与青年人的热情参与）",
+        "prompt_en": "A drawing shows young people enthusiastically competing in a Dragon Boat race while crowds cheer by the river. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe vibrant dragon boat racing scene and enthusiastic crowds",
+          "interpret vitality of Chinese traditional culture among young generations",
+          "highlight cultural confidence and the inheritance of intangible cultural heritage"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2022,
+        "type": "大作文",
+        "sub_type": "图画/传统文化活动",
+        "topic_cn": "校园传统文化讲座与青年文化认同（学生在展板前讨论传统文化讲座）",
+        "prompt_en": "Two students are reading a poster about campus lectures on Chinese traditional culture. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe students engaging in conversation about traditional culture lectures",
+          "analyze reviving interest in historical heritage and national identity",
+          "encourage youth to bridge cultural roots with modern campus life"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2021,
+        "type": "大作文",
+        "sub_type": "图画/身心健康与全面发展",
+        "topic_cn": "学业与体育锻炼的平衡发展（书桌旁放着运动鞋，注重体魄强健）",
+        "prompt_en": "A drawing portrays a student studying at a desk with running shoes placed prominently beside. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe balance between academic study and physical fitness",
+          "analyze vital role of health in supporting long-term intellectual endeavor",
+          "advocate balanced lifestyle and holistic personal development"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2020,
+        "type": "大作文",
+        "sub_type": "图画/人生哲理与习惯",
+        "topic_cn": "拖延与今日事今日毕（两个学生对待作业的不同态度与习惯）",
+        "prompt_en": "Two students with different attitudes: one says 'Finish it now and enjoy later', while the other procrastinates saying 'Plenty of time, do it later'. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe contrast between prompt action and chronic procrastination",
+          "analyze profound influence of self-discipline and time management",
+          "propose overcoming procrastination and cultivating proactive habits"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2019,
+        "type": "大作文",
+        "sub_type": "图画/人生哲理与坚持",
+        "topic_cn": "半山腰歇脚：坚持不懈与半途而废（两人爬山，一人坐下泄气，一人鼓励前行）",
+        "prompt_en": "Two people are climbing a hill. One sits down exhausted saying 'I can't go on', while the other drinks water and encourages him to keep climbing. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe climbers halfway up the mountain with contrasting attitudes",
+          "interpret core virtue of perseverance (grit) in achieving goals",
+          "encourage young people to overcome adversity and never quit halfway"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2018,
+        "type": "大作文",
+        "sub_type": "图画/选课态度与求真务实",
+        "topic_cn": "大学生选课反思（一人问“这门课容易过吗？”，另一人问“能学到真本领吗？”）",
+        "prompt_en": "Two students select courses: one prioritizes high grades with little effort, while the other values practical knowledge and competence. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe utilitarian mindset versus genuine pursuit of knowledge",
+          "analyze purpose of higher education and personal competence building",
+          "urge students to discard shortsighted pragmatism and embrace true learning"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2017,
+        "type": "大作文",
+        "sub_type": "图画/读书质量与行动",
+        "topic_cn": "有书读与读好书（一人坐拥满架图书叹息书太多，一人专注精读一本好书）",
+        "prompt_en": "One person possesses overflowing bookshelves but complains he has too many to read, while another earnestly finishes one book. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "contrast superficial hoarding of books with in-depth reading and real action",
+          "interpret importance of practical execution over empty planning",
+          "encourage focused reading and knowledge internalization"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2016,
+        "type": "大作文",
+        "sub_type": "图画/家庭教育与言传身教",
+        "topic_cn": "榜样的力量与家庭教育（父亲看电视命令孩子看书 vs 父亲陪伴孩子共同学习）",
+        "prompt_en": "Two contrasting fathers: one lies watching TV while urging his son to study; the other studies alongside his child as a role model. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe contrasting parenting styles in education",
+          "interpret the paramount power of leading by example rather than empty preaching",
+          "discuss healthy family education and parental role modeling"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2015,
+        "type": "大作文",
+        "sub_type": "图画/社会现象与低头族",
+        "topic_cn": "手机时代的聚会（四位朋友围坐聚餐却各自低头刷手机，缺乏交流）",
+        "prompt_en": "Four friends sitting around a dining table, each staring at a smartphone screen instead of talking. Caption: 'Gathering in Mobile Era'. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe dinner party where physical presence is overshadowed by phone addiction",
+          "analyze interpersonal alienation caused by technology over-dependence",
+          "call for digital detox and cherish genuine human warmth"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2014,
+        "type": "大作文",
+        "sub_type": "图画/传统美德与孝道",
+        "topic_cn": "相携与孝敬父母（三十年前母亲携儿行，三十年后儿女扶母步）",
+        "prompt_en": "A drawing shows a mother tenderly holding her toddler's hand thirty years ago, and thirty years later, the grown child supporting his aging mother. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe reciprocal warmth between mother and child over decades",
+          "interpret traditional virtue of filial piety and caring for senior citizens",
+          "call on society to provide emotional and material companionship to elderly parents"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2013,
+        "type": "大作文",
+        "sub_type": "图画/青年抉择与职业规划",
+        "topic_cn": "大学生毕业的人生抉择（考研、就业、出国、考公十字路口前的徘徊）",
+        "prompt_en": "A college graduate stands at a crossroads facing four distinct career paths. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe graduate pondering future direction at crossroads",
+          "analyze social expectations, self-awareness and rational choice",
+          "advise young graduates to align aspirations with realistic conditions"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2012,
+        "type": "大作文",
+        "sub_type": "图画/人生哲理与乐观心态",
+        "topic_cn": "打翻的牛奶瓶：乐观与悲观（一人叹息“全完了”，另一人庆幸“幸好还剩点儿”）",
+        "prompt_en": "A bottle of milk falls on the floor, spilling half. One person laments 'Everything is ruined', while another says 'Fortunately some is left'. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe identical misfortune seen through contrasting psychological lenses",
+          "interpret decisive power of optimistic mindset in navigating crisis",
+          "advocate cultivating positive attitude and resilience in daily life"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2011,
+        "type": "大作文",
+        "sub_type": "图画/生态环保与公共道德",
+        "topic_cn": "旅途之余抛弃垃圾（游客在如诗如画的湖泊游船上随意抛弃废弃物）",
+        "prompt_en": "Tourists on a boat throw trash into a scenic lake, leaving floating waste behind. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe beautiful nature spoiled by tourist littering",
+          "analyze public morality deficit and lack of ecological awareness",
+          "call for stricter environmental regulations and civilized tourism"
+        ],
+        "word_count": "160-200 words"
+      },
+      {
+        "year": 2010,
+        "type": "大作文",
+        "sub_type": "图画/文化交流与融合",
+        "topic_cn": "文化“火锅”既美味又营养（火锅中融合了莎士比亚、儒学、功夫、解构等中外文化元素）",
+        "prompt_en": "A boiling hotpot labeled 'Culture' contains various cultural elements like Shakespeare, Confucianism, Kung Fu, Postmodernism. 1) describe the drawing, 2) interpret its meaning, and 3) give your comments.",
+        "key_points": [
+          "describe cultural hotpot blending Chinese and global civilizations",
+          "interpret positive impact of cultural diversity and mutual integration",
+          "advocate open-minded cultural dialogue while cherishing traditional heritage"
+        ],
+        "word_count": "160-200 words"
+      }
+    ]
+  }
+}

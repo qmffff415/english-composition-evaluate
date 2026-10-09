@@ -1,0 +1,139 @@
+{
+  "module": "writing_knowledge",
+  "type": "format_guidelines",
+  "subtype": "big_essay",
+  "description": "大作文（图表作文）格式规范和写作框架",
+  "format": {
+    "structure": "三段式",
+    "paragraphs": [
+      {
+        "paragraph": 1,
+        "name": "图表描述段",
+        "name_en": "Description Paragraph",
+        "purpose": "准确描述图表中的主要数据和趋势",
+        "suggested_words": "50-60",
+        "suggested_sentences": "3-4句",
+        "framework": [
+          "第1句：引出图表 + 概括主题（As is shown in the chart, ...）",
+          "第2-3句：描述主要数据/趋势（具体数据引用）",
+          "第4句（可选）：指出最显著特征或对比"
+        ],
+        "do": [
+          "明确指出图表类型和主题",
+          "选取最关键的2-3个数据点",
+          "描述主要趋势（上升/下降/波动/稳定）",
+          "使用恰当的图表描述词汇"
+        ],
+        "do_not": [
+          "不要罗列所有数据",
+          "不要在第一段就分析原因",
+          "不要编造数据（没有的数据不要写）",
+          "不要写太多，此段控制在50词左右"
+        ]
+      },
+      {
+        "paragraph": 2,
+        "name": "分析讨论段",
+        "name_en": "Analysis Paragraph",
+        "purpose": "分析数据背后的原因或探讨现象的意义",
+        "suggested_words": "60-80",
+        "suggested_sentences": "4-6句",
+        "framework": [
+          "第1句：过渡句，引出分析（Several factors contribute to this phenomenon.）",
+          "第2-3句：原因1 + 展开",
+          "第4-5句：原因2 + 展开",
+          "第6句（可选）：原因3 或补充说明"
+        ],
+        "do": [
+          "提出2-3个合理的原因",
+          "每个原因要有适当展开（1-2句）",
+          "确保分析与图表数据逻辑一致",
+          "使用衔接词使论述连贯"
+        ],
+        "do_not": [
+          "不要提出与数据矛盾的原因",
+          "不要列举过多原因导致每个都蜻蜓点水",
+          "不要使用过于主观或极端的论述",
+          "不要偏离图表主题"
+        ]
+      },
+      {
+        "paragraph": 3,
+        "name": "总结建议段",
+        "name_en": "Conclusion Paragraph",
+        "purpose": "总结全文，给出预测/建议/展望",
+        "suggested_words": "30-40",
+        "suggested_sentences": "2-3句",
+        "framework": [
+          "第1句：总结性概述（In conclusion / To sum up, ...）",
+          "第2句：给出建议/预测/展望",
+          "第3句（可选）：强化观点或展望未来"
+        ],
+        "do": [
+          "简洁有力地总结主要发现",
+          "给出合理的预测或可行的建议",
+          "语气得体，不过于绝对"
+        ],
+        "do_not": [
+          "不要引入新的论点",
+          "不要重复第一段的描述",
+          "不要过于简短（至少2句）",
+          "不要使用过于口语化的表达"
+        ]
+      }
+    ]
+  },
+  "word_count_guidelines": {
+    "requirement": "150词以上",
+    "recommended_range": "150-200词",
+    "paragraph_distribution": {
+      "paragraph_1": "约占总篇幅 30%（50-60词）",
+      "paragraph_2": "约占总篇幅 45%（60-80词）",
+      "paragraph_3": "约占总篇幅 25%（30-40词）"
+    },
+    "tips": [
+      "不要低于150词，否则会被扣分",
+      "不建议超过200词（可能影响时间分配）",
+      "确保三段结构完整",
+      "每段之间留空行"
+    ]
+  },
+  "chart_type_specific_tips": {
+    "bar_chart": {
+      "name_cn": "柱状图",
+      "description_focus": "比较不同项目之间的差异，或展示同一项目在不同时间点的变化",
+      "key_expressions": [
+        "The bar chart illustrates/compares ...",
+        "The tallest/shortest bar represents ...",
+        "There is a notable gap/difference between ... and ..."
+      ]
+    },
+    "line_graph": {
+      "name_cn": "折线图",
+      "description_focus": "展示数据随时间的变化趋势",
+      "key_expressions": [
+        "The line graph shows the trend/changes in ... over the period from ... to ...",
+        "The line rose/fell steadily/sharply during ...",
+        "There was a turning point in [year] when ..."
+      ]
+    },
+    "pie_chart": {
+      "name_cn": "饼图",
+      "description_focus": "展示各部分在整体中所占的比例",
+      "key_expressions": [
+        "The pie chart shows the proportion/percentage of ...",
+        "... accounts for the largest/smallest share at ...%",
+        "... and ... together make up over/nearly half of the total"
+      ]
+    },
+    "table": {
+      "name_cn": "表格",
+      "description_focus": "展示多维度的精确数据，需要选取关键数据进行描述",
+      "key_expressions": [
+        "The table provides data on ...",
+        "According to the table, ... ranked first/highest with ...",
+        "The figures reveal that ... increased/decreased from ... to ..."
+      ]
+    }
+  }
+}

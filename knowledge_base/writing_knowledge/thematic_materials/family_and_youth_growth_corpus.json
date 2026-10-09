@@ -1,0 +1,88 @@
+{
+  "module": "writing_knowledge",
+  "category": "thematic_materials",
+  "exam_category": "英语一",
+  "theme": "家庭教育与青年成长担当 (Family Education & Youth Growth)",
+  "description": "考研英语一重点母题——家庭教育、言传身教、父母榜样、青年人生抉择、身心均衡发展深度论据素材库",
+  "sub_themes": [
+    {
+      "name": "言传身教与榜样力量 (Leading by Example & Parental Role Modeling)",
+      "applicable_topics": ["2016年父亲看电视与陪伴读书", "家庭教育方式", "言行一致", "偶像与示范"],
+      "core_vocabulary": [
+        {"word": "lead by example", "meaning": "以身作则，言传身教", "collocation": "parents should lead by example rather than by coercion (父母应当以身作则而非施加强迫)"},
+        {"word": "role model", "meaning": "榜样，楷模", "collocation": "serve as an inspiring role model (树立令人奋进的榜样)"},
+        {"word": "preaching", "meaning": "空洞说教", "collocation": "empty verbal preaching (空洞的言语说教)"},
+        {"word": "hypocritical", "meaning": "虚伪的，言行不一的", "collocation": "avoid hypocritical double standards (避免双重标准的言行不一)"},
+        {"word": "subtle influence", "meaning": "潜移默化的影响", "collocation": "exert a profound and subtle influence (施加深远而潜移默化的影响)"},
+        {"word": "companionship", "meaning": "良性陪伴", "collocation": "constructive educational companionship (建设性的教育陪伴)"}
+      ],
+      "proverbs_and_quotes": [
+        {
+          "quote": "Example is not the main thing in influencing others; it is the only thing.",
+          "author": "Albert Schweitzer (阿尔伯特·史怀哲，诺贝尔和平奖得主)",
+          "translation": "榜样并非影响他人的主要手段，它是唯一的手段。",
+          "usage": "2016年家庭教育题最具杀伤力的核心名言"
+        },
+        {
+          "quote": "Children have never been very good at listening to their elders, but they have never failed to imitate them.",
+          "author": "James Baldwin (詹姆斯·鲍德温)",
+          "translation": "孩子们从来不善于听从长辈的说教，但在模仿长辈方面却从未失手。",
+          "usage": "用于论述父母一举一动对子女的深刻塑造"
+        }
+      ],
+      "argument_points": [
+        {
+          "point_en": "Parental commands delivered from a comfortable sofa invariably fall on deaf ears, while a quiet habit of reading cultivated alongside a child speaks louder than thousands of reprimands.",
+          "point_cn": "坐在安乐沙发上发号施令的家长往往换来孩子的充耳不闻，而在孩子身旁静心伴读的习惯却远胜千言万语的训诫。"
+        },
+        {
+          "point_en": "Effective parenting is not an exercise of authoritarian power, but an art of mutual growth where parents inspire virtues through their own conduct.",
+          "point_cn": "卓有成效的家庭教育绝非威权权力的施展，而是一门共同成长的艺术——父母通过自身躬行来启发孩子的美德。"
+        }
+      ],
+      "sample_sentence_patterns": [
+        "Actions speak incomparably louder than words: what children absorb most deeply is not what parents lecture, but what parents embody in daily conduct.",
+        "It is hypocrisy of the worst kind to demand rigorous academic diligence from one's offspring while indulging oneself in ceaseless entertainment."
+      ]
+    },
+    {
+      "name": "青年抉择与身心全面发展 (Youth Choices & Holistic Wellbeing)",
+      "applicable_topics": ["2013年毕业十字路口", "2021年学业与跑步鞋", "身心平衡", "职业规划"],
+      "core_vocabulary": [
+        {"word": "crossroads", "meaning": "人生的十字路口", "collocation": "stand at the pivotal crossroads of life (伫立于人生的关键十字路口)"},
+        {"word": "holistic development", "meaning": "全面发展", "collocation": "strive for holistic intellectual and physical development (追求德智体全面发展)"},
+        {"word": "self-actualization", "meaning": "自我实现", "collocation": "pursue authentic self-actualization (追求真实的自我实现)"},
+        {"word": "sound mind in a sound body", "meaning": "健全的精神寓于健康的体魄", "collocation": "foster a sound mind in a sound body (培育身心健全的自我)"},
+        {"word": "sober rationality", "meaning": "清醒的理性", "collocation": "make choices with sober rationality (保持清醒理性作出抉择)"}
+      ],
+      "proverbs_and_quotes": [
+        {
+          "quote": "A sound mind in a sound body is a short but full description of a happy state in this world.",
+          "author": "John Locke (约翰·洛克)",
+          "translation": "健全的精神寓于健康的身体，是对世间幸福状态简明而完整的描摹。",
+          "usage": "用于2021年强身健体与学业平衡大作文"
+        },
+        {
+          "quote": "It is not in the stars to hold our destiny but in ourselves.",
+          "author": "William Shakespeare (莎士比亚)",
+          "translation": "决定我们命运的并非苍穹星宿，而是我们自身。",
+          "usage": "用于青年自主抉择与奋发图强"
+        }
+      ],
+      "argument_points": [
+        {
+          "point_en": "Academic distinction without robust physical vitality is akin to a skyscraper erected on quicksand; physical wellness forms the ultimate foundation of enduring intellect.",
+          "point_cn": "缺乏强健体魄支撑的学术卓越宛如建在流沙上的摩天大厦；身体健康才是持久智慧的坚实根基。"
+        },
+        {
+          "point_en": "When navigating perplexing career crossroads, young graduates must balance societal demands with inner passion, anchoring decisions on clear self-awareness rather than blind conformity.",
+          "point_cn": "在纷繁迷茫的职业十字路口前，青年学子必须兼顾社会需求与内心热情，基于清醒的自我认知而非盲目随波逐流作出抉择。"
+        }
+      ],
+      "sample_sentence_patterns": [
+        "Far from mutually exclusive rivals, vigorous physical exercise and arduous academic pursuit are mutually reinforcing partners on the road to success.",
+        "Rather than being paralyzed by the uncertainty of diverse career avenues, graduates should muster courage, assess realistic aptitudes, and stride forward with conviction."
+      ]
+    }
+  ]
+}
